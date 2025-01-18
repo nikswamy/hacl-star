@@ -14,6 +14,7 @@ open Vale.Arch.Heap
 open Vale.Arch.Types
 open Vale.Def.Sel
 open Vale.SHA2.Wrapper
+#set-options "--ext context_pruning"
 
 let (.[]) = Map.sel
 let (.[]<-) = Map.upd

@@ -108,7 +108,7 @@
         "typing_tok_Lib.IntTypes.U32@tok", "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "686040549c46e212d9c7292ebd010f7e"
+      "74b37e11cd11cfc0403df86bdca6c661"
     ],
     [
       "Hacl.Impl.Ed25519.PointConstants.make_g",
@@ -235,7 +235,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "0b2c4dc8d65200af976dc0bb9122e258"
+      "69297d1a5c2032281d04312128148565"
     ]
   ]
 ]

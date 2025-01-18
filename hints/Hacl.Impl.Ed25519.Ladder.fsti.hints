@@ -72,7 +72,7 @@
         "typing_tok_Lib.IntTypes.U64@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "92d3852522c0444b706e7d99ecab11e2"
+      "ba15ce2f1ed37703464960fedf531d1a"
     ],
     [
       "Hacl.Impl.Ed25519.Ladder.point_negate_mul_double_g_vartime",
@@ -139,7 +139,7 @@
         "typing_tok_Lib.IntTypes.U64@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "82054ffd2478b5847a5706e9fbba2eab"
+      "3c6aed3855616380025eb3dc4784b580"
     ]
   ]
 ]

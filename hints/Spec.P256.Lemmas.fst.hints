@@ -34,7 +34,7 @@
         "typing_Spec.P256.PointOps.prime"
       ],
       0,
-      "d6577414b40c3fdbfe0e1c229cf9a0a0"
+      "071dcbd42c3d5610712343117c8b2870"
     ],
     [
       "Spec.P256.Lemmas.aff_point_at_inf_lemma",
@@ -53,7 +53,7 @@
         "typing_Prims.int"
       ],
       0,
-      "2660f558a07f7247e362584bf4b29ecd"
+      "dd972861885d9198f1989ec85812208f"
     ],
     [
       "Spec.P256.Lemmas.aff_point_add_comm_lemma",
@@ -72,7 +72,7 @@
         "typing_Prims.int"
       ],
       0,
-      "cf03ec74382f056a62d4daabff5020f5"
+      "24d91d54b27528161d2d2f50ba8897a5"
     ]
   ]
 ]

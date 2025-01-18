@@ -8,7 +8,7 @@
       0,
       [ "@query" ],
       0,
-      "bf98188eb92ba2edd4236478fe442c4c"
+      "81abb6ac89600c04c98f3f152b694b07"
     ],
     [
       "Hacl.Spec.BignumQ.Definitions.qelem_fits5",
@@ -27,7 +27,7 @@
         "refinement_interpretation_Tm_refine_caa7cce7201a03ddbf992aed7f297d2b"
       ],
       0,
-      "43e14d158b27ee26d954fac909e564c5"
+      "08b3123f83dd24a79bd405e46f77a4c4"
     ],
     [
       "Hacl.Spec.BignumQ.Definitions.qelem_wide_fits5",
@@ -51,7 +51,7 @@
         "refinement_interpretation_Tm_refine_3288e291c3e74db81fa23a7d972c762d"
       ],
       0,
-      "e15e848314cf8a7568e9d7b9f36c6512"
+      "9155321c7f6be5c277fa5582d232ceaa"
     ],
     [
       "Hacl.Spec.BignumQ.Definitions.as_nat5",
@@ -76,7 +76,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "ec9cf972035a454c1f2cd4ec73a941f8"
+      "298a0f804fcc7bddb2d86fa7b1bccb80"
     ],
     [
       "Hacl.Spec.BignumQ.Definitions.wide_as_nat5",
@@ -106,7 +106,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "b1784010f6b73a0febe4581520326e85"
+      "1083e30f522bd11818007fd404197a8c"
     ]
   ]
 ]

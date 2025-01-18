@@ -24,7 +24,7 @@
         "typing_Lib.IntTypes.unsigned"
       ],
       0,
-      "c7c81187acb15ceaeb48d5137ca3f3f7"
+      "d72414004b6ee3800d975c7db9aa5b06"
     ],
     [
       "Vale.Math.Poly2.Galois.to_felem",
@@ -46,7 +46,7 @@
         "typing_Lib.IntTypes.unsigned"
       ],
       0,
-      "e24576cbb2d440028aae16ef6cfdd50b"
+      "03d710333af6a441cad184d79fa2b7f6"
     ],
     [
       "Vale.Math.Poly2.Galois.irred_poly",
@@ -63,7 +63,7 @@
         "refinement_interpretation_Tm_refine_de8080fdc4bd6678af723874a7d70466"
       ],
       0,
-      "ef99d815becb506466c5e7f6d9ae4681"
+      "80c5df4257f035a03aae9ad22ccfab56"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_to_poly_degree",
@@ -112,7 +112,7 @@
         "typing_Vale.Math.Poly2_s.zero", "typing_tok_Lib.IntTypes.SEC@tok"
       ],
       0,
-      "2c58cc7a513c2e1c765da3161967faaa"
+      "1163e52e79527b947fda1f1d608cd901"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_irred_degree",
@@ -145,7 +145,7 @@
         "typing_Vale.Math.Poly2_s.monomial"
       ],
       0,
-      "5abba4ec622e66cf1633dee2f7a67db0"
+      "d104bbb268c9543fbccce497240ba1e8"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_poly_felem",
@@ -184,7 +184,7 @@
         "typing_Prims.bool", "typing_Vale.Math.Poly2_s.poly_index"
       ],
       0,
-      "fd8ba8324f5152b179df84246009d4b5"
+      "848ade454a5eb3095527c5dc4025000f"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_felem_poly",
@@ -231,7 +231,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok"
       ],
       0,
-      "04a0291da0728b6a90d069cfc76ef806"
+      "0c4e8288d584aa6a727dfc59ee576d15"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_zero",
@@ -284,7 +284,7 @@
         "typing_Vale.Math.Poly2_s.zero", "typing_tok_Lib.IntTypes.SEC@tok"
       ],
       0,
-      "47e4fda1f4b9845f3e20c83e7bf4383c"
+      "ed7587686129342be76c66ca89e1a7e4"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_one",
@@ -349,7 +349,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok"
       ],
       0,
-      "57e178ad4976812527a796296db748b4"
+      "355c252532a6b0df2bda1a1af6fd0353"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_add",
@@ -403,7 +403,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok"
       ],
       0,
-      "ac33b351c92e963f39f2e8149372e4b6"
+      "d94af3c5107d5c62e1ea8fa5cb425e0d"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_and",
@@ -455,7 +455,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok"
       ],
       0,
-      "bd95e3de7707a9dd8e4133b3bc333059"
+      "0c797cd2abe3a13e6eecfc6abe15c640"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_or",
@@ -508,7 +508,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok"
       ],
       0,
-      "b851074473661910721469f962b0b4b3"
+      "27ea53138da02093069aaf0ed7a14594"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_shift_left",
@@ -525,7 +525,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "9fe29d75905143c4df057a15b30581c7"
+      "bc37a5003a8a28e7e88295a6da15bf0b"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_shift_left",
@@ -601,7 +601,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "5dce894f25e14760e345f4b963dfa29d"
+      "d1b4751c1c38e39484808ef4c9aa4d95"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_shift_right",
@@ -668,7 +668,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "dc7a3c0409bc6bcac48169dabe25a06d"
+      "6f582a6cbe881e1d365b0f71c7bfd51c"
     ],
     [
       "Vale.Math.Poly2.Galois.poly_length",
@@ -681,7 +681,7 @@
         "projection_inverse_BoxInt_proj_0"
       ],
       0,
-      "d35bc286319e3ebeb0888c9d89d50279"
+      "77a4a9a6e3f6d65a623f332ca27c4f62"
     ],
     [
       "Vale.Math.Poly2.Galois.mul_def",
@@ -694,7 +694,7 @@
         "projection_inverse_BoxInt_proj_0"
       ],
       0,
-      "80e1b9f429a006bb83b98b1bfd9ed480"
+      "4520debd698144de1f9b2770096012ac"
     ],
     [
       "Vale.Math.Poly2.Galois.pmul_rec",
@@ -710,7 +710,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "f165f06212f3f3d673a55411e467d0cd"
+      "bb7708757d009e9605a8a91f0715849c"
     ],
     [
       "Vale.Math.Poly2.Galois.mmul",
@@ -726,7 +726,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "ece558a4cb37849d64ce0472a89a4fc0"
+      "bd0fc0cbdb907a4f81df05a40158882b"
     ],
     [
       "Vale.Math.Poly2.Galois.smul_rec",
@@ -742,7 +742,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "96fce457096e557e778c4ef1edb15aaf"
+      "621512ab4d5dacd6964d99e62a94d9fd"
     ],
     [
       "Vale.Math.Poly2.Galois.fmul_iter",
@@ -786,7 +786,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "74cc474e7bb8713da59e1b406dc41759"
+      "3bbd1fd243c341c512c186994f9e0f1a"
     ],
     [
       "Vale.Math.Poly2.Galois.gmul_rec",
@@ -809,7 +809,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "3c5238efbacc1270fa2f0b05835bd430"
+      "f22373b3d37d8e954c4113ff9c409171"
     ],
     [
       "Vale.Math.Poly2.Galois.gmul",
@@ -826,7 +826,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "d71353ad243f34b161addb09958824b1"
+      "8b0f1c30c21c9ac778bfc4b620bd255f"
     ],
     [
       "Vale.Math.Poly2.Galois.fmul",
@@ -844,7 +844,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "9a721584b21ad987657cd41dc3a7d848"
+      "533d9fb5463c002d19fbdaaab1375b46"
     ],
     [
       "Vale.Math.Poly2.Galois.d",
@@ -853,7 +853,7 @@
       0,
       [ "@query" ],
       0,
-      "46f24d8829692ea693b3abd4f0da3376"
+      "2f86968ef72890d7472adda5d8dd4cc6"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_mul_element_rec",
@@ -893,7 +893,7 @@
         "typing_Vale.Math.Poly2_s.zero", "well-founded-ordering-on-nat"
       ],
       0,
-      "6be6124fdaf87f0b9f66ff873bfacd87"
+      "407ed02850e06a8734dfb1862cbce0eb"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_mul_element",
@@ -906,7 +906,7 @@
         "equation_Vale.Math.Poly2.Galois.mul_element"
       ],
       0,
-      "40121cb51f7c54508afd5fac507c2f22"
+      "bd807c573704568fe5fab13a0b436795"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_mul_def",
@@ -937,7 +937,7 @@
         "typing_Vale.Math.Poly2_s.zero"
       ],
       0,
-      "0484f8681a5254505f138b41ac18c24b"
+      "9182d01ec224876e616dd492e28b9b72"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_pmul_degree",
@@ -970,7 +970,7 @@
         "typing_Vale.Math.Poly2_s.shift", "well-founded-ordering-on-nat"
       ],
       0,
-      "b1f57fafe2dd901f5d4f24449c457fb6"
+      "7c3ad23f9663fea4bb3c0bf545451a0c"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_mul_pmul_k_base",
@@ -1015,7 +1015,7 @@
         "typing_Vale.Math.Poly2_s.shift", "well-founded-ordering-on-nat"
       ],
       0,
-      "5574dba6d3295b04f81a0f89730e29fe"
+      "b1bb25e6dcf0ec7ab5f9dba602eab667"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_mul_pmul_k_left",
@@ -1053,7 +1053,7 @@
         "typing_Vale.Math.Poly2_s.poly_index", "well-founded-ordering-on-nat"
       ],
       0,
-      "5e47511cad29c977cbfec26d7c7b71c3"
+      "4840e92b52c1761f87d0852eece00467"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_mul_pmul_k_right",
@@ -1097,7 +1097,7 @@
         "typing_Vale.Math.Poly2_s.poly_index", "well-founded-ordering-on-nat"
       ],
       0,
-      "0ccce9c396d3740cc58917dd0d4f9429"
+      "3536af0480337517b9d052b8872e324a"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_mul_pmul_k",
@@ -1128,7 +1128,7 @@
         "unit_typing"
       ],
       0,
-      "d3ee5895314e2aee33c38ae155fd16bd"
+      "aa1e499a8c78a53c78135b07c7bee134"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_mul_pmul",
@@ -1137,7 +1137,7 @@
       0,
       [ "@query" ],
       0,
-      "0a7eb9021b34c43b6368683eb6dd54de"
+      "ad93c63ed82582faf712a108e237cafe"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_mmul_pmul_rec",
@@ -1167,7 +1167,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "eddf7ce4b8a418a8b4b474306d4b109b"
+      "916c724b0b394768fc3d009f4a27aa21"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_mmul_pmul",
@@ -1198,7 +1198,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "0e2e601e8f5f463f1f23647219263c03"
+      "048070253a8e10e3f3e7428e4c3aa09a"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_mod_bit1",
@@ -1218,7 +1218,7 @@
         "typing_Vale.Math.Poly2_s.poly_index"
       ],
       0,
-      "5a79312edc0e8d02baabd5a4a693950f"
+      "1b47d82f75c9f9f1853d009dc2cce0e5"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_mod_shift1",
@@ -1254,7 +1254,7 @@
         "typing_Vale.Math.Poly2_s.shift", "typing_Vale.Math.Poly2_s.zero"
       ],
       0,
-      "36d0f8f377afcc034272705044ad55e8"
+      "365e65de02002a161b89429f8405e15f"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_mmul_smul_rec",
@@ -1295,7 +1295,7 @@
         "typing_Vale.Math.Poly2_s.shift", "well-founded-ordering-on-nat"
       ],
       0,
-      "85215bf7d93adbd727577f7e234a4084"
+      "48ea49d1b87c62d14d0db578b4e48e28"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_mmul_smul",
@@ -1307,7 +1307,7 @@
         "projection_inverse_FStar.Pervasives.Native.Mktuple3_@_1"
       ],
       0,
-      "fc545b007a1cb8e1a9c1de4ce4d601ae"
+      "07d419e6cc238a5bfe1042b26d144b11"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_eqmask_and",
@@ -1340,7 +1340,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok"
       ],
       0,
-      "1c3ef8c1532e13888a591572df7c606c"
+      "8c09f8dea3f153b7872edf087f6b147d"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_smul_gmul_rec",
@@ -1349,6 +1349,7 @@
       0,
       [
         "@MaxFuel_assumption", "@MaxIFuel_assumption",
+        "@fuel_correspondence_FStar.UInt.from_vec.fuel_instrumented",
         "@fuel_correspondence_FStar.UInt.to_vec.fuel_instrumented",
         "@fuel_correspondence_Prims.pow2.fuel_instrumented",
         "@fuel_correspondence_Vale.Math.Poly2.Galois.gmul_rec.fuel_instrumented",
@@ -1360,14 +1361,17 @@
         "binder_x_a4d91362c8910a3b2735ea125f316776_1",
         "binder_x_a4d91362c8910a3b2735ea125f316776_2",
         "binder_x_bb4e1c9af0265270f8e7a5f250f730e2_3", "bool_inversion",
-        "bool_typing", "constructor_distinct_Lib.IntTypes.U32",
+        "bool_typing", "constructor_distinct_Lib.IntTypes.SEC",
+        "constructor_distinct_Lib.IntTypes.U32",
         "disc_equation_Lib.IntTypes.S128",
         "equality_tok_Lib.IntTypes.PUB@tok",
         "equality_tok_Lib.IntTypes.SEC@tok",
         "equality_tok_Lib.IntTypes.U1@tok",
-        "equality_tok_Lib.IntTypes.U32@tok", "equation_FStar.UInt.fits",
-        "equation_FStar.UInt.max_int", "equation_FStar.UInt.min_int",
-        "equation_FStar.UInt.size", "equation_FStar.UInt.uint_t",
+        "equality_tok_Lib.IntTypes.U32@tok", "equation_FStar.BitVector.bv_t",
+        "equation_FStar.UInt.fits", "equation_FStar.UInt.max_int",
+        "equation_FStar.UInt.min_int", "equation_FStar.UInt.size",
+        "equation_FStar.UInt.uint_t",
+        "equation_Lib.IntTypes.Compatibility.nat_to_uint",
         "equation_Lib.IntTypes.bits", "equation_Lib.IntTypes.maxint",
         "equation_Lib.IntTypes.minint", "equation_Lib.IntTypes.range",
         "equation_Lib.IntTypes.unsigned", "equation_Lib.IntTypes.v",
@@ -1379,6 +1383,7 @@
         "equation_Vale.Math.Poly2.Galois.fmul_iter",
         "equation_Vale.Math.Poly2.Galois.irred_poly",
         "equation_Vale.Math.Poly2.Galois.mod_shift1",
+        "equation_Vale.Math.Poly2.Galois.to_felem",
         "equation_Vale.Math.Poly2.Galois.to_poly",
         "equation_with_fuel_FStar.UInt.to_vec.fuel_instrumented",
         "equation_with_fuel_Prims.pow2.fuel_instrumented",
@@ -1406,28 +1411,37 @@
         "projection_inverse_FStar.Pervasives.Native.Mktuple3_@_3",
         "projection_inverse_Spec.GaloisField.GF_@irred",
         "projection_inverse_Spec.GaloisField.GF_@t",
+        "refinement_interpretation_Tm_refine_150c87740acaa31f788a9e84dd5820c2",
+        "refinement_interpretation_Tm_refine_387e6d282145573240ab7b8a4b94cce5",
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2",
         "refinement_interpretation_Tm_refine_55adfa9be630cfb71b973b0871f4f9b2",
         "refinement_interpretation_Tm_refine_6c3579831eb81025494abc2bedea1303",
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5",
         "refinement_interpretation_Tm_refine_83845a86f2550cdf941eeb1d9b59602b",
+        "refinement_interpretation_Tm_refine_a3733b690d5dd2ed97d51fced970a53f",
         "refinement_interpretation_Tm_refine_aaa8221de098e46cfe83e5c3439e6ce8",
+        "refinement_interpretation_Tm_refine_d42552e96cd645f5dfd1fbc0490bbe36",
         "refinement_interpretation_Tm_refine_de8080fdc4bd6678af723874a7d70466",
         "refinement_interpretation_Tm_refine_f13070840248fced9d9d60d77bdae3ec",
         "token_correspondence_Prims.pow2.fuel_instrumented",
-        "typing_FStar.UInt.fits", "typing_Lib.IntTypes.bits",
-        "typing_Lib.IntTypes.logand", "typing_Lib.IntTypes.mk_int",
-        "typing_Lib.IntTypes.unsigned", "typing_Lib.IntTypes.v",
-        "typing_Spec.GaloisField.one", "typing_Spec.GaloisField.zero",
+        "typing_FStar.UInt.fits", "typing_FStar.UInt.from_vec",
+        "typing_Lib.IntTypes.Compatibility.nat_to_uint",
+        "typing_Lib.IntTypes.bits", "typing_Lib.IntTypes.logand",
+        "typing_Lib.IntTypes.mk_int", "typing_Lib.IntTypes.unsigned",
+        "typing_Lib.IntTypes.v", "typing_Spec.GaloisField.one",
+        "typing_Spec.GaloisField.zero",
         "typing_Vale.Math.Poly2.Galois.irred_poly",
+        "typing_Vale.Math.Poly2.Galois.to_felem",
         "typing_Vale.Math.Poly2.Galois.to_poly",
-        "typing_Vale.Math.Poly2_s.one",
+        "typing_Vale.Math.Poly2.poly_and", "typing_Vale.Math.Poly2_s.one",
         "typing_Vale.Math.Poly2_s.poly_index",
-        "typing_tok_Lib.IntTypes.PUB@tok", "typing_tok_Lib.IntTypes.SEC@tok",
-        "typing_tok_Lib.IntTypes.U32@tok", "well-founded-ordering-on-nat"
+        "typing_Vale.Math.Poly2_s.reverse",
+        "typing_Vale.Math.Poly2_s.to_seq", "typing_tok_Lib.IntTypes.PUB@tok",
+        "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U32@tok",
+        "well-founded-ordering-on-nat"
       ],
       0,
-      "a5e6a7929bd259b1aadb536dc768edc1"
+      "34bf5d37aa8f39b81dd58774eec699bd"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_smul_fmul",
@@ -1451,7 +1465,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "ba8c47c19eae03a92d661732c79ab24d"
+      "114f6d1726b01eded6cd5660c7989a0d"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_fmul_gmul",
@@ -1491,7 +1505,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "4fc5c6d92eb5c98d747b52d430ce4c96"
+      "dec035208f649d27fe5ba626f7933caf"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_fmul_fmul",
@@ -1538,7 +1552,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "d41a137b55157513501c25ba37efb3ad"
+      "6e1911f3620570a1fe005b4caffc26b3"
     ],
     [
       "Vale.Math.Poly2.Galois.lemma_mul",
@@ -1558,7 +1572,7 @@
         "typing_Vale.Math.Poly2.Galois.to_poly"
       ],
       0,
-      "812f3ee0805b05ac84aa155ffec86eda"
+      "a3f40a2aed7a36cbbf6c136bbcd54839"
     ]
   ]
 ]

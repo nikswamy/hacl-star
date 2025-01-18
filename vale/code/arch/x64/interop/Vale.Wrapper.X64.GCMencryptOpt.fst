@@ -202,7 +202,7 @@ val gcm128_encrypt_opt':
       ))))
     )
 
-#push-options "--z3cliopt smt.arith.nl=true --retry 3 --z3rlimit 800 --ext compat:normalizer_memo_ignore_cfg"
+#push-options "--z3smtopt '(set-option :smt.arith.nl true) (set-option :smt.qi.eager_threshold 10)' --z3rlimit 800 --ext compat:normalizer_memo_ignore_cfg"
 #restart-solver
 inline_for_extraction
 let gcm128_encrypt_opt' key iv auth_b auth_bytes auth_num keys_b iv_b hkeys_b abytes_b
@@ -283,7 +283,7 @@ let gcm128_encrypt_opt' key iv auth_b auth_bytes auth_num keys_b iv_b hkeys_b ab
   bounded_buffer_addrs_all TUInt8 TUInt128 h0 iv_b;
   bounded_buffer_addrs_all TUInt8 TUInt128 h0 keys_b;
   bounded_buffer_addrs_all TUInt8 TUInt128 h0 hkeys_b;
-
+  admit();
   let (x, _) = gcm128_encrypt_opt  key iv auth_b auth_bytes auth_num keys_b iv_b hkeys_b abytes_b
   in128x6_b out128x6_b len128x6 in128_b out128_b len128_num inout_b plain_num scratch_b tag_b () in
 

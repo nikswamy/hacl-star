@@ -108,7 +108,7 @@ let vm_lemma'
 let vm_lemma = as_t #(VSig.vale_sig_stdcall vm_pre vm_post) vm_lemma'
 
 let code_Memcpy = VM.va_code_Memcpy IA.win
-
+#push-options "--fuel 3"
 (* Here's the type expected for the memcpy wrapper *)
 [@__reduce__]
 let lowstar_Memcpy_t =
@@ -145,7 +145,6 @@ let itest (x:ib64) =
   assert (V.buffer_length (as_vale_immbuffer x) == B.length x / 8)
 
 module T = FStar.Tactics
-#reset-options "--using_facts_from '* -FStar.Tactics -FStar.Reflection'"
 module LBV = LowStar.BufferView.Up
 module DV = LowStar.BufferView.Down
 
@@ -245,11 +244,13 @@ let lowstar_aesni_t =
     (W.mk_prediction code_aesni aesni_dom [] (aesni_lemma code_aesni IA.win))
 
 (* And here's the check_aesni wrapper itself *)
+#push-options "--fuel 2"
 let lowstar_aesni : lowstar_aesni_t  =
   IX64.wrap_weak_stdcall
     (coerce code_aesni)
     aesni_dom
     (W.mk_prediction code_aesni aesni_dom [] (aesni_lemma code_aesni IA.win))
+#pop-options
 
 let lowstar_aesni_normal_t //: normal lowstar_aesni_t
   = as_normal_t #lowstar_aesni_t lowstar_aesni
@@ -324,7 +325,8 @@ let ta_post : VSig.vale_post ta_dom =
       (as_vale_immbuffer arg7)
       va_s1 f
 
-#reset-options "--max_fuel 0 --max_ifuel 0 --z3rlimit 100"
+#reset-options "--fuel 2 --max_ifuel 0 --z3rlimit 100 --query_stats"
+#restart-solver
 (* The vale lemma doesn't quite suffice to prove the modifies clause
    expected of the interop layer *)
 [@__reduce__]

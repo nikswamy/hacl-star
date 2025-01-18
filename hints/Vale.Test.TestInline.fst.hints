@@ -32,7 +32,7 @@
         "typing_Tm_abs_8642f603b94b81451c8a0248950a969e"
       ],
       0,
-      "979f92872688a7573b8a88b0b50dbd7b"
+      "4dff4ce43f4308c799f138c03417a53f"
     ],
     [
       "Vale.Test.TestInline.test_inline_mov_input",
@@ -51,7 +51,7 @@
         "typing_Prims.int"
       ],
       0,
-      "1d09b03b7fbf05b09c7910f034fc5258"
+      "de42761d4ea1034bce019437e3f3ac3b"
     ],
     [
       "Vale.Test.TestInline.test_inline_mov_add_input",
@@ -70,7 +70,7 @@
         "typing_Prims.int"
       ],
       0,
-      "913d32ec98281c8b7bf22fcd49fd80e6"
+      "4a6b19b35c63c79d957d9fab0e1a9eee"
     ],
     [
       "Vale.Test.TestInline.test_inline_mul_inputs",
@@ -89,7 +89,7 @@
         "typing_Prims.int"
       ],
       0,
-      "f77e2f2b4e0ad12d8838db91c4082e77"
+      "b3f20b6acd901a69ebfb662b56016ecf"
     ],
     [
       "Vale.Test.TestInline.test_inline_mov_mul_rax_100",
@@ -108,7 +108,7 @@
         "typing_Prims.int"
       ],
       0,
-      "8f2bf6d83d756b15193b32e65c8da723"
+      "c7650a2c67fafb6bed8058eba8806739"
     ],
     [
       "Vale.Test.TestInline.test_inline_mov_mul_inputs",
@@ -127,7 +127,7 @@
         "typing_Prims.int"
       ],
       0,
-      "037d19833e7a659e3905480bcbfd7aa1"
+      "e11dd79bd610aba0f17c0352b7b9d5dd"
     ],
     [
       "Vale.Test.TestInline.test_inline_comment_add",
@@ -146,7 +146,7 @@
         "typing_Prims.int"
       ],
       0,
-      "77ae296be6c31c2d962ecbadc89fdf3d"
+      "26776ddea60e55547b750a5599d54053"
     ],
     [
       "Vale.Test.TestInline.test_inline_same_line",
@@ -165,7 +165,7 @@
         "typing_Prims.int"
       ],
       0,
-      "d94b991e8bf4f37892e3fc70327d1025"
+      "fbc2378019894c201d93cacaa4767215"
     ],
     [
       "Vale.Test.TestInline.test_inline_same_line_newline",
@@ -184,7 +184,7 @@
         "typing_Prims.int"
       ],
       0,
-      "797364d5248d06d47b299634eb861283"
+      "5bc321b2ae53a80e5f8a615da972edeb"
     ]
   ]
 ]

@@ -30,7 +30,7 @@
         "typing_Vale.Def.Words_s.nat64"
       ],
       0,
-      "ad1b58977a7ac3e3227c93236346e2ab"
+      "e458285e6b1038cc90a154b09a992fc7"
     ],
     [
       "Vale.Wrapper.X64.Poly.math_aux",
@@ -63,7 +63,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.TUInt8@tok"
       ],
       0,
-      "cd91ca2845877b302950706864926cc4"
+      "9f1a0df77482ce219ed57d009e718435"
     ],
     [
       "Vale.Wrapper.X64.Poly.x64_poly1305",
@@ -120,7 +120,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.TUInt8@tok"
       ],
       0,
-      "71c5280fd41cb7c520c353f51d2652e7"
+      "37fa80a33336c839a5261c6cab9cc220"
     ]
   ]
 ]

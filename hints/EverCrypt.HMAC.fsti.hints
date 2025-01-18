@@ -30,7 +30,7 @@
         "typing_Spec.Hash.Definitions.word_length"
       ],
       0,
-      "a1a818c110a2f3d4934656e43f27ca05"
+      "619621b018dc3900a1f0ef8453f6e1a4"
     ],
     [
       "EverCrypt.HMAC.compute_st",
@@ -71,7 +71,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "a6553c4ac948863e7fe327b0c2cdf912"
+      "0ac2721e5500ecfbb8641fb8bd0ab271"
     ],
     [
       "EverCrypt.HMAC.compute",
@@ -89,7 +89,7 @@
         "typing_Spec.Hash.Definitions.is_shake"
       ],
       0,
-      "7d306d93f45167872cc3a950c071440b"
+      "a88958e35e39bc61abd03a5475d56ded"
     ]
   ]
 ]

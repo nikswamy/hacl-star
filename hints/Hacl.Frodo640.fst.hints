@@ -64,7 +64,7 @@
         "typing_tok_Spec.Frodo.Params.Frodo640@tok"
       ],
       0,
-      "4b06679a04841355a40253014f046d88"
+      "a73585b9e031736ae85d08de931b03f9"
     ],
     [
       "Hacl.Frodo640.crypto_secretkeybytes",
@@ -146,7 +146,7 @@
         "typing_tok_Spec.Frodo.Params.Frodo640@tok"
       ],
       0,
-      "610ed741aceed71145054f08297dbe3f"
+      "76e53d5232379f6c8f1618a7401061e2"
     ],
     [
       "Hacl.Frodo640.crypto_ciphertextbytes",
@@ -210,7 +210,7 @@
         "typing_tok_Spec.Frodo.Params.Frodo640@tok"
       ],
       0,
-      "d1bc639ed30daf7785ab1398224398f9"
+      "0cb6653d62e1de4c77a78f9f3be3382f"
     ],
     [
       "Hacl.Frodo640.crypto_kem_keypair",
@@ -224,7 +224,7 @@
         "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "56d22044a1dc34edfe1aa7dfb48b3a27"
+      "444db43f8f6126a7fefbd94d88cff113"
     ],
     [
       "Hacl.Frodo640.crypto_kem_keypair",
@@ -257,7 +257,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "3232dfabc3ceb92303d61a91fc0fce4f"
+      "db9f446911af8267ff71f95f9372a55b"
     ],
     [
       "Hacl.Frodo640.crypto_kem_enc",
@@ -271,7 +271,7 @@
         "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "ea89c5e1f6260f5580f2c8a9ebfc67e0"
+      "d1c6c36ffb4322c2677fd132c73a4c26"
     ],
     [
       "Hacl.Frodo640.crypto_kem_enc",
@@ -304,7 +304,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "37a24ab31c31f14ac66e61f6d35e2ead"
+      "b8f496cb246e46deaf60658575c6fff5"
     ],
     [
       "Hacl.Frodo640.crypto_kem_dec",
@@ -318,7 +318,7 @@
         "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "792a9f3f231162023699d12b6778de5c"
+      "8c0faeb7cba22affb5cedadfc508ce32"
     ],
     [
       "Hacl.Frodo640.crypto_kem_dec",
@@ -351,7 +351,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "2b416cd942d975d52a8cc03b44a481aa"
+      "3a28bf2ac0cebecc3f22740c9fba9ad1"
     ]
   ]
 ]

@@ -97,7 +97,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.TUInt64@tok", "unit_typing"
       ],
       0,
-      "604727118913931af56d3fbfb0bf52db"
+      "38788d7ca32390e31c55c5cd8f7eef77"
     ],
     [
       "Vale.Test.X64.Args.va_wpProof_Test",
@@ -209,7 +209,7 @@
         "typing_Vale.X64.State.update_reg", "unit_typing"
       ],
       0,
-      "b4641b56284f0bf359e29cf98e89786a"
+      "64315be9cafeff597eb03fefb8e62e6a"
     ],
     [
       "Vale.Test.X64.Args.va_quick_Test",
@@ -221,7 +221,7 @@
         "fuel_guarded_inversion_FStar.Pervasives.Native.tuple3"
       ],
       0,
-      "16a90a1940edc447caf1f7457f01c0f9"
+      "ba62eeca4aad3c1e4fb7c6dbe0e110f0"
     ]
   ]
 ]

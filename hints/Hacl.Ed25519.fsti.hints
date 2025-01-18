@@ -34,7 +34,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "9283626d27f043d72fd8244264a42976"
+      "76e98c1ea090f2cf2552e43e4684a2ae"
     ],
     [
       "Hacl.Ed25519.expand_keys",
@@ -84,7 +84,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "5668bed51fda14e096f84d6dc71c45b2"
+      "fa02b6d75ed873415b0c2b7537825e1f"
     ],
     [
       "Hacl.Ed25519.sign_expanded",
@@ -140,7 +140,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "f29e549994eccdeb5ada2ce121af2888"
+      "4eb9431f8175fa67a77d81fbadb6ccea"
     ],
     [
       "Hacl.Ed25519.sign",
@@ -173,7 +173,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "5a39c7302691df6dce03bcda222e1285"
+      "d6da0ce2300ff5ec219f2778b908079b"
     ],
     [
       "Hacl.Ed25519.verify",
@@ -208,7 +208,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "71446b478f67d845293c0c15a258e343"
+      "bfa4f0a17f844bff5af59733fc49faf8"
     ]
   ]
 ]

@@ -19,7 +19,7 @@
         "typing_Vale.Arch.BufferFriend.to_bytes"
       ],
       0,
-      "a9360231a855e5e4f8d3d84431336952"
+      "d0e44a94d9f36a3ca7c46172eba227e5"
     ],
     [
       "Vale.Arch.BufferFriend.lemma_of_bytes_slice",
@@ -36,7 +36,7 @@
         "typing_Vale.Arch.BufferFriend.of_bytes"
       ],
       0,
-      "a371e9e63c70bf20ea1c61e9e2466e27"
+      "c91219ece29a7f6790a660e927f87535"
     ],
     [
       "Vale.Arch.BufferFriend.lemma_up_as_seq_index",
@@ -76,7 +76,7 @@
         "typing_LowStar.BufferView.Up.get_view"
       ],
       0,
-      "64506c8b9161f7cb9048cb807adfbb53"
+      "6a12dc4bda5b10221122ba6c77f0c6e5"
     ],
     [
       "Vale.Arch.BufferFriend.lemma_n_to_le_is_nat_to_bytes",
@@ -92,7 +92,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "d1398121786b5c725d231ef49626f0dd"
+      "06bc5098d945bcb64e18d36d3901bc80"
     ],
     [
       "Vale.Arch.BufferFriend.lemma_n_to_be_is_nat_to_bytes",
@@ -108,7 +108,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "82241d7adaf9f2a0e342a5d889802591"
+      "8a69d4779cdcc78dd617277222da410f"
     ],
     [
       "Vale.Arch.BufferFriend.nat_from_bytes_le_is_four_to_nat",
@@ -127,7 +127,7 @@
         "refinement_interpretation_Tm_refine_238ab1c1f024338d3ef73a830870ee00"
       ],
       0,
-      "0b82fb7d9c3c2e6807576a8bf8afa92a"
+      "8c4f1b7cc624399a6f87e2fadee51a60"
     ],
     [
       "Vale.Arch.BufferFriend.nat_from_bytes_le_is_le_bytes_to_nat32",
@@ -158,7 +158,7 @@
         "typing_Vale.Def.Words_s.nat8"
       ],
       0,
-      "7d54689a1eaa6170b684e826af2744d2"
+      "89f12c46feaaf574dd8a6a91d15e5520"
     ],
     [
       "Vale.Arch.BufferFriend.nat_from_bytes_le_is_le_bytes_to_nat64",
@@ -189,7 +189,7 @@
         "typing_Vale.Def.Words_s.nat8"
       ],
       0,
-      "95b48ae17a0d8c8f8a139df645eedfe5"
+      "ec6e7e47a71d152b85d98dc276169649"
     ],
     [
       "Vale.Arch.BufferFriend.le_to_n_indexed_rec",
@@ -214,7 +214,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "4859f8a493b84f9243458354b02ea74b"
+      "c4c7bd036e3d5299503d0dc46e9b37fc"
     ],
     [
       "Vale.Arch.BufferFriend.le_to_n_indexed",
@@ -223,7 +223,7 @@
       0,
       [ "@query" ],
       0,
-      "8300902601106f93725530ac5b15fbf0"
+      "632766d1d88f4b23ca56d1b8ea9ea6d5"
     ],
     [
       "Vale.Arch.BufferFriend.lemma_le_to_n_indexed_rec",
@@ -242,7 +242,7 @@
         "typing_FStar.Seq.Base.length", "typing_FStar.UInt8.t"
       ],
       0,
-      "382841be69071a454c9c22160fabaa5d"
+      "e0657b699dd485322ece0798418839b8"
     ]
   ]
 ]

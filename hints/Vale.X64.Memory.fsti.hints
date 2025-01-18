@@ -25,7 +25,7 @@
         "typing_Prims.int"
       ],
       0,
-      "a967f45a8ac50655c65583950ea35219"
+      "004e2c07576aef4a4d4f3d1fac5ddea4"
     ],
     [
       "Vale.X64.Memory.buffer_read",
@@ -34,7 +34,7 @@
       0,
       [ "@query", "lemma_Vale.X64.Memory.buffer_length_buffer_as_seq" ],
       0,
-      "081900b44db72a8eb57c23fbae6ada50"
+      "cfacde1d384755dedc96468ed5fe7f10"
     ],
     [
       "Vale.X64.Memory.buffer_write",
@@ -43,7 +43,7 @@
       0,
       [ "@query", "lemma_Vale.X64.Memory.buffer_length_buffer_as_seq" ],
       0,
-      "6211b7e414808d7758c4d756ef5ae68c"
+      "5a703a8be64c2b51d88e75a0b0c136b0"
     ],
     [
       "Vale.X64.Memory.lemma_load_mem64",
@@ -52,7 +52,7 @@
       0,
       [ "@query" ],
       0,
-      "a6e3882d162eb37ad8c050a8f5e681c9"
+      "60b2066ba22733b1f0e7ef7ab4559a4c"
     ],
     [
       "Vale.X64.Memory.lemma_store_mem64",
@@ -64,7 +64,7 @@
         "refinement_interpretation_Tm_refine_6d41a8dd4c350273fba52a38a16e7d65"
       ],
       0,
-      "96baf3df03670a6c340d0bbeefaa3420"
+      "c1693c9f05cecf5188a383cbd2a67a00"
     ],
     [
       "Vale.X64.Memory.lemma_store_mem128",
@@ -76,7 +76,7 @@
         "refinement_interpretation_Tm_refine_87b6af5777ec9f41c56863e47ee1c9bd"
       ],
       0,
-      "6757f034f74ae432798a142539dd3ea6"
+      "12ff781261ec71f4fe14b32d370abbdc"
     ],
     [
       "Vale.X64.Memory.init_heaplets_req",
@@ -85,7 +85,7 @@
       0,
       [ "@query" ],
       0,
-      "d3170cd31bdcad7cfaf3289ea5120044"
+      "19dc7fee42100ba635403917efc5c1f3"
     ],
     [
       "Vale.X64.Memory.loc_mutable_buffers",
@@ -109,7 +109,7 @@
         "typing_Vale.Arch.HeapImpl.__proj__Mkbuffer_info__item__bi_mutable"
       ],
       0,
-      "959f5509fe8c11476cc91b377cd440aa"
+      "a417c95246abc7d3e7774dec54a87f76"
     ],
     [
       "Vale.X64.Memory.lemma_heaps_match",
@@ -122,7 +122,7 @@
         "refinement_interpretation_Tm_refine_52823b330991a1763e7a89418a40d561"
       ],
       0,
-      "eea148f7f6d56a21cee911bf9ab71168"
+      "dcdfc5bf7813a2fe0b5920a4f4e2ea2c"
     ]
   ]
 ]

@@ -8,7 +8,7 @@
       0,
       [ "@query" ],
       0,
-      "508f047b0e4ab9f971231a88a77e48be"
+      "b177f15173c5a8c4931525af8e94ff1a"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.frodo_shake_r",
@@ -31,7 +31,7 @@
         "typing_Spec.Frodo.Params.crypto_bytes"
       ],
       0,
-      "ded51fcaea35cfb91b92c448c27e4229"
+      "e090fe8d487564ba429d61785721402f"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.frodo_shake_r",
@@ -40,7 +40,7 @@
       0,
       [ "@query" ],
       0,
-      "0709525df55fa655d8f2d2a905663a6d"
+      "77f1cacf4f37641a8fc56320923efa37"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.frodo_mul_add_as_plus_e",
@@ -67,7 +67,7 @@
         "typing_Spec.Frodo.Params.params_n"
       ],
       0,
-      "4b3b2942a6035803b4efbccaa97100a1"
+      "f73bdff18e30ae90d417085b569277cd"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.frodo_mul_add_as_plus_e",
@@ -93,7 +93,7 @@
         "typing_Spec.Frodo.Params.params_n"
       ],
       0,
-      "3a65f45f5357e7680279a7b7b6f04f4f"
+      "6066d11b23c82a9f95d30ee4b627e686"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.frodo_mul_add_as_plus_e",
@@ -125,7 +125,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "d89c5e324391e5fb39322766af5638a1"
+      "be1cb09cfd9706cff857a012fa660fd1"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.frodo_mul_add_as_plus_e_pack",
@@ -157,7 +157,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "f745b6d84d632d1703dcc78674704bd8"
+      "86c9e4522e1a470fd669f3025d270de1"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.frodo_mul_add_as_plus_e_pack",
@@ -193,7 +193,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "441fc8560e2c05892a8726abebf88cc4"
+      "cc01ea3ae570d6ac8a8dc9a13482b455"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.frodo_mul_add_as_plus_e_pack",
@@ -225,7 +225,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "d89c5e324391e5fb39322766af5638a1"
+      "f37292a646940d9d3e9047073b5be69b"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.get_s_e_matrices",
@@ -262,7 +262,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "ba982ff943385214e38f1c532f072b00"
+      "bfe63bff33bf078b1603b60597bd76ee"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.get_s_e_matrices",
@@ -310,7 +310,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "158e46078cf01734c22d0bf48a5cf46b"
+      "1bfaab15dcbd115fb07cb0083562a3a1"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.get_s_e_matrices",
@@ -319,7 +319,7 @@
       0,
       [ "@query" ],
       0,
-      "16d0acc2e95a879e990d7d18c13e0985"
+      "e34471fc716ad910d0dfd381972b2a7a"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.frodo_mul_add_as_plus_e_pack_shake",
@@ -345,7 +345,7 @@
         "typing_Spec.AES.gf8", "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "2891480b28a1829ec0911e4a363c4669"
+      "4ef8ef5fdde1afa20efdc31035f5114b"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.frodo_mul_add_as_plus_e_pack_shake",
@@ -388,7 +388,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "fe8ecf521c78c161c202de65bddbe62d"
+      "4b22f98f243c5c02c72f9a44dff14ea2"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.frodo_mul_add_as_plus_e_pack_shake",
@@ -414,7 +414,7 @@
         "typing_Spec.AES.gf8", "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "59130df171dc2d7051bc8de70ff35650"
+      "2cc97666502686226a6535b85a932687"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.crypto_kem_sk",
@@ -423,7 +423,7 @@
       0,
       [ "@query" ],
       0,
-      "d361a6bba8518a1c70791190762a0cd4"
+      "d947061e31cf219b28d1c105aa2da0ca"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.crypto_kem_sk",
@@ -470,7 +470,7 @@
         "typing_Spec.Frodo.Params.secretmatrixbytes_len"
       ],
       0,
-      "ffcb71832eef740552864c760a03b1fa"
+      "54f0533c6a29de009703755a18093247"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.crypto_kem_sk",
@@ -479,7 +479,7 @@
       0,
       [ "@query" ],
       0,
-      "b9f0ca6f9305b3357d955597354ee7e3"
+      "90ced160c7884a917ad7c4206ad6d6a2"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.crypto_kem_keypair_",
@@ -510,7 +510,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "bef156cf7b79ffa92f0b0955cd9bb14a"
+      "346c2dac623854e894889a8adc98a035"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.crypto_kem_keypair_",
@@ -560,7 +560,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "4977a94cfea7e38948532365f888e84d"
+      "a1db48e946fc957c2a361aa31947df4c"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.crypto_kem_keypair_",
@@ -591,7 +591,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "1582d2171f65886854e43dcee70c1ac7"
+      "ff40d5356974dfd351338870d34d7e6f"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.crypto_kem_keypair",
@@ -600,7 +600,7 @@
       0,
       [ "@query" ],
       0,
-      "7edf8e40780cec3b23b6ba98d8bc50f2"
+      "50a667aecb0b95f03773795462430dfb"
     ],
     [
       "Spec.Frodo.KEM.KeyGen.crypto_kem_keypair",
@@ -631,7 +631,7 @@
         "typing_Spec.GaloisField.__proj__GF__item__t"
       ],
       0,
-      "873631aac24284625d2b9691a3e680f6"
+      "7403d02ae5e8fac477400c5a92806f7f"
     ]
   ]
 ]

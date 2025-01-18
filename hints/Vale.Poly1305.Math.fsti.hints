@@ -14,7 +14,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "3d2fbc37c36f7826506403284477a7eb"
+      "3e39ceb1cf0bda5097e99b4ce1724e89"
     ],
     [
       "Vale.Poly1305.Math.lemma_poly_multiply",
@@ -26,7 +26,7 @@
         "refinement_interpretation_Tm_refine_2f03dac7742a413d0d777389a32fc971"
       ],
       0,
-      "564c2b80588c6ad1997c3c90cc3249bf"
+      "058564ff254217169e1f0dbd12581d18"
     ],
     [
       "Vale.Poly1305.Math.lemma_poly_reduce",
@@ -39,7 +39,7 @@
         "refinement_interpretation_Tm_refine_ab4c9df6aa40c8f538c37a25253d36e5"
       ],
       0,
-      "0dae32a5f41ff0988fba8ddc396d7bb3"
+      "be4d71d91b4c52b9d6b4e0571ac28539"
     ],
     [
       "Vale.Poly1305.Math.lemma_bytes_shift_power2",
@@ -48,7 +48,7 @@
       0,
       [ "@query" ],
       0,
-      "fb30ad45d6e402dab813c4fe38adc405"
+      "77e56d22a556aa74039b7e7efa6fd60f"
     ],
     [
       "Vale.Poly1305.Math.lemma_bytes_and_mod",
@@ -64,7 +64,7 @@
         "typing_Vale.Def.Types_s.ishl"
       ],
       0,
-      "46af1cc851313dae4ad9718b009fc9b7"
+      "a27306eaa43ee3be934b8a15f67f93b5"
     ],
     [
       "Vale.Poly1305.Math.lemma_mod_power2_lo",
@@ -77,7 +77,7 @@
         "refinement_interpretation_Tm_refine_7fe01682f069326ca602268a6ffb85ff"
       ],
       0,
-      "0b057ed6da09ac16c71877c5ba82906b"
+      "4f93b3ccda37995d3c842d7b23ce1249"
     ],
     [
       "Vale.Poly1305.Math.lemma_power2_add64",
@@ -90,7 +90,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "2ac9566038e9c752017a73eb0d1c5725"
+      "ec77e221a7848f588af910bfd9466917"
     ],
     [
       "Vale.Poly1305.Math.lemma_mod_hi",
@@ -105,7 +105,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "7ac5a78857f1cdf03f99bdf842ed8b12"
+      "7e716128322a22097fb868585d53d9bb"
     ],
     [
       "Vale.Poly1305.Math.lemma_poly_demod",
@@ -117,7 +117,7 @@
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5"
       ],
       0,
-      "cf354ca548421e7097f9673506ad3c8f"
+      "2c90828feaccff18c5bb3cd140d183a8"
     ]
   ]
 ]

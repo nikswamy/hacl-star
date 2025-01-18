@@ -23,7 +23,7 @@
         "typing_Lib.IntTypes.unsigned"
       ],
       0,
-      "8840ad2c453ed120f281c32b6e6fcce6"
+      "f9aa6863e75973087332a9b5da3266f0"
     ],
     [
       "Vale.Math.Poly2.Galois.IntTypes.define_logand",
@@ -58,7 +58,7 @@
         "typing_Lib.IntTypes.unsigned", "typing_tok_Lib.IntTypes.SEC@tok"
       ],
       0,
-      "01d5b1eeba0ef7b9a7f9f6060619bd68"
+      "5a704b2ce3ad82c45490c10bfc23d5e1"
     ],
     [
       "Vale.Math.Poly2.Galois.IntTypes.define_logor",
@@ -82,7 +82,7 @@
         "typing_Lib.IntTypes.unsigned"
       ],
       0,
-      "8770785cfe608a326af2d29b00cea59a"
+      "c99682428b500d7de932c891e9863abb"
     ],
     [
       "Vale.Math.Poly2.Galois.IntTypes.define_logor",
@@ -117,7 +117,7 @@
         "typing_Lib.IntTypes.unsigned", "typing_tok_Lib.IntTypes.SEC@tok"
       ],
       0,
-      "6edd9291fa416fc6f725ddc9d2dcb5e9"
+      "88cad8c3e088a77233501581746e3118"
     ],
     [
       "Vale.Math.Poly2.Galois.IntTypes.define_logxor",
@@ -141,7 +141,7 @@
         "typing_Lib.IntTypes.unsigned"
       ],
       0,
-      "88f4a3e8271bd7ffcc9f837f1c934fb2"
+      "2b26dc4b0f1f53821a8fdfdccf154ab2"
     ],
     [
       "Vale.Math.Poly2.Galois.IntTypes.define_logxor",
@@ -176,7 +176,7 @@
         "typing_Lib.IntTypes.unsigned", "typing_tok_Lib.IntTypes.SEC@tok"
       ],
       0,
-      "8c4922ca3862f88fd3b998feab734366"
+      "774c62c35ab2df9c9216d4719b53b314"
     ],
     [
       "Vale.Math.Poly2.Galois.IntTypes.define_eq_mask",
@@ -193,7 +193,7 @@
         "typing_Lib.IntTypes.bits"
       ],
       0,
-      "3d8ab88ffe3f6a04a2464ef62e613d4f"
+      "8382683e141a53b7ff49bde09db90905"
     ],
     [
       "Vale.Math.Poly2.Galois.IntTypes.define_eq_mask",
@@ -212,7 +212,7 @@
         "typing_Lib.IntTypes.unsigned"
       ],
       0,
-      "8273bac182312dcec76e13efede0dd72"
+      "2daf75007c2d07c0d40ca74bf417cf4a"
     ]
   ]
 ]

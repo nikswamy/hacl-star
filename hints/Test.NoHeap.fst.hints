@@ -20,7 +20,7 @@
         "typing_FStar.UInt32.v"
       ],
       0,
-      "8aa900e8765e84a2c6b4ce59dbc11a18"
+      "a75cdce7606990f08aebecd1c01ee07c"
     ],
     [
       "Test.NoHeap.string_of_alg",
@@ -47,7 +47,7 @@
         "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "b5fb9a28ff2e4741cc73dc10504e648e"
+      "a04c53a3711c15fc3c9ad8954ed7094e"
     ],
     [
       "Test.NoHeap.test_one_hash",
@@ -205,7 +205,7 @@
         "unit_inversion", "unit_typing"
       ],
       0,
-      "1e88706fb633aa4f19d6e97cef414993"
+      "6bdc1b7f19a832a8c6ed36556f840165"
     ],
     [
       "Test.NoHeap.keysized",
@@ -262,7 +262,7 @@
         "typing_tok_Lib.IntTypes.PUB@tok", "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "549fb035a58030155dc06208697af235"
+      "179af65c228b1d4f5fbed27a08698a72"
     ],
     [
       "Test.NoHeap.test_one_hmac",
@@ -393,7 +393,7 @@
         "typing_tok_Lib.IntTypes.U8@tok", "unit_inversion", "unit_typing"
       ],
       0,
-      "4ea7239022d66af01fa72a53d366f83f"
+      "a186af1eb7562479d7e9fa449acc8ba1"
     ],
     [
       "Test.NoHeap.test_one_hkdf",
@@ -568,7 +568,7 @@
         "typing_tok_Lib.IntTypes.U8@tok", "unit_inversion", "unit_typing"
       ],
       0,
-      "5a9f65e0cd23c96d08ef2ba7eb24243e"
+      "b39d66ea58751061b39582e171565f3c"
     ],
     [
       "Test.NoHeap.test_one_chacha20",
@@ -709,7 +709,7 @@
         "unit_inversion", "unit_typing"
       ],
       0,
-      "f7fb39c5f7dedc7dd47de2592f56c7f1"
+      "abce69c78fabc8d32d4082c411eaf13a"
     ],
     [
       "Test.NoHeap.test_one_poly1305",
@@ -749,9 +749,9 @@
         "equation_LowStar.Buffer.trivial_preorder",
         "equation_LowStar.Monotonic.Buffer.disjoint",
         "equation_LowStar.Monotonic.Buffer.length", "equation_Prims.eqtype",
-        "equation_Prims.nat", "equation_Spec.Chacha20.size_key",
-        "equation_Spec.Poly1305.size_key",
+        "equation_Prims.nat", "equation_Spec.Poly1305.size_key",
         "haseqTm_refine_542f9d4f129664613f2483a6c88bc7c2", "int_inversion",
+        "int_typing",
         "lemma_FStar.HyperStack.ST.lemma_same_refs_in_all_regions_elim",
         "lemma_FStar.HyperStack.ST.lemma_same_refs_in_all_regions_intro",
         "lemma_FStar.HyperStack.ST.lemma_same_refs_in_non_tip_regions_elim",
@@ -818,12 +818,11 @@
         "typing_LowStar.Monotonic.Buffer.length",
         "typing_LowStar.Monotonic.Buffer.loc_addresses",
         "typing_LowStar.Monotonic.Buffer.loc_buffer", "typing_Prims.int",
-        "typing_Spec.Chacha20.size_key", "typing_Spec.Poly1305.size_key",
-        "typing_tok_Lib.IntTypes.PUB@tok", "typing_tok_Lib.IntTypes.U8@tok",
-        "unit_inversion"
+        "typing_Spec.Poly1305.size_key", "typing_tok_Lib.IntTypes.PUB@tok",
+        "typing_tok_Lib.IntTypes.U8@tok", "unit_inversion"
       ],
       0,
-      "e7d6eb23c76d763e0b4bfa9e708553fa"
+      "fbd8e091227f63a2d11e7173854f0a53"
     ],
     [
       "Test.NoHeap.test_poly1305",
@@ -843,7 +842,7 @@
         "typing_Test.Vectors.Poly1305.vectors"
       ],
       0,
-      "7eb0c8add93f9bd133793d2a3a7250a8"
+      "a387d8fe1b4adf3a02a6ec0cc4ef2aab"
     ],
     [
       "Test.NoHeap.test_one_curve25519",
@@ -947,7 +946,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "17f8c2eb2d8d8b9029d6b8ac7d14202e"
+      "e263b8054e6f37f2b336762394a74ca2"
     ],
     [
       "Test.NoHeap.test_curve25519",
@@ -967,7 +966,7 @@
         "typing_Test.Vectors.Curve25519.vectors"
       ],
       0,
-      "1bc636ea828a2631b04a500982574451"
+      "9ff6a70dbe85717e245c7b523a5fbef0"
     ],
     [
       "Test.NoHeap.test_one_chacha20poly1305",
@@ -1112,7 +1111,7 @@
         "unit_inversion", "unit_typing"
       ],
       0,
-      "55fbec141da89bf4701e1eb34f04f9f6"
+      "666f716d590294d121380cbd05e5731d"
     ],
     [
       "Test.NoHeap.test_chacha20poly1305",
@@ -1132,7 +1131,7 @@
         "typing_Test.Vectors.Chacha20Poly1305.vectors"
       ],
       0,
-      "e0ea4c7b70e5c936f032c4c158a33d05"
+      "e1f759d4a423c6931d794e120cf1b082"
     ],
     [
       "Test.NoHeap.main",
@@ -1174,7 +1173,7 @@
         "typing_Spec.Poly1305.size_key"
       ],
       0,
-      "fc565ccae917acc3bd056405c95bee16"
+      "be4834b32d5a5371a8b1c58633c61af6"
     ]
   ]
 ]

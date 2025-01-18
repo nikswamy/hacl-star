@@ -161,7 +161,9 @@ let length_aux2 (b:uint8_p) : Lemma
     let db = get_downview b in
     DV.length_eq db
 
-#push-options "--z3rlimit 200 --max_fuel 0 --max_ifuel 0 --ext compat:normalizer_memo_ignore_cfg"
+#push-options "--z3rlimit 200 --fuel 2 --max_ifuel 0 --ext compat:normalizer_memo_ignore_cfg"
+#push-options "--query_stats --z3smtopt '(set-option :smt.arith.nl true)'"
+#restart-solver
 inline_for_extraction
 let gctr128_bytes_stdcall' key in_b num_bytes out_b inout_b keys_b ctr_b num_blocks =
   let h0 = get() in
@@ -181,7 +183,6 @@ let gctr128_bytes_stdcall' key in_b num_bytes out_b inout_b keys_b ctr_b num_blo
   bounded_buffer_addrs_all TUInt8 TUInt128 h0 in_b;
   bounded_buffer_addrs_all TUInt8 TUInt128 h0 keys_b;
   bounded_buffer_addrs_all TUInt8 TUInt128 h0 out_b;
-
   let lemma_uv_key () : Lemma
     (let db = get_downview keys_b in
       length_aux keys_b;
@@ -212,7 +213,6 @@ let gctr128_bytes_stdcall' key in_b num_bytes out_b inout_b keys_b ctr_b num_blo
   // lemma_seq_nat8_le_seq_quad32_to_bytes_uint32 out_b h1;
   le_bytes_to_quad32_to_bytes (low_buffer_read TUInt8 TUInt128 h0 ctr_b 0);
   gcm_simplify2 ctr_b h0;
-
   ()
 
 inline_for_extraction
@@ -265,7 +265,7 @@ let gctr256_bytes_stdcall' key in_b num_bytes out_b inout_b keys_b ctr_b num_blo
   gcm_simplify2 ctr_b h0;
 
   ()
-
+#pop-options
 let length_aux4 (b:uint8_p) (n:nat) : Lemma
   (requires B.length b = n * 16)
   (ensures DV.length (get_downview b) % 16 = 0) =

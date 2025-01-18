@@ -8,7 +8,7 @@
       0,
       [ "@query" ],
       0,
-      "998125829c21ca4dd93bc6b6cf2643fe"
+      "659bab0aee0977710296572364e6bfca"
     ],
     [
       "Vale.Arch.MachineHeap_s.get_heap_val64_def",
@@ -17,7 +17,7 @@
       0,
       [ "@query" ],
       0,
-      "28707acf6e1e5e56dea3b53f49842490"
+      "e38016589c1b084fe4904e98dc1ba05b"
     ],
     [
       "Vale.Arch.MachineHeap_s.update_heap32_def",
@@ -33,7 +33,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "ce4b548b8daf6a6e1bf1c5954acf945a"
+      "9978b7c32d85baf659777bd22c3fa9e7"
     ],
     [
       "Vale.Arch.MachineHeap_s.update_heap64_def",
@@ -52,7 +52,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "a6887fc1ef3e3b4a415fc0b4ce1f078a"
+      "446ae86419cf5e82a798944f2398e501"
     ]
   ]
 ]

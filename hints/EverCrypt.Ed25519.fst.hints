@@ -47,7 +47,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "53de5fb483ca957ed23e94ab058d27b9"
+      "728028898787112e96b57d4e13a153e3"
     ],
     [
       "EverCrypt.Ed25519.expand_keys",
@@ -106,7 +106,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "5ea676c8ff5e1b7d5add0ba027ad612f"
+      "373df922fa75ee70d265bdc9fc3a2d5b"
     ],
     [
       "EverCrypt.Ed25519.sign_expanded",
@@ -169,7 +169,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "b5edb3378a26d5c2b7da9078a338b48b"
+      "8d4c357bf1cb2758a489491aa35d71be"
     ],
     [
       "EverCrypt.Ed25519.sign",
@@ -212,7 +212,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "1e75cbc1f1a09836e614456e8cefa5f9"
+      "5b0796f656662ae2c82e6407df9d27ec"
     ],
     [
       "EverCrypt.Ed25519.verify",
@@ -254,7 +254,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "229dcf19dc3232dfa78e9cb5cbc6e43a"
+      "18b4abd02ee51e6c46cb50a475c4bd9e"
     ]
   ]
 ]

@@ -14,7 +14,7 @@
         "typing_Prims.int"
       ],
       0,
-      "c2a2087c8098b8e12c12e4978ee5d4f0"
+      "3dc6375a239b513b901b45f31dc3a566"
     ],
     [
       "Spec.Agile.HMAC.wrap",
@@ -63,7 +63,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "1375e74fcae0a45fdeec8e0733dd4daf"
+      "640503e5df5744052e83bc26c98d8885"
     ],
     [
       "Spec.Agile.HMAC.xor",
@@ -72,7 +72,7 @@
       0,
       [ "@query" ],
       0,
-      "43cb218a45aef36088b710501109df45"
+      "dd3a0569a0c79bad5ea3ba7bfe0f4122"
     ],
     [
       "Spec.Agile.HMAC.xor_lemma",
@@ -130,7 +130,7 @@
         "typing_tok_Lib.IntTypes.U8@tok", "well-founded-ordering-on-nat"
       ],
       0,
-      "ba23d9ddfe3d58670f3127b758e9fd6b"
+      "6a7ef567893432d8245c9a520752b036"
     ],
     [
       "Spec.Agile.HMAC.xor_lemma",
@@ -152,7 +152,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "3f6b1864dd49fa9fa894d47b8a9da285"
+      "9ae667854cd5e3c6cc4a1614a26c6d87"
     ],
     [
       "Spec.Agile.HMAC.hmac",
@@ -213,7 +213,7 @@
         "unit_typing"
       ],
       0,
-      "f25b84bd166a6ef83b714ab076b47867"
+      "b80a1629bf0e537873f7e151fbd8afb8"
     ]
   ]
 ]

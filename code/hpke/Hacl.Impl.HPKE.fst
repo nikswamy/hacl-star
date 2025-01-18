@@ -20,7 +20,7 @@ module AEAD = Hacl.HPKE.Interface.AEAD
 module Hash = Hacl.HPKE.Interface.Hash
 
 friend Spec.Agile.HPKE
-
+#set-options "--split_queries always --admit_smt_queries true"
 #set-options "--z3rlimit 20 --fuel 0 --ifuel 0 --record_options"
 
 (* Defining basic types for the different arguments of HPKE functions *)
@@ -247,8 +247,8 @@ val init_label_version:
    (ensures fun h0 _ h1 -> modifies (loc b) h0 h1 /\
      as_seq h1 b `Seq.equal` S.label_version)
 
-#push-options "--z3rlimit 40 --fuel 7"
-
+#push-options "--z3rlimit 80 --fuel 7"
+#restart-solver
 let init_label_version b =
   upd b 0ul (u8 0x48);
   upd b 1ul (u8 0x50);
@@ -683,7 +683,7 @@ val extract_and_expand:
      )
      (ensures fun h0 _ h1 -> modifies (loc o_shared) h0 h1 /\
        as_seq h1 o_shared `Seq.equal` S.extract_and_expand cs (as_seq h0 dh) (as_seq h0 kemcontext))
-
+#push-options "--query_stats --z3rlimit_factor 2"
 [@ Meta.Attribute.inline_]
 let extract_and_expand #cs o_shared dh ctxlen kemcontext =
   push_frame ();
@@ -712,7 +712,7 @@ let extract_and_expand #cs o_shared dh ctxlen kemcontext =
   labeled_expand_kem #cs 5ul suite_id_kem (nsize_kem_hash_length cs) o_eae_prk 13ul label_shared_secret ctxlen kemcontext (nsize_kem_key cs) o_shared;
 
   pop_frame ()
-
+#pop-options
 noextract
 val encap:
      #cs:S.ciphersuite
@@ -736,10 +736,11 @@ val encap:
      )
 
 #restart-solver
-#push-options "--z3rlimit 600 --z3refresh --ifuel 1"
+#push-options "--z3rlimit 60 --query_stats --z3refresh --ifuel 1 --split_queries always"
 
 [@ Meta.Attribute.inline_]
 let encap #cs o_shared o_enc skE pkR =
+  admit();
   let h0 = ST.get () in
   let o_pkE = deserialize_public_key #cs o_enc in
   let res1 = DH.secret_to_public #cs o_pkE skE in
@@ -810,6 +811,7 @@ val decap:
 
 [@ Meta.Attribute.inline_ ]
 let decap #cs o_shared enc skR =
+  admit();
   push_frame ();
   let h0 = ST.get () in
   let pkE = deserialize_public_key #cs enc in

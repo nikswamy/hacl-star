@@ -26,7 +26,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "546a1cfc9256bdb4f555507c2d1d5899"
+      "f2d622dbeb9981f40269f9dfb9fed0dd"
     ],
     [
       "Vale.Poly1305.Equiv.lemma_poly1305_equiv",
@@ -62,7 +62,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "6f80f95167600ce1c60a5e5e0be45e42"
+      "47f4b8cb149ce3417c79ac487a2a494b"
     ]
   ]
 ]

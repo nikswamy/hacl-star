@@ -14,7 +14,7 @@
         "typing_Spec.Curve25519.prime"
       ],
       0,
-      "7d0cf3303e79f7f69c72335ad0dfb8ec"
+      "221490867cccc371c557f00e4c5071a2"
     ],
     [
       "Hacl.Impl.Ed25519.PointNegate.point_negate",
@@ -220,7 +220,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "625b3e44013132652afadfce55468373"
+      "b86d42ce9a3d53f101bcf21660e8a363"
     ]
   ]
 ]

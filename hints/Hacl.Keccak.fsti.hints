@@ -36,7 +36,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "3474d02ddf1403b5bf4d36cee3714962"
+      "0471b70f0f03f848fd96b8cb1b28d8e6"
     ],
     [
       "Hacl.Keccak.shake256_4x",
@@ -73,7 +73,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "ff27b26a28d7d3d56ef011c416238fb7"
+      "14ff0b6f6f207870b732a1c814e21f4e"
     ]
   ]
 ]

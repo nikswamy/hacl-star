@@ -38,7 +38,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "488700dfed762a8eaa68f11107a1d4ec"
+      "7439274a2d54fbd65f4be64cdc589991"
     ],
     [
       "Hacl.Impl.Salsa20.rounds",
@@ -71,7 +71,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "7db44b61e1d073b8361a942851ed49bc"
+      "bb37c582829656b6d3fcf7bd1637c12c"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_core",
@@ -116,7 +116,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "5e80c9430ceeb27d338cb7972b822758"
+      "c3a8fffbddc76d8d8142d2ef7a97997f"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_core",
@@ -194,7 +194,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "4ce5ea7743cae75d9d27c94d9a680671"
+      "3dc8254b40290c86be3d32c3e2835ec0"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_init",
@@ -246,7 +246,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "c17832dcf3c264bf473c492e3805acf9"
+      "f4836ae95af34f3983de99817b78c861"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_init",
@@ -422,7 +422,7 @@
         "typing_tok_Lib.IntTypes.U32@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "bbf48bdd9ce28cdb7101b1472a8d6c9a"
+      "4b5a8cb285965bb683ea72522a420ff3"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_encrypt_block",
@@ -467,7 +467,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "cf68f2ca2ab9372eb715a548aba739e4"
+      "55d29ddc72e62e14998a77f5191f31e6"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_encrypt_block",
@@ -610,7 +610,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "d91445457f878ad28da2d21366839ef2"
+      "45434abafc15b43ebbac47d06548c204"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_encrypt_last",
@@ -657,7 +657,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "6f0440a5bc45fa8933ad8e0d11a648f0"
+      "160949dd6e829f076d05322d832a74a1"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_encrypt_last",
@@ -820,7 +820,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "55f763f93040c600431279df3d271b12"
+      "fabfe8f58733c7463de9e45c683ade12"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_update",
@@ -870,7 +870,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "86938bfa134f8a8b6610de4129d1ed89"
+      "3f0bb2dbcd87ee13e98d18b56d213b6c"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_update",
@@ -1031,7 +1031,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "3a18a44c70c939b194cd73159a4942eb"
+      "505cb39dc55fd60737b51d549255d175"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_key_block0",
@@ -1070,7 +1070,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "e2806e41ce6a92f56fc064344b2af7e4"
+      "0edc395947ae3914b5cf44e411159022"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_key_block0",
@@ -1226,7 +1226,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "58708e922be1b031fe34d8163fcd93d4"
+      "4bce85cb3241e86a9b36026035c87a47"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_encrypt",
@@ -1286,7 +1286,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "960e61d6df2d22e6cc3769da42d70ad1"
+      "852d4011e16156c35ddf35e93dc2c91f"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_encrypt",
@@ -1437,7 +1437,7 @@
         "typing_tok_Lib.IntTypes.U32@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "4b758f61b54c1f4faad68e056401569c"
+      "8ce6e8b5fd694e587693cf3c0a8376cc"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_decrypt",
@@ -1497,7 +1497,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "e0cfe521768f620c7b2f8d29fddcaa45"
+      "6d9d052aef91a08be17e2fc83d9e3551"
     ],
     [
       "Hacl.Impl.Salsa20.salsa20_decrypt",
@@ -1648,7 +1648,7 @@
         "typing_tok_Lib.IntTypes.U32@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "6884661e441c281f5da38a533674d2c5"
+      "00790d2181d3f56e219ba8734fba536f"
     ]
   ]
 ]

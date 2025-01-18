@@ -35,7 +35,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "ad086063b9c59e586b11a498ac1d16c9"
+      "987cd81fc9b74df2bf1a2cc1a1c2ad44"
     ],
     [
       "Vale.Def.Sel.logsel_vec",
@@ -48,7 +48,7 @@
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5"
       ],
       0,
-      "45bf4c047a87f1215aa2d6a46f83df1b"
+      "4ef1371ef8c123bcce43603b132594ff"
     ],
     [
       "Vale.Def.Sel.logsel_vec_definition",
@@ -103,7 +103,7 @@
         "typing_Vale.Def.Sel.sel", "well-founded-ordering-on-nat"
       ],
       0,
-      "3811473af46cb4762b572855a5477d12"
+      "17e3bf41694401802cf0cf8e2bdd4340"
     ],
     [
       "Vale.Def.Sel.logsel_vec_definition",
@@ -124,7 +124,7 @@
         "typing_Vale.Def.Sel.logsel_vec"
       ],
       0,
-      "217da933205c92368a3cecb0a836dbf6"
+      "5017eff68859f6a068afa806af5a5d26"
     ],
     [
       "Vale.Def.Sel.logsel",
@@ -137,7 +137,7 @@
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5"
       ],
       0,
-      "9c7c5c5effcbc7095e05734b4d6d7436"
+      "4e95816353ab42b519b5f2ab295e689c"
     ],
     [
       "Vale.Def.Sel.logsel",
@@ -150,7 +150,7 @@
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5"
       ],
       0,
-      "c8d4201df661ae1d3645bd50250b746d"
+      "bc5428d73bf543a56db7968a264ee6b5"
     ],
     [
       "Vale.Def.Sel.isel32",
@@ -174,7 +174,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "3e94c8469ce621ceb143cb47165884b6"
+      "fa9f39a492c167dac6e44545ba697873"
     ]
   ]
 ]

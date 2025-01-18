@@ -35,7 +35,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "2c987d92da2878faba48fabd10f763dd"
+      "7d0c497b3e6bf569df86580ace4e053f"
     ],
     [
       "Hacl.Impl.P256.DH.ecp256dh_r",
@@ -71,7 +71,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "76d2419dfbd59dfbfdaac4aba8d4f8d4"
+      "c4b7a064967b300ac3d4b744438e52a9"
     ]
   ]
 ]

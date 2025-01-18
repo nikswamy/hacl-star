@@ -8,7 +8,7 @@
       0,
       [ "@query" ],
       0,
-      "78c62d6782fe2b55fcbecefc8df2c4f6"
+      "fb9b66a8d2fa3ed25a8317268f6154bd"
     ],
     [
       "Vale.Curve25519.FastHybrid_helpers.lemma_mul_pow256_add",
@@ -17,7 +17,7 @@
       0,
       [ "@query" ],
       0,
-      "94dc1434f22890a5133620402a21ff7d"
+      "5793e450d2047572ea6d55af010cc87f"
     ],
     [
       "Vale.Curve25519.FastHybrid_helpers.lemma_carry_prime",
@@ -34,7 +34,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "a619e12945f2a9e509d6db88cdbe8801"
+      "2fe94a45070e5260523e57bfe7f00830"
     ],
     [
       "Vale.Curve25519.FastHybrid_helpers.lemma_fast_mul1",
@@ -56,7 +56,7 @@
         "typing_Prims.int"
       ],
       0,
-      "51e0ab483af37a7d54ec0fba2d150248"
+      "2366605f14f19416060c64df4adbca72"
     ],
     [
       "Vale.Curve25519.FastHybrid_helpers.lemma_addition",
@@ -78,7 +78,7 @@
         "typing_Prims.int"
       ],
       0,
-      "623e94acabf5ff8992e89e4ce07ffa17"
+      "3c43ba3c0e1359606ce3238717bb26d1"
     ]
   ]
 ]

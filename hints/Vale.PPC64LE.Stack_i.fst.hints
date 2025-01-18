@@ -64,7 +64,7 @@
         "typing_Vale.PPC64LE.Stack_i.valid_src_stack64"
       ],
       0,
-      "fbe67d3c895d381a475053aff4a4abeb"
+      "31585c52b4055f390a83e14ef7894b1f"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_free_stack_same_valid64",
@@ -96,7 +96,7 @@
         "typing_Vale.PPC64LE.Stack_i.valid_src_stack64"
       ],
       0,
-      "4e6a39747f97e4ccdbf647d6b837781e"
+      "50ccd7671e56b1a0b3bcef1c6005208b"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_store_stack_same_valid128",
@@ -158,7 +158,7 @@
         "typing_Vale.PPC64LE.Stack_i.valid_src_stack128"
       ],
       0,
-      "b093559866efb38570f03d3544a87d67"
+      "89f7dac39b8ddb3d3729eea485f10ea8"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_free_stack_same_valid128",
@@ -190,7 +190,7 @@
         "typing_Vale.PPC64LE.Stack_i.valid_src_stack128"
       ],
       0,
-      "e59624e14a0441cf233d08e990dabd1b"
+      "a88bdb18e570745c3474919ac72cf686"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_store_new_valid64",
@@ -254,7 +254,7 @@
         "typing_Vale.Def.Words_s.nat8"
       ],
       0,
-      "e0e895d8d273d61fdc3d279fd9e13ba8"
+      "c2c1e8ef82ec1fc417bf229fc84f7718"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_store_new_valid128",
@@ -315,7 +315,7 @@
         "typing_Vale.Def.Words_s.nat32", "typing_Vale.Def.Words_s.nat8"
       ],
       0,
-      "301d4a91a2d2c196e6dc37f268140c39"
+      "01e394251100bf4f84e5904f61d271bc"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_correct_store_load_stack64",
@@ -329,7 +329,7 @@
         "projection_inverse_Vale.PPC64LE.Machine_s.Machine_stack_@stack_mem"
       ],
       0,
-      "df84a951e73a2058bc13e7a521b03fa1"
+      "8af3968a24cf0077eec5a8e9d0da4e57"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_frame_store_load_stack64",
@@ -348,7 +348,7 @@
         "token_correspondence_Vale.Arch.MachineHeap_s.get_heap_val64_def"
       ],
       0,
-      "e6822e5d7c250d1d205c6e3e21dc74ca"
+      "6d466f24c389f0e66756c2908be5579c"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_free_stack_same_load64",
@@ -373,7 +373,7 @@
         "typing_Vale.Def.Words_s.nat8", "typing_Vale.Lib.Set.remove_between"
       ],
       0,
-      "1046d5381a60b6b9ac7173095058139a"
+      "57cee841c389dfb2a5829d4495c3076d"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_correct_store_load_stack128",
@@ -387,7 +387,7 @@
         "projection_inverse_Vale.PPC64LE.Machine_s.Machine_stack_@stack_mem"
       ],
       0,
-      "e2919a4c95c228b9d77ac8ba2ba1a6de"
+      "c6114a89d9824a400c878c7936a9458c"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_frame_store_load_stack128",
@@ -409,7 +409,7 @@
         "token_correspondence_Vale.Arch.MachineHeap_s.get_heap_val32_def"
       ],
       0,
-      "1ab096aa35653ab8e9d2c2aa4811cd96"
+      "31108d3f6aca31bc1586fb8541d107d4"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_free_stack_same_load128",
@@ -437,7 +437,7 @@
         "typing_Vale.Def.Words_s.nat8", "typing_Vale.Lib.Set.remove_between"
       ],
       0,
-      "f4549f405a7f5d392c5573932e3955ac"
+      "f619c126e06df9cf95be65f49d683f2e"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_compose_free_stack64",
@@ -467,7 +467,7 @@
         "typing_Vale.Def.Words_s.nat8", "typing_Vale.Lib.Set.remove_between"
       ],
       0,
-      "f48cf14a9dc995087afca727c9873add"
+      "170be4dbaf57b750269f7453b4215124"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_same_init_r1_free_stack64",
@@ -476,7 +476,7 @@
       0,
       [ "@query" ],
       0,
-      "7c2628e4e6695b65c4c84151b471e855"
+      "7a6329d0c7af492ee38bac63923545c8"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_same_init_r1_free_stack64",
@@ -495,7 +495,7 @@
         "projection_inverse_Vale.PPC64LE.Machine_s.Machine_stack_@initial_r1"
       ],
       0,
-      "0d837b568e0401c1cd85a52125f8dd55"
+      "c684bdd21b26b15eecd6f9a51c46c8bb"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_same_init_r1_store_stack64",
@@ -504,7 +504,7 @@
       0,
       [ "@query" ],
       0,
-      "67c08730f656059d469447b0eec69b1c"
+      "e11dc6726a671c8158e181e300f24052"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_same_init_r1_store_stack64",
@@ -521,7 +521,7 @@
         "projection_inverse_Vale.PPC64LE.Machine_s.Machine_stack_@initial_r1"
       ],
       0,
-      "04aad343d421d28d8362326fceb2bdb5"
+      "e5cc1da7db9bde6941c3805889864cd8"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_same_init_r1_free_stack128",
@@ -530,7 +530,7 @@
       0,
       [ "@query" ],
       0,
-      "be68eb5239147a4896549e5349045825"
+      "112ba4db5d365b72c7f9548e3aa1a1ad"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_same_init_r1_free_stack128",
@@ -549,7 +549,7 @@
         "projection_inverse_Vale.PPC64LE.Machine_s.Machine_stack_@initial_r1"
       ],
       0,
-      "2c39533d0ee83c9abef4bc8e3e94b70a"
+      "8f536e3a0c7ed16e8c4ccc9731024b6a"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_same_init_r1_store_stack128",
@@ -558,7 +558,7 @@
       0,
       [ "@query" ],
       0,
-      "ba0491b4c2827f4900634cbbff5d3c97"
+      "6fc0c0d969c4c3207bc85ef71af77a9f"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_same_init_r1_store_stack128",
@@ -575,7 +575,7 @@
         "projection_inverse_Vale.PPC64LE.Machine_s.Machine_stack_@initial_r1"
       ],
       0,
-      "e3174f26db9e0e8e08175038cffcf8d7"
+      "51233cbe1f7cdb4ee721fe961b53e370"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_valid_taint_stack64",
@@ -589,7 +589,7 @@
         "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "a12c557a0aaa206cbc6de9ea1218ece6"
+      "fc29e22163e5c1f5c66d219456ef123e"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_valid_taint_stack128",
@@ -603,7 +603,7 @@
         "primitive_Prims.op_Equality", "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "a37b568b6e8468932ba9897c90179965"
+      "23eacb8b2d87323b8171eb23f6603634"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_valid_taint_stack64_reveal",
@@ -621,7 +621,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.Secret@tok"
       ],
       0,
-      "984b58d582714d7d5be815d10c7df9de"
+      "144034db8561ff90e4a17f78fa880c9f"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_correct_store_load_taint_stack64",
@@ -649,7 +649,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.Secret@tok"
       ],
       0,
-      "decff0a737920662c533930c22b2d25a"
+      "5ffea954e55fc044d17c84a8b72f47c7"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_frame_store_load_taint_stack64",
@@ -675,7 +675,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.Secret@tok"
       ],
       0,
-      "f4a1fab18eb50a2dc59e53d98f15dd07"
+      "5320a2fee6c953a2ce374fdc6662b436"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_valid_taint_stack128_reveal",
@@ -693,7 +693,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.Secret@tok"
       ],
       0,
-      "bfe14d3be06d9ed85568df7b9357b271"
+      "9988632b1cf5ec2abea85c411c538f9a"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_correct_store_load_taint_stack128",
@@ -721,7 +721,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.Secret@tok"
       ],
       0,
-      "840e6f4becf878b9cc6437745dbfc16d"
+      "6d750ac357a2abce3f8f53e5b53f7191"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_frame_store_load_taint_stack128",
@@ -747,7 +747,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.Secret@tok"
       ],
       0,
-      "f224a392d2c8d4d7cbfc7bdc26be7599"
+      "5ad899032a3265fb27337ce600bdc9ea"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_store_stack_same_valid64_128",
@@ -809,7 +809,7 @@
         "typing_Vale.PPC64LE.Stack_i.valid_src_stack64"
       ],
       0,
-      "3b873ee1dd87a32aaa19a4a26ed7007e"
+      "872d6423b7c650505908723efb2672a9"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_frame_store_load_stack64_128",
@@ -828,7 +828,7 @@
         "token_correspondence_Vale.Arch.MachineHeap_s.get_heap_val64_def"
       ],
       0,
-      "f4880844e9d063b3e90c39f3f6f5c13e"
+      "33a0700300c93dd4c6b4d94ee1398b05"
     ],
     [
       "Vale.PPC64LE.Stack_i.lemma_frame_store_load_taint_stack64_128",
@@ -854,7 +854,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.Secret@tok"
       ],
       0,
-      "46eadabf63b94a4d42aa4b7bc106ac87"
+      "1f9f07f423ab26f50f6dbe1a529e6499"
     ]
   ]
 ]

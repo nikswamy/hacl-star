@@ -15,7 +15,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "ea0628b696edacdf2475d5e01eb20130"
+      "f7640500e3cbd7a41b9e94b3c0574bfe"
     ],
     [
       "Hacl.Spec.Karatsuba.Lemmas.sign_abs",
@@ -38,7 +38,7 @@
         "typing_tok_Hacl.Spec.Karatsuba.Lemmas.Positive@tok"
       ],
       0,
-      "2a360988b85bf463a9afd6a1a19a5882"
+      "0643bdd17ba0621e2621dce053d211b8"
     ],
     [
       "Hacl.Spec.Karatsuba.Lemmas.lemma_double_p",
@@ -55,7 +55,7 @@
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5"
       ],
       0,
-      "a5ffad64d3160a3a908f1a6a94c73d3c"
+      "91a3fd3d56867849fa0685859f62aa32"
     ],
     [
       "Hacl.Spec.Karatsuba.Lemmas.lemma_double_p",
@@ -73,7 +73,7 @@
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5"
       ],
       0,
-      "4645b2268abe089998d1263dd62d5a15"
+      "63a81f20c1f480eb740fb262387a255c"
     ],
     [
       "Hacl.Spec.Karatsuba.Lemmas.lemma_bn_halves",
@@ -90,7 +90,7 @@
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5"
       ],
       0,
-      "b3480be31513ad30db5daade17337273"
+      "f110cd66dea653e90822e5e483490700"
     ],
     [
       "Hacl.Spec.Karatsuba.Lemmas.lemma_bn_halves",
@@ -111,7 +111,7 @@
         "typing_Prims.pow2"
       ],
       0,
-      "c246dc9fca90bc4d681ac2888896c2e5"
+      "3ca97aea7872b68f518e7b70753707db"
     ],
     [
       "Hacl.Spec.Karatsuba.Lemmas.lemma_bn_halves",
@@ -127,7 +127,7 @@
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5"
       ],
       0,
-      "16b35878289ced53d1bfa8eca3ec99f2"
+      "c7f6890b271155768c6a62a9205beb00"
     ],
     [
       "Hacl.Spec.Karatsuba.Lemmas.lemma_middle_karatsuba",
@@ -136,7 +136,7 @@
       0,
       [ "@query", "assumption_Hacl.Spec.Karatsuba.Lemmas.sign__uu___haseq" ],
       0,
-      "3eb881af9986efbc994bbfb4c51da72a"
+      "c7273f85a444039b2a2645f0d8a37ca7"
     ],
     [
       "Hacl.Spec.Karatsuba.Lemmas.lemma_middle_karatsuba",
@@ -165,7 +165,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "b8b73393146fd1fff264ec61a8d7def4"
+      "72bac281a9dd3fe973e54e7066a8eefc"
     ],
     [
       "Hacl.Spec.Karatsuba.Lemmas.lemma_karatsuba",
@@ -182,7 +182,7 @@
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5"
       ],
       0,
-      "024d1ddbac748d34b737dd286fc6ef55"
+      "28587673f9371478769787e194c94b82"
     ],
     [
       "Hacl.Spec.Karatsuba.Lemmas.lemma_karatsuba",
@@ -200,7 +200,7 @@
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5"
       ],
       0,
-      "cc451415264380d9cbec447c39bd7117"
+      "d95adbfdfc1db009428c33270da1585f"
     ],
     [
       "Hacl.Spec.Karatsuba.Lemmas.karatsuba",
@@ -215,7 +215,7 @@
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5"
       ],
       0,
-      "0519beb4cc0121522cf07008eff465ee"
+      "53cd00beb6c42baceeb66cf11235aaf7"
     ],
     [
       "Hacl.Spec.Karatsuba.Lemmas.karatsuba",
@@ -255,7 +255,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "53d641446134a5b100838ae1aa218dcb"
+      "d03b1c4a8405574423ce5be7d013a142"
     ],
     [
       "Hacl.Spec.Karatsuba.Lemmas.karatsuba",
@@ -270,7 +270,7 @@
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5"
       ],
       0,
-      "77c7d0e47a989b0a96e94d3260aa6ce5"
+      "f787a675e6e60575f9f01d7b6d233d41"
     ]
   ]
 ]

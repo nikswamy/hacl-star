@@ -57,7 +57,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "63d446b2456cd1f2817ad0ab9bad1903"
+      "ce60b6fdf0ef43d1f0e42026b5851b2e"
     ],
     [
       "Hacl.Impl.BignumQ.Mul.wide_as_nat",
@@ -116,7 +116,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "b572ec88cb6e289b5547fc7a6de9750b"
+      "37883bf8486226e66d87210d8393b5b7"
     ],
     [
       "Hacl.Impl.BignumQ.Mul.qelem_fits",
@@ -174,7 +174,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "396b05d52186724b2aecb88fe31ec44b"
+      "e9c6923e8920865f9c7db5ae6c1f91ae"
     ],
     [
       "Hacl.Impl.BignumQ.Mul.qelem_wide_fits",
@@ -233,7 +233,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "85948d0855aff82debf7025b8e83f37b"
+      "50630931577a341cb5a1a029d15969af"
     ],
     [
       "Hacl.Impl.BignumQ.Mul.barrett_reduction",
@@ -251,7 +251,7 @@
         "typing_Prims.pow2"
       ],
       0,
-      "fb130472dfd3e3e865ec32ddc3fc4662"
+      "bde40157ed7721c50d0b5fe27cd363ff"
     ],
     [
       "Hacl.Impl.BignumQ.Mul.barrett_reduction",
@@ -320,7 +320,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "55ff8c0b73f18dc547d97be3b427c115"
+      "e4e6f7ff70079076c12643fa30cd06fe"
     ],
     [
       "Hacl.Impl.BignumQ.Mul.mul_modq",
@@ -338,7 +338,7 @@
         "typing_Prims.pow2"
       ],
       0,
-      "dce634318b66951ea6ef6062ce7cd0a2"
+      "a46cadb308035e15c8c6201578207649"
     ],
     [
       "Hacl.Impl.BignumQ.Mul.mul_modq",
@@ -499,7 +499,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "22bd9324d4f9004e4566d7bc99c3bdf2"
+      "9cf6d0083a586d366c299cdf329212e9"
     ],
     [
       "Hacl.Impl.BignumQ.Mul.add_modq",
@@ -514,7 +514,7 @@
         "typing_Hacl.Impl.BignumQ.Mul.as_nat"
       ],
       0,
-      "4301110d6ee5cf18e3d37f129a33d61a"
+      "1bd7767317ce370e04e098c84ce6c989"
     ],
     [
       "Hacl.Impl.BignumQ.Mul.add_modq",
@@ -581,7 +581,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "d3309ef33b06a76dd512680c9163d411"
+      "a77c91843cf3047dab5d812042514629"
     ]
   ]
 ]

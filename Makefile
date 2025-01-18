@@ -387,7 +387,7 @@ obj/Vale.Lib.Operator.fst: VALE_FLAGS=
 
 # A pseudo-target for the first stage.
 vale-fst: $(VALE_FSTS)
-
+	@echo "Done vale-fst"
 
 ################################################
 # Verifying F* files to produce .checked files #

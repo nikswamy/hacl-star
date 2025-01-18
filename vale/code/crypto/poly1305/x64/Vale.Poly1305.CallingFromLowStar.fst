@@ -229,6 +229,14 @@ let lemma_block_extra (h1:HS.mem) (inp_b:B.buffer UInt8.t) (len:nat) : Lemma
   let j1 = i * size_block in
   let j2 = i * size_block + size_block in
   let text = BF.to_bytes inp_sb in
+  assert (j1 >= 0)
+  by (
+    let open FStar.Tactics in
+    let open FStar.Stubs.Tactics.V2.Builtins in
+    let open FStar.Tactics.SMT in
+    set_options "--z3smtopt '(set-option :smt.arith.nl true)'";
+    smt()
+  );
   let block = slice text j1 j2 in
   let nLo = nat_from_bytes_le (slice block 0 nExtra) in
   let nHi = nat_from_bytes_le (slice block nExtra 16) in

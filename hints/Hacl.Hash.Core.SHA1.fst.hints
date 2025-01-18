@@ -27,7 +27,7 @@
         "typing_FStar.Monotonic.HyperStack.get_tip"
       ],
       0,
-      "d9992ae3fd2529c56561d82710512ea7"
+      "d5f4a0d7397949d3102af93f4892180c"
     ],
     [
       "Hacl.Hash.Core.SHA1.alloca",
@@ -86,7 +86,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "720153473127dc0f66fd51540bc46736"
+      "0f941a8ac9bf71f875dc6f5180b7c049"
     ],
     [
       "Hacl.Hash.Core.SHA1.h0",
@@ -117,7 +117,7 @@
         "typing_LowStar.Monotonic.Buffer.loc_none", "typing_Spec.SHA1.init"
       ],
       0,
-      "3f13751c2ab0a85401a7185c86186d24"
+      "2cff008a88f74693319ee8e3378ef0d4"
     ],
     [
       "Hacl.Hash.Core.SHA1.init",
@@ -209,7 +209,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok", "unit_typing"
       ],
       0,
-      "885623744e80fa5c978395d1900af3d5"
+      "06ffb0e77debbc22917fc2b44310871a"
     ],
     [
       "Hacl.Hash.Core.SHA1.block_t",
@@ -218,7 +218,7 @@
       0,
       [ "@query" ],
       0,
-      "2a750c5038e5516ec38243eacf79e69d"
+      "18b5330b8035551f86cfab22e19b80cd"
     ],
     [
       "Hacl.Hash.Core.SHA1.w_inv'",
@@ -253,7 +253,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "fe665ab70756c9a76ebd7b0243e19ea6"
+      "381f859d8b99b0703f3c2a11111370ef"
     ],
     [
       "Hacl.Hash.Core.SHA1.w_loop_inv",
@@ -302,7 +302,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "9eb69cd4b42d406f4619b355f3b59d5b"
+      "9b291b1d83a860c5d3bb1b1f814bfa7d"
     ],
     [
       "Hacl.Hash.Core.SHA1.w_inv_elim",
@@ -349,7 +349,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "b2ce5176305c5cbdb1ab77ef49d1c60c"
+      "e5684f36f0ed87b3fdd7226cbf7bd5e5"
     ],
     [
       "Hacl.Hash.Core.SHA1.w_loop_inv_elim",
@@ -417,7 +417,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "0742622fb87a7dda4b788a26aeb061cb"
+      "0e6060286a2c660a78494b0ea2e3b713"
     ],
     [
       "Hacl.Hash.Core.SHA1.index_32_be'",
@@ -496,7 +496,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "6bd78f3c100152191ce88f431493b327"
+      "f85a8529154949c2cfbf57bb00c6385e"
     ],
     [
       "Hacl.Hash.Core.SHA1.w_body_value",
@@ -596,7 +596,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "1cc636ca88e85f073953713566a9cf56"
+      "d123f3b541e7d6fe04cf34b3228f6599"
     ],
     [
       "Hacl.Hash.Core.SHA1.lt_S_r",
@@ -613,7 +613,7 @@
         "typing_Prims.int"
       ],
       0,
-      "3ab7f932e1a75a6c8d64e1bd56e33900"
+      "87708c191720a575a0811270964d33f8"
     ],
     [
       "Hacl.Hash.Core.SHA1.w_body",
@@ -701,7 +701,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "0f443dcb835fe09e104baa0c36b66089"
+      "04bd438a15e34c1f527eb8470f780f9d"
     ],
     [
       "Hacl.Hash.Core.SHA1.w",
@@ -764,7 +764,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "3d64f7d970973f1dfadf8e3b8427fe12"
+      "f3bc0a35a2cd26e70ae07ce7c48230fd"
     ],
     [
       "Hacl.Hash.Core.SHA1.upd5",
@@ -799,7 +799,7 @@
         "typing_LowStar.Monotonic.Buffer.loc_buffer"
       ],
       0,
-      "daaba47ba1ddabeae6e71bf7964974fe"
+      "43a38f85ed7f3215c22a5667a18d54e1"
     ],
     [
       "Hacl.Hash.Core.SHA1.step3_body",
@@ -880,7 +880,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "cfc4d773a333517f93d9f24871acd2d8"
+      "cf6ccb3d5fec2edd0f407a4edbeebcb8"
     ],
     [
       "Hacl.Hash.Core.SHA1.zero_out",
@@ -926,7 +926,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "991ffa4e8bb75508245fe8a5d53fcecb"
+      "6ca04cd63e9dbed4cc1259052aa6a13a"
     ],
     [
       "Hacl.Hash.Core.SHA1.zero_out",
@@ -935,7 +935,7 @@
       0,
       [ "@query" ],
       0,
-      "ea4ca902dd8b14e5043ebbe979b36ed8"
+      "21cc0fed36fc33878f0d7444bf5701f5"
     ],
     [
       "Hacl.Hash.Core.SHA1.spec_step3_body_spec",
@@ -959,7 +959,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "7fb45b67cacf643c5a85b93b04f8d04d"
+      "e879cf0fe39613e3e8aefd46148af118"
     ],
     [
       "Hacl.Hash.Core.SHA1.step3",
@@ -1030,7 +1030,6 @@
         "lemma_FStar.HyperStack.ST.lemma_same_refs_in_non_tip_regions_elim",
         "lemma_FStar.Int.pow2_values", "lemma_FStar.Map.lemma_ContainsDom",
         "lemma_FStar.Map.lemma_InDomRestrict",
-        "lemma_FStar.Map.lemma_InDomUpd2",
         "lemma_FStar.Map.lemma_SelRestrict", "lemma_FStar.Map.lemma_SelUpd2",
         "lemma_FStar.Map.lemma_UpdDomain",
         "lemma_FStar.Monotonic.HyperHeap.lemma_includes_refl",
@@ -1070,9 +1069,10 @@
         "lemma_LowStar.Monotonic.Buffer.popped_modifies",
         "lemma_LowStar.Monotonic.Buffer.unused_in_loc_unused_in",
         "lemma_LowStar.Monotonic.Buffer.unused_in_not_unused_in_disjoint_2",
-        "primitive_Prims.op_AmpAmp", "primitive_Prims.op_Equality",
-        "primitive_Prims.op_LessThanOrEqual", "primitive_Prims.op_Multiply",
-        "primitive_Prims.op_Negation", "primitive_Prims.op_Subtraction",
+        "primitive_Prims.op_AmpAmp", "primitive_Prims.op_BarBar",
+        "primitive_Prims.op_Equality", "primitive_Prims.op_LessThanOrEqual",
+        "primitive_Prims.op_Multiply", "primitive_Prims.op_Negation",
+        "primitive_Prims.op_Subtraction",
         "projection_inverse_BoxBool_proj_0",
         "projection_inverse_BoxInt_proj_0",
         "projection_inverse_Prims.Mkdtuple2_@_1",
@@ -1137,7 +1137,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "3fd2f6bde5f9876d233bd61739278590"
+      "808b509fe3ae0966889bcdddc10f8672"
     ],
     [
       "Hacl.Hash.Core.SHA1.step4",
@@ -1207,7 +1207,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "52e42d2e951edf54ecab7b8a43d739ec"
+      "b2c195cec8e8ea43bf84f15b0f074be7"
     ],
     [
       "Hacl.Hash.Core.SHA1.update",
@@ -1223,7 +1223,7 @@
         "projection_inverse_Prims.Mkdtuple2_@_1"
       ],
       0,
-      "2a6cbaf536f9c42f7e8d81f78793ae3e"
+      "bb2886c2060ba5892944cf59405987b4"
     ],
     [
       "Hacl.Hash.Core.SHA1.update",
@@ -1267,7 +1267,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA1@tok"
       ],
       0,
-      "5215bcd5f982a8c37f2fc18bc5c64029"
+      "7571089888029cb26e42baaf2931a119"
     ],
     [
       "Hacl.Hash.Core.SHA1.update",
@@ -1276,7 +1276,7 @@
       0,
       [ "@query" ],
       0,
-      "cd328a3e7f7e50415af37574b9228ec1"
+      "e64340f89c0f6cf2591857c747eafa81"
     ],
     [
       "Hacl.Hash.Core.SHA1.pad",
@@ -1290,7 +1290,7 @@
         "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "e39d15aa0794b25ee22bec5cc72e8647"
+      "854062a657f82d5bb9f83c4dbb79edbf"
     ],
     [
       "Hacl.Hash.Core.SHA1.pad",
@@ -1304,7 +1304,7 @@
         "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "6234fa3d3ae0218940cebaf9c5c09159"
+      "fe093869696c9112eab8fb524141094d"
     ],
     [
       "Hacl.Hash.Core.SHA1.finish",
@@ -1321,7 +1321,7 @@
         "projection_inverse_Prims.Mkdtuple2_@_1"
       ],
       0,
-      "519215c3289be4dd38f470d9c16c1967"
+      "537cef68ca2b671cd0d5fa1555c66590"
     ],
     [
       "Hacl.Hash.Core.SHA1.finish",
@@ -1342,7 +1342,7 @@
         "typing_tok_Spec.Hash.Definitions.Shake256@tok"
       ],
       0,
-      "92b588287f30b9a5229718fdf1360cb5"
+      "62a821c1b77eb41732fa0a311b610e37"
     ]
   ]
 ]

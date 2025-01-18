@@ -50,7 +50,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "f2680b670de8b36ee1f3c2c07306c888"
+      "7bd810f6a8540077f96e2dc986693780"
     ],
     [
       "Hacl.Impl.BignumQ.Mul.wide_as_nat",
@@ -101,7 +101,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "52d7401210277f92044ea98ae88b063e"
+      "7066fad9de3905b7b2084740a6cc5b02"
     ],
     [
       "Hacl.Impl.BignumQ.Mul.qelem_fits",
@@ -152,7 +152,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "eb5a01a1f9a1a9b2ca48fb6b3de43b3d"
+      "5ab5e34225c70442266bd5534f011bae"
     ],
     [
       "Hacl.Impl.BignumQ.Mul.qelem_wide_fits",
@@ -203,7 +203,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "257f21a51a8201210d6c924a76e118bc"
+      "d7f6e8570ea528747ce943ee2a8edb80"
     ],
     [
       "Hacl.Impl.BignumQ.Mul.barrett_reduction",
@@ -221,7 +221,7 @@
         "typing_Prims.pow2"
       ],
       0,
-      "221866e6da7b3898ae40d7d040008b2a"
+      "6e10aabb9d5b283720d9d03fb4b14cb1"
     ],
     [
       "Hacl.Impl.BignumQ.Mul.mul_modq",
@@ -239,7 +239,7 @@
         "typing_Prims.pow2"
       ],
       0,
-      "dce634318b66951ea6ef6062ce7cd0a2"
+      "dd196d6e3dc081a0dc4b30ee804e209f"
     ],
     [
       "Hacl.Impl.BignumQ.Mul.add_modq",
@@ -254,7 +254,7 @@
         "typing_Hacl.Impl.BignumQ.Mul.as_nat"
       ],
       0,
-      "4301110d6ee5cf18e3d37f129a33d61a"
+      "d60bdb5f60f602b026bf5f088b5ceff1"
     ]
   ]
 ]

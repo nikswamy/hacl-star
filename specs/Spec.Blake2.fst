@@ -10,7 +10,7 @@ module UpdateMulti = Lib.UpdateMulti
 
 include Spec.Blake2.Definitions
 
-#set-options "--z3rlimit 50"
+#set-options "--z3rlimit 50 --ext context_pruning"
 
 /// Serialize blake2s parameters to be xor'ed with the state during initialization
 /// As the state is represented using uint32, we need to serialize to uint32 instead

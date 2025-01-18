@@ -8,7 +8,7 @@
       0,
       [ "@query" ],
       0,
-      "ee3fcc145460023e4dc240f7f1a3943c"
+      "d7e126e7116e1ea5cb6a6c9bf3f4fc1a"
     ],
     [
       "Vale.PPC64LE.InsMem.create_post",
@@ -17,7 +17,7 @@
       0,
       [ "@query", "assumption_Vale.Arch.HeapImpl.mutability__uu___haseq" ],
       0,
-      "11a87b0ebab6659be7e995ccfaa5202d"
+      "8a686ffc48d3071dec49f445e473d54a"
     ],
     [
       "Vale.PPC64LE.InsMem.destroy_heaplets_this",
@@ -26,7 +26,7 @@
       0,
       [ "@query" ],
       0,
-      "e672b6374d1dec1cc33463a0635ddacc"
+      "7927cbeed92a5b9ca0c809794a2d134d"
     ],
     [
       "Vale.PPC64LE.InsMem.va_lemma_CreateHeaplets",
@@ -42,7 +42,7 @@
         "typing_Vale.Lib.Seqs.list_to_seq"
       ],
       0,
-      "aaddfaf1b6e76935de7f5f898039944e"
+      "8feed772ab4c52022823b033cdb14e44"
     ],
     [
       "Vale.PPC64LE.InsMem.va_lemma_CreateHeaplets",
@@ -164,7 +164,7 @@
         "typing_Vale.PPC64LE.Memory_Sems.create_heaplets", "unit_typing"
       ],
       0,
-      "fada258da49186ee953797d5bfcbe766"
+      "2691e15983b24322a6bdce7fc9dce328"
     ],
     [
       "Vale.PPC64LE.InsMem.va_wp_CreateHeaplets",
@@ -178,7 +178,7 @@
         "typing_FStar.Seq.Base.length"
       ],
       0,
-      "45923f1d93f89555087f9078e96ab875"
+      "d5560c2690103dfca7b9f000e97da3ab"
     ],
     [
       "Vale.PPC64LE.InsMem.va_wpProof_CreateHeaplets",
@@ -256,7 +256,7 @@
         "unit_typing"
       ],
       0,
-      "9c88a22aa515e033d16c8603dd416bba"
+      "d6ccc0bdd3ebed5bacb6db9acd56e968"
     ],
     [
       "Vale.PPC64LE.InsMem.va_quick_CreateHeaplets",
@@ -269,7 +269,7 @@
         "fuel_guarded_inversion_FStar.Pervasives.Native.tuple3"
       ],
       0,
-      "38754b96de8ae53a4feee8d9ace3ff98"
+      "1ecfbde5850ffa9bec5006cf9ac0cf6a"
     ],
     [
       "Vale.PPC64LE.InsMem.va_lemma_DestroyHeaplets",
@@ -382,7 +382,7 @@
         "typing_Vale.PPC64LE.Memory_Sems.destroy_heaplets", "unit_typing"
       ],
       0,
-      "81d979dd35ee7d737f5a9d433bf99c1c"
+      "dd9fb07e867f848ee3e0c52606be17ad"
     ],
     [
       "Vale.PPC64LE.InsMem.va_wpProof_DestroyHeaplets",
@@ -458,7 +458,7 @@
         "unit_typing"
       ],
       0,
-      "5db445ba20f2d65d05240a949fc40c62"
+      "cc81fa1c3679fd814893ddf4ad195157"
     ],
     [
       "Vale.PPC64LE.InsMem.va_quick_DestroyHeaplets",
@@ -471,7 +471,7 @@
         "fuel_guarded_inversion_FStar.Pervasives.Native.tuple3"
       ],
       0,
-      "42fffbb90245dbaf9f498b7d0efdee03"
+      "b4f3b1ec6abfd640fe287117f14d67a4"
     ],
     [
       "Vale.PPC64LE.InsMem.va_lemma_MemLoad64",
@@ -628,7 +628,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.TUInt64@tok", "unit_typing"
       ],
       0,
-      "415cbafb5506d7623fa03cdd48bfd127"
+      "d434a2e19a7e1864db8e068f44e8d7cd"
     ],
     [
       "Vale.PPC64LE.InsMem.va_wpProof_MemLoad64",
@@ -710,7 +710,7 @@
         "typing_Vale.PPC64LE.State.update_reg", "unit_typing"
       ],
       0,
-      "92318c0fbc961a25bff1b17a11a52468"
+      "79e1eba9059ef860e02b22321e9a0d40"
     ],
     [
       "Vale.PPC64LE.InsMem.va_quick_MemLoad64",
@@ -723,7 +723,7 @@
         "fuel_guarded_inversion_FStar.Pervasives.Native.tuple3"
       ],
       0,
-      "7867887e646593f2a420032a819bfed6"
+      "d1b724645aff7df7fba11d60389b0c62"
     ],
     [
       "Vale.PPC64LE.InsMem.va_lemma_MemStore64",
@@ -742,7 +742,7 @@
         "refinement_interpretation_Tm_refine_e552a59dd5a302887714d2c9b0521226"
       ],
       0,
-      "3b52af2a238516a75136405df867c05e"
+      "143c2f0bc0ac67b48e9ae09cfd6261f9"
     ],
     [
       "Vale.PPC64LE.InsMem.va_lemma_MemStore64",
@@ -884,7 +884,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.TUInt64@tok", "unit_typing"
       ],
       0,
-      "0bdec71855bba641d3b289854a9a9633"
+      "d1e68730fa07626eac733c7b4dd2ce65"
     ],
     [
       "Vale.PPC64LE.InsMem.va_wp_MemStore64",
@@ -898,7 +898,7 @@
         "equation_Vale.PPC64LE.Memory.valid_buffer_write", "int_inversion"
       ],
       0,
-      "bd44cdcf3efed289ce10c426a650a775"
+      "4c45e080902ab9d60035bcdec27356ae"
     ],
     [
       "Vale.PPC64LE.InsMem.va_wpProof_MemStore64",
@@ -974,7 +974,7 @@
         "typing_Vale.PPC64LE.Machine_s.valid_maddr_offset64", "unit_typing"
       ],
       0,
-      "249e5665d53d42901ba87c6b20250ea1"
+      "aa95fa77a3c4fabb7bbfcae82bdf72cc"
     ],
     [
       "Vale.PPC64LE.InsMem.va_quick_MemStore64",
@@ -987,7 +987,7 @@
         "fuel_guarded_inversion_FStar.Pervasives.Native.tuple3"
       ],
       0,
-      "5f781ba98cb674fa1b09f5924434d4b7"
+      "e3b1b0fed01a2e0ec1364f9ef9f766b9"
     ]
   ]
 ]

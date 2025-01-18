@@ -24,7 +24,7 @@
         "typing_Prims.int"
       ],
       0,
-      "22780db2edd24c31ea5fc048484cc7a1"
+      "fee3f60ea821fa57db7e6097e7c19afb"
     ],
     [
       "Vale.Curve25519.FastSqr_helpers.lemma_sqr",
@@ -41,7 +41,7 @@
         "typing_Vale.Curve25519.Fast_defs.mul_nats"
       ],
       0,
-      "8ef2116363fd76c8476ffa594eb2b1b6"
+      "b8ac29416597dad5423c9759afbd3a26"
     ]
   ]
 ]

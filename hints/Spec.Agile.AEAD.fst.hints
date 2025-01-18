@@ -8,7 +8,7 @@
       1,
       [ "@query" ],
       0,
-      "98062c1380eec4f6ee842e60e00f2a5c"
+      "7195dfa8ed94fdb48ee1405db97a5527"
     ],
     [
       "Spec.Agile.AEAD.cipher_alg_of_supported_alg",
@@ -26,7 +26,7 @@
         "refinement_interpretation_Tm_refine_ce5a1bd8437baa640019cd70bf466fc0"
       ],
       0,
-      "18373de58adc468214c8ff65341facd2"
+      "120cdd5fc9f59910cfc3a558c0c7cc8d"
     ],
     [
       "Spec.Agile.AEAD.key_length",
@@ -57,7 +57,7 @@
         "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "cd8141d7562fdfc7dd520737ae3882d0"
+      "05c9e417eafcc673c9c9e60180ec767d"
     ],
     [
       "Spec.Agile.AEAD.tag_length",
@@ -77,7 +77,7 @@
         "projection_inverse_BoxBool_proj_0"
       ],
       0,
-      "314abfdb5974f1e41605a724cef07e9e"
+      "e6ebd3d026a6fc6eb63a44414a6756b7"
     ],
     [
       "Spec.Agile.AEAD.iv_length",
@@ -103,7 +103,7 @@
         "typing_Spec.Agile.AEAD.uu___is_CHACHA20_POLY1305"
       ],
       0,
-      "f16bddb44cd240a958f8a902758747bf"
+      "a17274e23906fab4e4e2b7f73538eee7"
     ],
     [
       "Spec.Agile.AEAD.max_length",
@@ -131,7 +131,7 @@
         "typing_Prims.pow2", "typing_Spec.Agile.AEAD.uu___is_AES256_GCM"
       ],
       0,
-      "9a3ca6acd101cd146b0b1938e92d2298"
+      "0c39b7aa45dff1ddc65055960fc588ab"
     ],
     [
       "Spec.Agile.AEAD.lbytes",
@@ -140,7 +140,7 @@
       1,
       [ "@query" ],
       0,
-      "c27a075b590cf5b350d9883cf732960d"
+      "5270f2e080e0a315a799ab165144c80e"
     ],
     [
       "Spec.Agile.AEAD.vale_alg_of_alg",
@@ -159,7 +159,7 @@
         "refinement_interpretation_Tm_refine_5171614844d45d48a27a076e659221d2"
       ],
       0,
-      "158efafbdde27dc4320557271f5829dd"
+      "33955fe8ec991788a0886b56ef22f34a"
     ],
     [
       "Spec.Agile.AEAD.vale_alg_of_alg",
@@ -168,7 +168,7 @@
       0,
       [ "@query", "assumption_Spec.Agile.AEAD.alg__uu___haseq" ],
       0,
-      "c7b5b08c979590ad8bbbbed6d0a702c4"
+      "8e1f7aa3917f6b9f29274ede7b2827f9"
     ],
     [
       "Spec.Agile.AEAD.gcm_encrypt_tag_length",
@@ -247,7 +247,7 @@
         "typing_Vale.Def.Words_s.nat32", "typing_Vale.Def.Words_s.nat8"
       ],
       0,
-      "8988189c545a95ec88eda7c4b64ba6ef"
+      "8f5514cebbb71144239dce7434c06677"
     ],
     [
       "Spec.Agile.AEAD.gcm_encrypt_cipher_length",
@@ -310,7 +310,7 @@
         "typing_Vale.Def.Words_s.nat32", "typing_Vale.Def.Words_s.nat8"
       ],
       0,
-      "28a05a845b46020dacff022e23ad73e4"
+      "7a1b8b9ac5b8561bc8693171187974d1"
     ],
     [
       "Spec.Agile.AEAD.encrypt",
@@ -350,9 +350,8 @@
         "equality_tok_Spec.Agile.Cipher.CHACHA20@tok",
         "equality_tok_Vale.AES.AES_common_s.AES_128@tok",
         "equality_tok_Vale.AES.AES_common_s.AES_256@tok",
-        "equation_Lib.IntTypes.int_t", "equation_Lib.IntTypes.minint",
-        "equation_Lib.IntTypes.pub_int_t", "equation_Lib.IntTypes.sec_int_t",
-        "equation_Lib.IntTypes.unsigned", "equation_Lib.Sequence.length",
+        "equation_Lib.IntTypes.int_t", "equation_Lib.IntTypes.pub_int_t",
+        "equation_Lib.IntTypes.sec_int_t", "equation_Lib.Sequence.length",
         "equation_Prims.nat", "equation_Spec.AES.key_size",
         "equation_Spec.Agile.AEAD.ad",
         "equation_Spec.Agile.AEAD.cipher_alg_of_supported_alg",
@@ -404,7 +403,7 @@
         "typing_Vale.Def.Words_s.nat8"
       ],
       0,
-      "677f632bcd40c31dfc9c85a96a239dbe"
+      "62d8e32d111bffbcda04cc0b9081d8b2"
     ],
     [
       "Spec.Agile.AEAD.gcm_decrypt_cipher_length",
@@ -472,7 +471,7 @@
         "typing_Vale.Def.Words_s.nat32", "typing_Vale.Def.Words_s.nat8"
       ],
       0,
-      "56022e2b7eddb0552d1a60c597ea9c14"
+      "c8ac3e81b010e8688e4666c5a9f1a84b"
     ],
     [
       "Spec.Agile.AEAD.decrypt",
@@ -574,7 +573,7 @@
         "typing_Vale.Def.Words_s.nat8"
       ],
       0,
-      "09f66d277b636af58a0644ad76917859"
+      "9ad85181bd8add828293f1b04e8fa40a"
     ],
     [
       "Spec.Agile.AEAD.correctness",
@@ -588,7 +587,7 @@
         "typing_Spec.Agile.AEAD.encrypt"
       ],
       0,
-      "eb93ee464005a252e6e0eec442796ffc"
+      "0a2135f840df37632d7882126e32985a"
     ]
   ]
 ]

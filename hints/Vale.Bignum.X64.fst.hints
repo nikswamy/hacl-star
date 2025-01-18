@@ -18,7 +18,7 @@
         "typing_Vale.X64.Decls.cf", "typing_Vale.X64.Decls.overflow"
       ],
       0,
-      "93761f182dfd34f75e690abbba1665f8"
+      "2d19b3ae98b56bec7af866e0fe64e398"
     ],
     [
       "Vale.Bignum.X64.lemma_add_hi_lo64",
@@ -37,7 +37,7 @@
         "typing_Vale.Bignum.Defs.add_hi"
       ],
       0,
-      "712bf3ac7115ecf3a809d75c29877886"
+      "5ced873fec1dea2c9ad774c503cf4472"
     ],
     [
       "Vale.Bignum.X64.va_lemma_Adcx_64",
@@ -107,7 +107,7 @@
         "typing_Vale.X64.State.eval_operand"
       ],
       0,
-      "002934ac637a0db4ca0b939354d8acb8"
+      "85214a2d1eeb096afe37f8577bddb820"
     ],
     [
       "Vale.Bignum.X64.va_wpProof_Adcx_64",
@@ -186,7 +186,7 @@
         "typing_tok_Vale.X64.QuickCode.Mod_stackTaint@tok", "unit_typing"
       ],
       0,
-      "a43c25ebdd2964dcccf888250d9a4e3d"
+      "2ca23f923f95a3828c45e37db85238d4"
     ],
     [
       "Vale.Bignum.X64.va_quick_Adcx_64",
@@ -198,7 +198,7 @@
         "fuel_guarded_inversion_FStar.Pervasives.Native.tuple3"
       ],
       0,
-      "84c977ef6a0e5bb5e0f00efdfaa20918"
+      "af3b82d93507b676061b8d8e0132c945"
     ],
     [
       "Vale.Bignum.X64.va_lemma_Adox_64",
@@ -268,7 +268,7 @@
         "typing_Vale.X64.State.eval_operand"
       ],
       0,
-      "9a99e419633cfb245a61463fa62e8a5a"
+      "69136a39b8f704c57817594446966d48"
     ],
     [
       "Vale.Bignum.X64.va_wpProof_Adox_64",
@@ -347,7 +347,7 @@
         "typing_tok_Vale.X64.QuickCode.Mod_stackTaint@tok", "unit_typing"
       ],
       0,
-      "9d571a172690dd318e199116d1f041b8"
+      "4f1cc9af0759c559af9021e07a71a73c"
     ],
     [
       "Vale.Bignum.X64.va_quick_Adox_64",
@@ -359,7 +359,7 @@
         "fuel_guarded_inversion_FStar.Pervasives.Native.tuple3"
       ],
       0,
-      "6149baee14d2ef279dff166c11df152f"
+      "7daa19c5c5508c23a2e537bf89b89bc4"
     ],
     [
       "Vale.Bignum.X64.va_lemma_Mulx_64",
@@ -413,7 +413,7 @@
         "typing_Vale.X64.State.eval_operand"
       ],
       0,
-      "9ff6da14b0814763320670245939bf67"
+      "644a28a0a730e31b0aa962886345c740"
     ]
   ]
 ]

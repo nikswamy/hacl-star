@@ -29,7 +29,7 @@
         "unit_typing"
       ],
       0,
-      "2821eb7b588a8732640452de1f95b2a9"
+      "75d9479716484826d082251d625f9f69"
     ],
     [
       "Hacl.Streaming.Poly1305_32.alloca",
@@ -59,7 +59,7 @@
         "unit_typing"
       ],
       0,
-      "e3c480388d8f046610ecb467d5d56928"
+      "2df5803ad92edcf406568162fb9f07de"
     ],
     [
       "Hacl.Streaming.Poly1305_32.malloc",
@@ -89,7 +89,7 @@
         "unit_typing"
       ],
       0,
-      "f10926ab0ee7f38ef097f799f35d155d"
+      "cb99d5550e795eedbaf94394487cf350"
     ],
     [
       "Hacl.Streaming.Poly1305_32.reset",
@@ -119,7 +119,7 @@
         "unit_typing"
       ],
       0,
-      "9fedbab20e487f5ba56d44a3dcf759dc"
+      "191079156eebf7a502edf674152d319c"
     ],
     [
       "Hacl.Streaming.Poly1305_32.update",
@@ -149,7 +149,7 @@
         "unit_typing"
       ],
       0,
-      "74b4fd1c3e8dd2cc080d60839e5e49de"
+      "9b4f135b3081d6f295282079b040b7d8"
     ],
     [
       "Hacl.Streaming.Poly1305_32.digest",
@@ -179,7 +179,7 @@
         "unit_typing"
       ],
       0,
-      "ef1eba1ce151339bebef7418aebb64c8"
+      "d3443e1f175a6c9588bb487033a3cc88"
     ],
     [
       "Hacl.Streaming.Poly1305_32.free",
@@ -209,7 +209,7 @@
         "unit_typing"
       ],
       0,
-      "90259f12d84529ac03d15b35b38d55dd"
+      "3d4cb38c029c50efae756b9fc3754d7a"
     ]
   ]
 ]

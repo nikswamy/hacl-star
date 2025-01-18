@@ -43,7 +43,7 @@
         "typing_Vale.Def.Words_s.nat8", "typing_Vale.Lib.Map16.sel"
       ],
       0,
-      "5022d5c611e4b398a725e2b4545fb5f6"
+      "9a42186171c9281403b8689be95f6b86"
     ],
     [
       "Vale.Arch.Heap.heap_upd",
@@ -61,7 +61,7 @@
         "projection_inverse_Vale.Arch.HeapImpl.Mkvale_heap_layout_@vl_taint"
       ],
       0,
-      "1267dde516c664c7920e9ee86b05d981"
+      "e91253e8b73b5c2f14567861505ad2e2"
     ],
     [
       "Vale.Arch.Heap.heap_create_machine",
@@ -77,7 +77,7 @@
         "typing_Vale.Interop.down_mem"
       ],
       0,
-      "5a74ab296de9408690388c0b47fbe2c1"
+      "b5ed7f058d1c276657fc6f6fcb8c1fa4"
     ],
     [
       "Vale.Arch.Heap.heap_create_impl",
@@ -99,7 +99,7 @@
         "projection_inverse_Vale.Arch.HeapImpl.ValeHeap_@mh"
       ],
       0,
-      "2983f1a1c29b9b76d9de71a7ece1d2d6"
+      "c54c85a274a6c7cf434e9ba3e596fb56"
     ]
   ]
 ]

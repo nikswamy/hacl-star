@@ -31,7 +31,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "cfed84a33d31fb71ab3690e520f6fd9d"
+      "c24e8bbc807b3ce438e0adf6028eebe6"
     ],
     [
       "Hacl.Impl.Poly1305.Bignum128.mod_add128",
@@ -40,7 +40,7 @@
       0,
       [ "@query" ],
       0,
-      "6a58e65f78572ff0de121dd0bbb2e91f"
+      "bc9a1f9619e8cf590887b08b433c44b7"
     ]
   ]
 ]

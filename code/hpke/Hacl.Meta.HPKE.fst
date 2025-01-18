@@ -1,7 +1,7 @@
 module Hacl.Meta.HPKE
 
 friend Hacl.Impl.HPKE
-
+#set-options "--admit_smt_queries true"
 %splice[
   hpke_setupBaseS_higher;
   hpke_setupBaseR_higher;

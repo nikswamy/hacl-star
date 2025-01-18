@@ -28,6 +28,8 @@ let same_seq_downview8 (b:B.buffer UInt8.t) (h:HS.mem) : Lemma
   assert (Seq.equal s sdb)
 
 #reset-options "--z3rlimit 60"
+#restart-solver
+module T = FStar.Tactics
 let lemma_seq_nat8_le_seq_quad32_to_bytes_uint32 b h =
   let s_init = B.as_seq h b in
   let db = get_downview b in
@@ -41,6 +43,13 @@ let lemma_seq_nat8_le_seq_quad32_to_bytes_uint32 b h =
   assert (s' == seq_four_to_seq_LE (seq_map (nat_to_four 8) (seq_four_to_seq_LE s)));
   let s_f = seq_nat8_to_seq_uint8 s' in
   UV.length_eq ub;
+  assert (Seq.length s_f == Seq.length s_init)
+      by  (    
+        let open FStar.Stubs.Tactics.V2.Builtins in
+        let open FStar.Tactics.SMT in
+        set_options "--z3smtopt '(set-option :smt.arith.nl true)'";
+        T.smt()
+  );
   let aux (i:nat{i < Seq.length s_f}) : Lemma (Seq.index s_init i == Seq.index s_f i) =
     reveal_opaque (`%seq_to_seq_four_LE) (seq_to_seq_four_LE #nat8);
     reveal_opaque (`%seq_four_to_seq_LE) (seq_four_to_seq_LE #nat8);

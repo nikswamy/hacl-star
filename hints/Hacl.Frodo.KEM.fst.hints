@@ -118,7 +118,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "ac31b40eddc26a587a196126fd38ceca"
+      "cf59faa7fedd0e7ef48690c21dd797ca"
     ],
     [
       "Hacl.Frodo.KEM.crypto_kem_keypair",
@@ -133,7 +133,7 @@
         "refinement_interpretation_Tm_refine_5ce8207b68e64c1895fedbec39f92729"
       ],
       0,
-      "469b819b09c7d81a3853b0a92c5d19c6"
+      "a9a39466df82f931c91cd9a8b6523cca"
     ],
     [
       "Hacl.Frodo.KEM.crypto_kem_enc_st",
@@ -265,7 +265,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "773afc089a4030209667c1d1113d4a97"
+      "427e4b57abc1ffe6bcc02cc46d0d6f60"
     ],
     [
       "Hacl.Frodo.KEM.crypto_kem_enc",
@@ -280,7 +280,7 @@
         "refinement_interpretation_Tm_refine_176d10156187dbb80c7584beddf50eb2"
       ],
       0,
-      "18daf89469c1fb26adf6522453af8adb"
+      "f870a6adb06ef356c80d0416fb036a53"
     ],
     [
       "Hacl.Frodo.KEM.crypto_kem_dec_st",
@@ -418,7 +418,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "56261bb2bf8554583d64e1ab3b2ac225"
+      "eaea3c9be34086093b2b8ca1f2d0bb8b"
     ],
     [
       "Hacl.Frodo.KEM.crypto_kem_dec",
@@ -431,7 +431,7 @@
         "equation_Spec.Frodo.KEM.crypto_kem_dec"
       ],
       0,
-      "f3569e9a165fb28c21c7bdab59d47c4c"
+      "a4c1dafc07bc26785b09ff0b31da49d5"
     ]
   ]
 ]

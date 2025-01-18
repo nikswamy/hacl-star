@@ -8,7 +8,7 @@
       0,
       [ "@query" ],
       0,
-      "5935237775e73fa404c6777ef11ea84a"
+      "4a5d82d8e6ea29f5de1d50e235ead706"
     ],
     [
       "Vale.Poly1305.X64.va_ens_Poly1305",
@@ -24,7 +24,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "789f7d3a5ba9af80a5c1d86abf69392b"
+      "447a7e7dacd09f44a578450d3740db3c"
     ],
     [
       "Vale.Poly1305.X64.va_lemma_Poly1305",
@@ -41,7 +41,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "8ccadb3c9f3acb7b295cbef3737f85bf"
+      "ff70d29a77e18b07700f2969bb2ed582"
     ],
     [
       "Vale.Poly1305.X64.va_wp_Poly1305",
@@ -56,7 +56,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "e1b6a78c24d7687bbc998e442aabead4"
+      "edc1e34ce56067763bf0eabee78625ca"
     ],
     [
       "Vale.Poly1305.X64.va_quick_Poly1305",
@@ -68,7 +68,7 @@
         "fuel_guarded_inversion_FStar.Pervasives.Native.tuple3"
       ],
       0,
-      "0aa9f4ea3bdb4851b0fe50f2e8d6d9ad"
+      "0b7125f0f27a39d9de11de1037c2d20b"
     ]
   ]
 ]

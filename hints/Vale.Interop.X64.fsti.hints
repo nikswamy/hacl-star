@@ -19,7 +19,7 @@
         "typing_Vale.X64.Machine_s.__proj__Reg__item__rf"
       ],
       0,
-      "db5bf3e458a8253f5210ae4538e5bc07"
+      "5a11dc89b58781ef19eac30683638f2a"
     ],
     [
       "Vale.Interop.X64.arg_reg_relation'",
@@ -38,7 +38,7 @@
         "typing_Prims.int"
       ],
       0,
-      "ad7ddfc6357fdb30b9c3c2ac878410a9"
+      "0090a2a3b8a23fcdf521f07b87212100"
     ],
     [
       "Vale.Interop.X64.__proj__Rel__item__of_arg",
@@ -57,7 +57,7 @@
         "typing_Prims.int"
       ],
       0,
-      "788e5473ccf24dfab053ad2fe15826de"
+      "3affa6952899e5ed55aae5618915273f"
     ],
     [
       "Vale.Interop.X64.__proj__Rel__item__of_arg",
@@ -76,7 +76,7 @@
         "typing_Prims.int"
       ],
       0,
-      "6ec5b0f009a666c9c36a5c696c6091aa"
+      "f565bdb948861efedf9d600b5491e44d"
     ],
     [
       "Vale.Interop.X64.arg_reg_relation",
@@ -92,7 +92,7 @@
         "typing_Prims.int"
       ],
       0,
-      "09734ebb811e01b6325f5bcdb7cac0ae"
+      "0d552895de30720b2df5029fc2830480"
     ],
     [
       "Vale.Interop.X64.upd_reg",
@@ -107,7 +107,7 @@
         "typing_Prims.int"
       ],
       0,
-      "ba4742439f7907f3227efda76df227a4"
+      "8199569cc417a2c3c402afcebe8a8adf"
     ],
     [
       "Vale.Interop.X64.arg_as_nat64",
@@ -221,7 +221,7 @@
         "typing_Vale.Interop.Base.arg", "well-founded-ordering-on-nat"
       ],
       0,
-      "e1ce928a361e086314922feeb62198d3"
+      "51db714e54a5dc714a888cb2840cb9ff"
     ],
     [
       "Vale.Interop.X64.register_of_args",
@@ -236,7 +236,7 @@
         "typing_Prims.int"
       ],
       0,
-      "85af7b0fe7dc9cbf48889da93730ed06"
+      "f65371b43028b089f27d41cc6f030eff"
     ],
     [
       "Vale.Interop.X64.stack_of_args",
@@ -268,7 +268,7 @@
         "typing_Vale.Interop.Base.arg", "well-founded-ordering-on-nat"
       ],
       0,
-      "1a81e799998192e765614a3448644558"
+      "808449e1a535001fc173af49b41cef4d"
     ],
     [
       "Vale.Interop.X64.stack_of_args",
@@ -283,7 +283,7 @@
         "typing_Prims.int"
       ],
       0,
-      "268fc6959419da54e933ad0ce1474b91"
+      "1a7b79c3684eb3f9da534038837669cb"
     ],
     [
       "Vale.Interop.X64.upd_taint_map_arg",
@@ -304,7 +304,7 @@
         "typing_Prims.__proj__Mkdtuple2__item___1"
       ],
       0,
-      "6c97bcca3ab240373b18b5b32e80ce8a"
+      "d65e3a52b2219e706a17fa86147e9f1b"
     ],
     [
       "Vale.Interop.X64.taint_arg_b8",
@@ -339,7 +339,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.Secret@tok"
       ],
       0,
-      "0a48d1f62df49056c5044aeb7662a8a8"
+      "bc0615108eae9561b482511b61f2976a"
     ],
     [
       "Vale.Interop.X64.taint_arg_args_b8_mem",
@@ -398,7 +398,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.Secret@tok"
       ],
       0,
-      "0d23ac184437daa68f9f6406e96835b7"
+      "f130871b15d5d6f97d525fa3cb60c43d"
     ],
     [
       "Vale.Interop.X64.taint_arg_args_b8_mem",
@@ -407,7 +407,7 @@
       0,
       [ "@query" ],
       0,
-      "327a6cca5f5a670956446c1c0abe9868"
+      "4b66fce2ec49251c922eb562dd3447a7"
     ],
     [
       "Vale.Interop.X64.mk_taint_equiv",
@@ -532,7 +532,7 @@
         "unit_typing"
       ],
       0,
-      "57ac99b7062904552676dc7cebbfc724"
+      "9e83d6842dfe1107b743c5cc916253e3"
     ],
     [
       "Vale.Interop.X64.mk_taint_equiv",
@@ -541,7 +541,7 @@
       0,
       [ "@query" ],
       0,
-      "72b5e36e84b90ffaea5f8f894114fff2"
+      "207fa7b4b7cb50f9c3e8430fe8029c37"
     ],
     [
       "Vale.Interop.X64.create_initial_trusted_state",
@@ -591,7 +591,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.Secret@tok"
       ],
       0,
-      "439fb7ed0786ac421d937990cbb2a143"
+      "faee7ec82e9d39e47735e8a96262e526"
     ],
     [
       "Vale.Interop.X64.return_val_t",
@@ -600,7 +600,7 @@
       0,
       [ "@query" ],
       0,
-      "7cef0eb6d4bc9b28ae1412aaf6922430"
+      "a67d80092ee25579fde45b8a325908e7"
     ],
     [
       "Vale.Interop.X64.return_val",
@@ -621,7 +621,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "f78c9c59ac003bffb1129b511a7f9497"
+      "6e396699c0ad494c2803bad459543e3d"
     ],
     [
       "Vale.Interop.X64.prediction_post",
@@ -630,7 +630,7 @@
       0,
       [ "@query" ],
       0,
-      "9e1d6882577da1a2f6f3f166d2bf0bdd"
+      "b5a604f1e890b5fa6d8f04000a8984c3"
     ],
     [
       "Vale.Interop.X64.as_lowstar_sig_post",
@@ -639,7 +639,7 @@
       0,
       [ "@query", "equation_Vale.Interop.X64.prediction_pre" ],
       0,
-      "dc0d2a2b7718d839e30946f2787d3aee"
+      "a927bb2e6cfa99256c70c6031c046fd0"
     ],
     [
       "Vale.Interop.X64.as_lowstar_sig",
@@ -651,7 +651,7 @@
         "refinement_interpretation_Tm_refine_6421027c61f5292fa48281245d34d260"
       ],
       0,
-      "0ff5bbc67b7c7784e296454a3fb3aeef"
+      "a9198316624b6f1de7430c2c91c1faca"
     ],
     [
       "Vale.Interop.X64.rel_gen_t",
@@ -686,7 +686,7 @@
         "typing_Vale.Interop.X64.op_Plus_Plus"
       ],
       0,
-      "44d3ca916326e91861be4194535966bc"
+      "0dbbc0043d0ccc0b97a519b76e129b55"
     ],
     [
       "Vale.Interop.X64.elim_rel_gen_t_cons",
@@ -717,7 +717,7 @@
         "typing_Vale.Interop.X64.op_Plus_Plus"
       ],
       0,
-      "df1ef3c438a905c18ae6f0235b86e467"
+      "1920e2edd5e4c385fa50d6052aaafa66"
     ],
     [
       "Vale.Interop.X64.prediction_t",
@@ -767,7 +767,7 @@
         "typing_Vale.Interop.X64.op_Plus_Plus"
       ],
       0,
-      "74e95f5ee466ccb24f12f0ef12cd01cd"
+      "2154ac2d9368d632c29e6b1ca7d70b43"
     ],
     [
       "Vale.Interop.X64.prediction_t",
@@ -776,7 +776,7 @@
       0,
       [ "@query" ],
       0,
-      "b8ee795bb99371af23550eccdea080b7"
+      "22d6c93a2726845976cac3991efcfe8b"
     ],
     [
       "Vale.Interop.X64.elim_predict_t_nil",
@@ -796,7 +796,7 @@
         "refinement_interpretation_Tm_refine_4ffd84f5795375b3fd72a9ad21d4a66d"
       ],
       0,
-      "95e84db255262a6e1a580b3f705a8fc6"
+      "7d99c5e4256ecd82856997396e0a1d10"
     ],
     [
       "Vale.Interop.X64.elim_predict_t_cons",
@@ -826,7 +826,7 @@
         "typing_Vale.Interop.X64.op_Plus_Plus"
       ],
       0,
-      "44b7f0692e82f5396c6da18a4394544b"
+      "6388acabcb7daf72c881f2a4c5a45dbc"
     ],
     [
       "Vale.Interop.X64.elim_predict_t_cons",
@@ -851,7 +851,7 @@
         "refinement_interpretation_Tm_refine_72bae4f5dee393fba533c892ec381835"
       ],
       0,
-      "37bb444156654da9ce99fb854abb687f"
+      "7b8917e71d7f7f0ca08a9a97738ed748"
     ],
     [
       "Vale.Interop.X64.as_lowstar_sig_t",
@@ -902,7 +902,7 @@
         "typing_Vale.Interop.X64.op_Plus_Plus"
       ],
       0,
-      "43479d7bf141abe9535138031005a1fd"
+      "2b9cc11029742a095617be0306a2d9bc"
     ],
     [
       "Vale.Interop.X64.as_lowstar_sig_t",
@@ -911,7 +911,7 @@
       0,
       [ "@query" ],
       0,
-      "e3eb304150edc8f524c5afbabed49aae"
+      "672527feb4fdd36de0e07a54a7593b29"
     ],
     [
       "Vale.Interop.X64.wrap'",
@@ -930,7 +930,7 @@
         "typing_Vale.Interop.Base.arg"
       ],
       0,
-      "deab59c17dda5390d9f8636df5671210"
+      "8445efd4dec40e078a6bd8cc074471c6"
     ],
     [
       "Vale.Interop.X64.as_lowstar_sig_t_weak'",
@@ -980,7 +980,7 @@
         "typing_Vale.Interop.X64.op_Plus_Plus"
       ],
       0,
-      "d9c9e0cc82481523e25a11cbb68a4e2f"
+      "a302a729de058009a16e118a2f09f49d"
     ],
     [
       "Vale.Interop.X64.as_lowstar_sig_t_weak'",
@@ -999,7 +999,7 @@
         "typing_FStar.List.Tot.Base.length"
       ],
       0,
-      "e01022c7a4275846d194c616636178e4"
+      "07204271298e03f51fb9312d62e6b9fd"
     ],
     [
       "Vale.Interop.X64.wrap_weak'",
@@ -1018,7 +1018,7 @@
         "typing_Vale.Interop.Base.arg"
       ],
       0,
-      "2e83b0921d3a3b944e6fd287ca94823e"
+      "c8b259c14e4591a98122ba31b2e47467"
     ],
     [
       "Vale.Interop.X64.as_lowstar_sig_t_weak",
@@ -1030,7 +1030,7 @@
         "refinement_interpretation_Tm_refine_d1d8f590ca65fc47bf004e71761d3452"
       ],
       0,
-      "17d1e700a93aec2e5dfc0a16da007491"
+      "0e0728feb82629fd18d99cf967360d8c"
     ],
     [
       "Vale.Interop.X64.as_lowstar_sig_t_weak",
@@ -1048,7 +1048,7 @@
         "typing_FStar.List.Tot.Base.length"
       ],
       0,
-      "6d8b65af043e89ce026902ab06f88719"
+      "8d3d99fce1342a0551fb18201dcf0ca8"
     ],
     [
       "Vale.Interop.X64.wrap_weak",
@@ -1069,7 +1069,7 @@
         "typing_Vale.Interop.Base.arg"
       ],
       0,
-      "cfecd4137bab32968aa2cbcf1ff38653"
+      "5abe18e593d1ad6f7e83e687ddeed9bd"
     ],
     [
       "Vale.Interop.X64.register_of_arg_i",
@@ -1084,7 +1084,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "36f9c41a3a0bf183160ec5823f4f3d39"
+      "81cae826377956113e3cc31aa1ee673d"
     ],
     [
       "Vale.Interop.X64.arg_of_register",
@@ -1093,7 +1093,7 @@
       0,
       [ "@query", "projection_inverse_BoxInt_proj_0" ],
       0,
-      "a4326e120d6a359160e59c6807eb0534"
+      "abc3314b119ceffacc130fcbfa484bf6"
     ],
     [
       "Vale.Interop.X64.arg_reg_stdcall",
@@ -1141,7 +1141,7 @@
         "typing_Vale.Interop.X64.register_of_arg_i"
       ],
       0,
-      "e2842f0069318b7fa37b48daf5c0fd4f"
+      "8e4536cdc2b375659f7929fc125ca83b"
     ],
     [
       "Vale.Interop.X64.regs_modified_stdcall",
@@ -1157,7 +1157,7 @@
         "typing_Prims.int"
       ],
       0,
-      "261768573793d0c601c6a960681a14c8"
+      "8f4931205b760af2ddd7467e1953415a"
     ]
   ]
 ]

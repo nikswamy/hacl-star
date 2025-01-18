@@ -8,7 +8,7 @@
       0,
       [ "@query" ],
       0,
-      "fb5ffbf1bd4dec77d97536a0e4aad840"
+      "7d8643cf7e94f12481637a9289d912c0"
     ],
     [
       "EverCrypt.CTR.Keys.vale_impl",
@@ -17,7 +17,7 @@
       0,
       [ "@query", "assumption_Spec.Cipher.Expansion.impl__uu___haseq" ],
       0,
-      "9b12837d6eed4e35f3ece0edf1c3b316"
+      "be8086cd78dd40d8113060beafbccef7"
     ],
     [
       "EverCrypt.CTR.Keys.vale_alg_of_vale_impl",
@@ -42,7 +42,7 @@
         "refinement_interpretation_Tm_refine_c029c44ff4b4f840d75208dea95cad35"
       ],
       0,
-      "a8fb3a8d8bc750284949303711908260"
+      "eea2db9419f8f0c2ba9e4829600ee5c0"
     ],
     [
       "EverCrypt.CTR.Keys.key_offset",
@@ -77,7 +77,7 @@
         "typing_EverCrypt.CTR.Keys.vale_alg_of_vale_impl", "unit_typing"
       ],
       0,
-      "8fbdc52deee612d10507973ab8b675ae"
+      "60006daa8ddbfb137d14444a1456e3c6"
     ],
     [
       "EverCrypt.CTR.Keys.concrete_xkey_len",
@@ -138,7 +138,7 @@
         "typing_Spec.Cipher.Expansion.uu___is_Hacl_CHACHA20"
       ],
       0,
-      "6fd60c4baa09cf92e9fbd1e67153a3dd"
+      "433ff07cf02b751dfb5cb5cf4483e289"
     ],
     [
       "EverCrypt.CTR.Keys.aes_gcm_key_expansion",
@@ -169,7 +169,7 @@
         "typing_EverCrypt.CTR.Keys.vale_alg_of_vale_impl", "unit_typing"
       ],
       0,
-      "a5b749aeaaa80e667b231eae4877f7ca"
+      "d7e0fac9132a0b3b4c05ae720e01a79c"
     ],
     [
       "EverCrypt.CTR.Keys.aes_gcm_keyhash_init",
@@ -200,7 +200,7 @@
         "typing_EverCrypt.CTR.Keys.vale_alg_of_vale_impl", "unit_typing"
       ],
       0,
-      "fd3039ecbcbf421e46d19fa71b21c475"
+      "b1b0100efa61cd820bd5608c825469ce"
     ],
     [
       "EverCrypt.CTR.Keys.vale_expand",
@@ -380,7 +380,7 @@
         "typing_tok_Vale.AES.AES_common_s.AES_256@tok"
       ],
       0,
-      "81b75501140ac4132a9734a9236b017f"
+      "ebf3823d13c58ebc40ce48d362809832"
     ]
   ]
 ]

@@ -30,7 +30,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "a260f7daa84bed48ee9bd65d84f23190"
+      "4384efc62c813d81682495cb6e641c38"
     ],
     [
       "Spec.P256.Test.test_sigver",
@@ -57,7 +57,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "6974a07a6137673513c034636e8e58b4"
+      "1a993ddbf2d8db8c8b44865f5567ee9c"
     ],
     [
       "Spec.P256.Test.test_siggen",
@@ -84,7 +84,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "db7e090fe754b833f41aa870ea39cedc"
+      "3f7712ff9622a53064b8c88d4c3316ae"
     ]
   ]
 ]

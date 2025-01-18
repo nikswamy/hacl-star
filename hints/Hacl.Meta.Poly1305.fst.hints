@@ -8,7 +8,7 @@
       0,
       [ "@query" ],
       0,
-      "1e4040d4f43dbb67729252ed4d855333"
+      "71a20ae9ccbea7058b63bca2cca23c89"
     ],
     [
       "Hacl.Meta.Poly1305.poly1305_poly1305_init_higher",
@@ -159,7 +159,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "bc424b295faafd66787351e2ee257ed6"
+      "863e4cc50c9ce5bc7a49ee042d22712f"
     ],
     [
       "Hacl.Meta.Poly1305.poly1305_poly1305_update_higher_t",
@@ -168,7 +168,7 @@
       0,
       [ "@query" ],
       0,
-      "87225e4d745f777f62bc797468f94031"
+      "a21bf9b46a3f7489fc32b96546243ae3"
     ],
     [
       "Hacl.Meta.Poly1305.poly1305_poly1305_update_higher",
@@ -195,7 +195,7 @@
         "typing_tok_Hacl.Impl.Poly1305.Fields.M32@tok"
       ],
       0,
-      "c00e2a693942866afed5e6069e2092b2"
+      "03db88346de8464740f0e4ec3693c044"
     ],
     [
       "Hacl.Meta.Poly1305.poly1305_poly1305_finish_higher_t",
@@ -228,7 +228,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "228865a6e455f1f4e2433c1352b7852e"
+      "48fb84eab72ae4cd5cc973da366241f9"
     ],
     [
       "Hacl.Meta.Poly1305.poly1305_poly1305_finish_higher",
@@ -353,7 +353,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "dbccadad1da7203251bc55adbff34088"
+      "d08b3bfaa2fc4dfb19b21e492abf73d5"
     ],
     [
       "Hacl.Meta.Poly1305.poly1305_poly1305_mac_higher_t",
@@ -386,7 +386,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "06a9dad33a4bafa565de57e04049a49f"
+      "9f987e37a9bd8ba93287fc2786823061"
     ],
     [
       "Hacl.Meta.Poly1305.poly1305_poly1305_mac_higher",
@@ -464,15 +464,13 @@
         "lemma_FStar.Map.lemma_InDomRestrict",
         "lemma_FStar.Map.lemma_InDomUpd2",
         "lemma_FStar.Map.lemma_SelRestrict", "lemma_FStar.Map.lemma_SelUpd2",
-        "lemma_FStar.Map.lemma_UpdDomain",
         "lemma_FStar.Map.lemma_equal_elim",
         "lemma_FStar.Monotonic.HyperHeap.lemma_includes_refl",
         "lemma_FStar.Set.lemma_equal_elim",
         "lemma_FStar.Set.lemma_equal_intro",
         "lemma_FStar.Set.mem_complement", "lemma_FStar.Set.mem_intersect",
-        "lemma_FStar.Set.mem_singleton", "lemma_FStar.Set.mem_union",
-        "lemma_FStar.UInt32.uv_inv", "lemma_FStar.UInt32.vu_inv",
-        "lemma_Lib.IntTypes.add_lemma",
+        "lemma_FStar.Set.mem_singleton", "lemma_FStar.UInt32.uv_inv",
+        "lemma_FStar.UInt32.vu_inv", "lemma_Lib.IntTypes.add_lemma",
         "lemma_LowStar.Monotonic.Buffer.address_liveness_insensitive_buffer",
         "lemma_LowStar.Monotonic.Buffer.fresh_frame_loc_not_unused_in_disjoint",
         "lemma_LowStar.Monotonic.Buffer.fresh_frame_modifies",
@@ -493,6 +491,7 @@
         "lemma_LowStar.Monotonic.Buffer.loc_includes_region_region_",
         "lemma_LowStar.Monotonic.Buffer.loc_includes_trans_backwards",
         "lemma_LowStar.Monotonic.Buffer.loc_includes_union_l_",
+        "lemma_LowStar.Monotonic.Buffer.loc_includes_union_l_regions",
         "lemma_LowStar.Monotonic.Buffer.loc_includes_union_r_",
         "lemma_LowStar.Monotonic.Buffer.loc_union_comm",
         "lemma_LowStar.Monotonic.Buffer.modifies_buffer_elim",
@@ -542,8 +541,8 @@
         "typing_FStar.Monotonic.HyperStack.get_tip",
         "typing_FStar.Set.complement", "typing_FStar.Set.intersect",
         "typing_FStar.Set.mem", "typing_FStar.Set.singleton",
-        "typing_FStar.Set.union", "typing_FStar.UInt.fits",
-        "typing_FStar.UInt32.uint_to_t", "typing_FStar.UInt32.v",
+        "typing_FStar.UInt.fits", "typing_FStar.UInt32.uint_to_t",
+        "typing_FStar.UInt32.v",
         "typing_Hacl.Spec.Poly1305.Field32xN.uint64xN",
         "typing_Lib.Buffer.length", "typing_Lib.Buffer.loc",
         "typing_Lib.Buffer.op_Bar_Plus_Bar", "typing_Lib.IntTypes.int_t",
@@ -564,7 +563,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "55f81b32dec5a1ca6aa417ca037a6b4a"
+      "6efe7e63c4f33061784661cfa741064e"
     ],
     [
       "Hacl.Meta.Poly1305.poly1305_poly1305_mac_higher",
@@ -573,7 +572,7 @@
       0,
       [ "@query" ],
       0,
-      "06f789bb43075852f14948bddaa45c1e"
+      "3667f98f79cc9fb0aecdeaa13587df25"
     ]
   ]
 ]

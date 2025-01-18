@@ -27,7 +27,7 @@
         "typing_Prims.int"
       ],
       0,
-      "711549ed4c92ad53b386d0840bdd46e5"
+      "2463b9729d9a1bd01ffb100a8ddbbcbf"
     ],
     [
       "Spec.Salsa20.Test.test_row_round",
@@ -59,7 +59,7 @@
         "typing_Prims.int"
       ],
       0,
-      "017005cd266e47b6726c6d8ecc4cce23"
+      "3e31b3bca95a295d27ca4f7271dfcccf"
     ],
     [
       "Spec.Salsa20.Test.test_column_round",
@@ -91,7 +91,7 @@
         "typing_Prims.int"
       ],
       0,
-      "8ad746bf31a81ab4d3fdb03faddebb2b"
+      "29bbca1604ea8d931a95461e46cf7708"
     ],
     [
       "Spec.Salsa20.Test.test_column_round2",
@@ -115,7 +115,7 @@
         "typing_Prims.int"
       ],
       0,
-      "0593fe464bc4c10c903ddbd4166209b7"
+      "4f774dd7345f602f716d1f85233e0549"
     ],
     [
       "Spec.Salsa20.Test.test_salsa20_core",
@@ -143,7 +143,7 @@
         "typing_Prims.int"
       ],
       0,
-      "5a533392992c6b01adabf443a6da2685"
+      "6082892b705595c45a7f0168356aae62"
     ]
   ]
 ]

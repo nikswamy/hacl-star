@@ -8,7 +8,7 @@
       0,
       [ "@query" ],
       0,
-      "7bf68b355010757d2b257ce92eb7dd40"
+      "2ae018821f7e71378849086f680da9c7"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_to_of_uint",
@@ -51,7 +51,7 @@
         "typing_Vale.Math.Poly2_s.reverse", "typing_Vale.Math.Poly2_s.to_seq"
       ],
       0,
-      "239e802b70130dd1af17e25908d0a2f4"
+      "fa7211139dde8c113846d5ba54d3b781"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_to_of_uint",
@@ -60,7 +60,7 @@
       0,
       [ "@query" ],
       0,
-      "f73d8dd4d7a0b02180e9cc0d1db0e9a7"
+      "5cb5951332df94c9bc8b2934ecfda7a3"
     ],
     [
       "Vale.Math.Poly2.Bits.of_nat",
@@ -76,7 +76,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "e87f04e26062420f77bd84a823771cca"
+      "4733d37303da5163aec955289efe9354"
     ],
     [
       "Vale.Math.Poly2.Bits.of_uint_",
@@ -89,7 +89,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "75a303d518baa854f11bacc3f6851702"
+      "0a9da95c66248b70e56e6c93f5530605"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_of_to_vec_zero",
@@ -140,7 +140,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "e3b3786886a3b5738b256560d871fe31"
+      "1acb7876a4b57e3f9a08d7860d1a8076"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_of_to_vec_zero",
@@ -167,7 +167,7 @@
         "typing_Prims.pow2"
       ],
       0,
-      "e05d7272f324b93317202072bae80cd1"
+      "67631f1b44c9b14b01457b643a057df4"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_of_uint_zero",
@@ -207,7 +207,7 @@
         "typing_Vale.Math.Poly2_s.zero"
       ],
       0,
-      "706b4de36e7967d097bf2e802161d9d0"
+      "1ad4c88ad17fce2f943b44ad80c5e481"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_of_nat_of_uint",
@@ -229,7 +229,7 @@
         "refinement_interpretation_Tm_refine_2de20c066034c13bf76e9c0b94f4806c"
       ],
       0,
-      "124c791e6896c5d79cfd0ce3d234e9fe"
+      "99e08b3e6b818ad5b5ad564f112a5cce"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_of_nat_of_uint",
@@ -294,7 +294,7 @@
         "typing_Vale.Math.Poly2_s.shift", "well-founded-ordering-on-nat"
       ],
       0,
-      "e738095fb1aaa6ef54a9bef479162f73"
+      "1fa3e154669d90f50409821ac1f5e8ad"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_of_nat_of_uint",
@@ -316,7 +316,7 @@
         "refinement_interpretation_Tm_refine_2de20c066034c13bf76e9c0b94f4806c"
       ],
       0,
-      "150c0c99d370702aadbde35eb19ce91c"
+      "cd7fabcd55ee8472f1dddbb41e19d277"
     ],
     [
       "Vale.Math.Poly2.Bits.poly_nat_eq_rec",
@@ -334,7 +334,7 @@
         "well-founded-ordering-on-nat"
       ],
       0,
-      "eec5de69a7ebe6de042cef053e8dd5ef"
+      "127bc067162c65e5d87709fd8d8b3fe8"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_to_nat_rec",
@@ -376,7 +376,7 @@
         "typing_Vale.Math.Poly2_s.shift", "well-founded-ordering-on-nat"
       ],
       0,
-      "0db6044d5bd915923344619eecd35121"
+      "58802c8e762246cb6ac97dbc3d81ae22"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_to_nat",
@@ -394,7 +394,7 @@
         "typing_Vale.Math.Poly2_s.poly_index"
       ],
       0,
-      "49e72f01ede9b2e5b0950eea26692b6a"
+      "5fbd5d8e1f3f1660ddb6f37968566411"
     ],
     [
       "Vale.Math.Poly2.Bits.of_nat32",
@@ -431,7 +431,7 @@
         "typing_Vale.Math.Poly2_s.of_seq"
       ],
       0,
-      "e9535adcd0d2acf6f34ff51212aaffef"
+      "5495985dd8d636c86e2841e9d7dcf45c"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_of_nat_of_uint32",
@@ -455,7 +455,7 @@
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c"
       ],
       0,
-      "743d315112b4341d27bbd6473479d0cb"
+      "c7a3706564051c97b3e99fc86b12240b"
     ],
     [
       "Vale.Math.Poly2.Bits.of_nat32_zero",
@@ -478,7 +478,7 @@
         "typing_Vale.Math.Poly2.Bits.of_nat32"
       ],
       0,
-      "daf69d9bfe855c6069100808a9d4fd83"
+      "8fe0b6e1e357908c38f80fbb37398df4"
     ],
     [
       "Vale.Math.Poly2.Bits.of_nat32_ones",
@@ -503,7 +503,7 @@
         "typing_Vale.Math.Poly2.Bits.of_nat32"
       ],
       0,
-      "13c3aad5ccc9347eb708942aee7e1d7a"
+      "5d7cd3be085adc00984c373a4facbd9c"
     ],
     [
       "Vale.Math.Poly2.Bits.of_nat32_eq",
@@ -512,7 +512,7 @@
       0,
       [ "@query" ],
       0,
-      "d2b509948e1e2c8c8ef106034a5ad368"
+      "9f71f89247d14f5c0dfaba8033222735"
     ],
     [
       "Vale.Math.Poly2.Bits.of_nat32_eq",
@@ -541,7 +541,7 @@
         "typing_FStar.UInt.fits", "typing_Prims.pow2"
       ],
       0,
-      "4e32c4ec1fa8f5869c9ed8f228d244ab"
+      "9035a5ab388e999097afae0e87bdce7e"
     ],
     [
       "Vale.Math.Poly2.Bits.of_nat32_xor",
@@ -593,7 +593,7 @@
         "typing_Vale.Math.Poly2_s.poly_index"
       ],
       0,
-      "e59af8b99560f957730b225b892f9f51"
+      "9e078184d781f81e2e87ec9629815ac0"
     ],
     [
       "Vale.Math.Poly2.Bits.of_nat32_and",
@@ -644,7 +644,7 @@
         "typing_Vale.Math.Poly2_s.poly_index"
       ],
       0,
-      "1cfbfd87235337fb98ab09c6edc818d0"
+      "1cfab93f5d2c47fe8eecb3f2b7c97cd8"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_poly128_extract_nat32s",
@@ -684,7 +684,7 @@
         "typing_Vale.Math.Poly2_s.shift"
       ],
       0,
-      "7e5ab10a1c10e6999c656a81248ee6c4"
+      "a77fa8048029a3d841f9455e34950629"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_quad32_of_nat32s",
@@ -763,7 +763,7 @@
         "typing_Vale.Math.Poly2_s.to_seq"
       ],
       0,
-      "79a4bcc07a3a4e87ba7a014f2451f776"
+      "ef2c631211405986487ae310fd15e488"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_quad32_to_nat32s",
@@ -834,7 +834,7 @@
         "typing_Vale.Math.Poly2_s.to_seq"
       ],
       0,
-      "2ac4fa9217ce93a82a6a0381067b324a"
+      "d7fcf49faa12d5d8ae3d6668133dcbdf"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_quad32_extract_nat32s",
@@ -849,7 +849,7 @@
         "projection_inverse_Vale.Def.Words_s.Mkfour_@lo1"
       ],
       0,
-      "885de52fba7ec761be922f5c1c2e8ec9"
+      "9079526f1d377b2bee0b3dec76a48889"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_quad32_double",
@@ -934,7 +934,7 @@
         "typing_Vale.Math.Poly2_s.reverse", "typing_Vale.Math.Poly2_s.to_seq"
       ],
       0,
-      "f82148769f6bb006fb3fa756182de95e"
+      "c054d9cc71ea66ddda700f0be84d1cf7"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_of_double32_degree",
@@ -977,7 +977,7 @@
         "typing_Vale.Math.Poly2_s.of_seq"
       ],
       0,
-      "3db18e35f63b71f4a6e21a89e1ecbdfc"
+      "605d7fe2254d8f4f7149dceedc0014f1"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_of_quad32_degree",
@@ -1020,7 +1020,7 @@
         "typing_Vale.Math.Poly2_s.of_seq"
       ],
       0,
-      "0827a29fa10214a4607165601021d633"
+      "93f5dcfd8f075d1e15cbebbdae0133ae"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_to_of_quad32",
@@ -1097,7 +1097,7 @@
         "typing_Vale.Math.Poly2_s.reverse", "typing_Vale.Math.Poly2_s.to_seq"
       ],
       0,
-      "9162b0b0454736616c55ada6336ba36d"
+      "fd89aaa97681d7e52a471342be8d2aae"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_of_to_quad32",
@@ -1173,7 +1173,7 @@
         "typing_Vale.Math.Poly2_s.reverse", "typing_Vale.Math.Poly2_s.to_seq"
       ],
       0,
-      "582daff796760f2c8841252e782494c5"
+      "45e3fecf204a1945aba1bc01a501c209"
     ],
     [
       "Vale.Math.Poly2.Bits.lemma_of_to_quad32_mask",
@@ -1244,7 +1244,7 @@
         "typing_Vale.Math.Poly2_s.reverse", "typing_Vale.Math.Poly2_s.to_seq"
       ],
       0,
-      "92761c79f9dac36e1dd97ce211f5fd85"
+      "895d8c9ab771cfa4270b4d699c894ec0"
     ]
   ]
 ]

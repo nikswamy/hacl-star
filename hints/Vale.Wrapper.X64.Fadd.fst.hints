@@ -22,7 +22,7 @@
         "typing_FStar.UInt64.t", "typing_LowStar.Buffer.trivial_preorder"
       ],
       0,
-      "3d7ae974804c63e6ea330563849777d8"
+      "4efbd7509bfc7350a0c1eb38b50879e8"
     ],
     [
       "Vale.Wrapper.X64.Fadd.add_scalar_e",
@@ -160,7 +160,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.TUInt64@tok"
       ],
       0,
-      "23c041ce344d52cddba39e03e714cd34"
+      "8a3071ec4a2b24b11ae540657e15cb03"
     ],
     [
       "Vale.Wrapper.X64.Fadd.fadd_e",
@@ -291,7 +291,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.TUInt64@tok"
       ],
       0,
-      "1e1ab14b5bf9ff346fbedb12ff606273"
+      "d7d15f87da59c35496584408f98d91aa"
     ]
   ]
 ]

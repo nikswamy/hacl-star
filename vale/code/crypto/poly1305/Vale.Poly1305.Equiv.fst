@@ -82,6 +82,7 @@ let rec lemma_poly1305_equiv_rec (text:bytes) (acc0:felem) (r:felem) (k:nat) : L
       repeati k repeat_f acc0;
     }
   )
+module T = FStar.Tactics
 
 let lemma_poly1305_equiv_last (text:bytes) (r:felem) (hBlocks:felem) : Lemma
   (ensures (
@@ -116,7 +117,21 @@ let lemma_poly1305_equiv_last (text:bytes) (r:felem) (hBlocks:felem) : Lemma
     fmul (fadd (x + padLast) hBlocks) r;
     == { FStar.Math.Lemmas.lemma_mod_plus_distr_l (x + padLast) hBlocks prime }
     fmul (fadd (fadd x padLast) hBlocks) r;
-    == {}
+    == { 
+          calc (==) {
+            S.poly1305_update1 r nExtra last hBlocks;
+          (==) {}
+            fmul (fadd (S.encode nExtra last) hBlocks) r;
+          (==) { calc (==) {
+                    S.encode nExtra last;
+                  (==) { _ by (T.trefl()) }
+                    fadd (pow2 (8 * nExtra)) (nat_from_bytes_le last);
+                  (==) { }
+                    fadd x padLast;
+                 }}
+            fmul (fadd (fadd x padLast) hBlocks) r;
+          }
+       }
     S.poly1305_update1 r nExtra last hBlocks;
   }
 

@@ -38,7 +38,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "0f859001bce3c950e27de75de299a063"
+      "64f31631f3f182cbc08e8308161a0ecc"
     ],
     [
       "Hacl.Impl.Curve25519.Generic.secret_to_public_st",
@@ -77,7 +77,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "75839ba3c9613a2efd7909f143c42f1b"
+      "17c646540e8af4d3ef08b81173f2d9da"
     ],
     [
       "Hacl.Impl.Curve25519.Generic.ecdh_st",
@@ -145,7 +145,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "8519f5525e553c14a2a4dbd863cfd180"
+      "404140a23eac77a400d8bbb60bdc721a"
     ]
   ]
 ]

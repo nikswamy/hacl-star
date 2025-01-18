@@ -68,7 +68,7 @@
         "typing_tok_Lib.IntTypes.U64@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "3ee26fcc875d41dff03caf714209f9d5"
+      "9d23861d8139eae9ebaad8f7f587ebfe"
     ],
     [
       "Hacl.Impl.Ed25519.Verify.verify_all_valid_hb",
@@ -258,7 +258,7 @@
         "typing_tok_Lib.IntTypes.U64@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "cb02529762733501e21b0de0c0aa5efa"
+      "10a32c85583ff5b7027dd1c0f04334df"
     ],
     [
       "Hacl.Impl.Ed25519.Verify.verify_sb",
@@ -391,7 +391,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "7b72c0357e7f6cfe5ea172da4e3e10ba"
+      "5247343360e5e4b303947dea3ded7ce1"
     ],
     [
       "Hacl.Impl.Ed25519.Verify.verify_valid_pk_rs",
@@ -449,7 +449,7 @@
         "typing_tok_Lib.IntTypes.U64@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "f0a62432a9b5aaa5d8467b6c66f8061c"
+      "9c770a9669548c3a5242db5bf3b6034c"
     ],
     [
       "Hacl.Impl.Ed25519.Verify.verify_valid_pk_rs",
@@ -643,7 +643,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "432aabc90691f1420fba94a5bd58b146"
+      "6382ef62d458ad6550f0d0b7b5bdc2c6"
     ],
     [
       "Hacl.Impl.Ed25519.Verify.verify_valid_pk",
@@ -677,7 +677,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "096e5adb4cc3866e0b6d7fa0f857c53a"
+      "87b36b387e942b1f10a6276798c45b8e"
     ],
     [
       "Hacl.Impl.Ed25519.Verify.verify_valid_pk",
@@ -877,7 +877,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "0e3980215b37fd8245e34676e8b2ffa1"
+      "990ec799cb71a4de0843cef55baa4415"
     ],
     [
       "Hacl.Impl.Ed25519.Verify.verify",
@@ -911,7 +911,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "0948026db6630d4d469e7c76ff326c45"
+      "4e79233ea681474c19a65b2bfc773424"
     ],
     [
       "Hacl.Impl.Ed25519.Verify.verify",
@@ -989,16 +989,14 @@
         "lemma_FStar.Map.lemma_InDomRestrict",
         "lemma_FStar.Map.lemma_InDomUpd2",
         "lemma_FStar.Map.lemma_SelRestrict", "lemma_FStar.Map.lemma_SelUpd2",
-        "lemma_FStar.Map.lemma_UpdDomain",
         "lemma_FStar.Monotonic.HyperHeap.lemma_includes_refl",
         "lemma_FStar.Monotonic.HyperStack.lemma_mk_mem__projectors",
         "lemma_FStar.Pervasives.invertOption",
         "lemma_FStar.Set.lemma_equal_elim",
         "lemma_FStar.Set.lemma_equal_intro",
         "lemma_FStar.Set.mem_complement", "lemma_FStar.Set.mem_intersect",
-        "lemma_FStar.Set.mem_singleton", "lemma_FStar.Set.mem_union",
-        "lemma_FStar.UInt32.uv_inv", "lemma_FStar.UInt32.vu_inv",
-        "lemma_Lib.Buffer.as_seq_gsub",
+        "lemma_FStar.Set.mem_singleton", "lemma_FStar.UInt32.uv_inv",
+        "lemma_FStar.UInt32.vu_inv", "lemma_Lib.Buffer.as_seq_gsub",
         "lemma_LowStar.Monotonic.Buffer.address_liveness_insensitive_buffer",
         "lemma_LowStar.Monotonic.Buffer.fresh_frame_modifies",
         "lemma_LowStar.Monotonic.Buffer.length_as_seq",
@@ -1060,11 +1058,11 @@
         "typing_FStar.Monotonic.HyperStack.mk_mem",
         "typing_FStar.Monotonic.HyperStack.remove_elt",
         "typing_FStar.Set.complement", "typing_FStar.Set.mem",
-        "typing_FStar.Set.singleton", "typing_FStar.Set.union",
-        "typing_FStar.UInt.fits", "typing_FStar.UInt32.uint_to_t",
-        "typing_FStar.UInt32.v", "typing_Lib.Buffer.length",
-        "typing_Lib.Buffer.loc", "typing_Lib.IntTypes.bits",
-        "typing_Lib.IntTypes.int_t", "typing_Lib.IntTypes.minint",
+        "typing_FStar.Set.singleton", "typing_FStar.UInt.fits",
+        "typing_FStar.UInt32.uint_to_t", "typing_FStar.UInt32.v",
+        "typing_Lib.Buffer.length", "typing_Lib.Buffer.loc",
+        "typing_Lib.IntTypes.bits", "typing_Lib.IntTypes.int_t",
+        "typing_Lib.IntTypes.minint",
         "typing_LowStar.Buffer.trivial_preorder",
         "typing_LowStar.Monotonic.Buffer.address_liveness_insensitive_locs",
         "typing_LowStar.Monotonic.Buffer.as_addr",

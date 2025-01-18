@@ -27,7 +27,7 @@
         "typing_tok_Spec.Agile.Cipher.CHACHA20@tok"
       ],
       0,
-      "fb0771b2b61cb332daef2d144f3a6bb7"
+      "6b88dcdc4d685a8cef6bc5f9ac53e60a"
     ],
     [
       "Hacl.HPKE.Interface.AEAD.tag",
@@ -45,7 +45,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "7f6a9a8f57c2b5f76f300ed7d121331e"
+      "90a848eff74db04b0747b5078c52fdc6"
     ],
     [
       "Hacl.HPKE.Interface.AEAD.aead_encrypt_st",
@@ -133,7 +133,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "8eb6c819a26fdef6d452b773f53bdf3a"
+      "3c87258a9690309612f08c7b5d4ddd7b"
     ],
     [
       "Hacl.HPKE.Interface.AEAD.aead_decrypt_st",
@@ -224,7 +224,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "892edf96c81cacc2992a79e9475e0315"
+      "ee4d6098642f1e8e9b431bc2ad27530d"
     ]
   ]
 ]

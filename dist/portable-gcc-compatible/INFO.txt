@@ -1,4 +1,4 @@
 This code was generated with the following toolchain.
-F* version: a3be6122b76ec0ca29030e1ff72576dceeede19d
-Karamel version: f82ecfe9b99edd64642d47b4e3fb6314a8e2320b
+F* version: F* 2025.01.07~dev platform=Linux_x86_64 compiler=OCaml 4.13.1 date=2025-01-13 22:28:50 -0800 commit=02480e1f7661fbb5bf19355ee0b8498e226d519e 
+KaRaMeL version: fb0e9fd116ff248df7dc661bc6624ccaa0e6c245
 Vale version: 0.3.19

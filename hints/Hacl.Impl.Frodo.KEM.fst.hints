@@ -61,7 +61,7 @@
         "typing_tok_Lib.IntTypes.U16@tok", "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "c19870b2c71d85bb098f0d20277aba15"
+      "449468881ecd93634f56ae06800782f3"
     ],
     [
       "Hacl.Impl.Frodo.KEM.clear_words_u8",
@@ -95,7 +95,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "31ece5376894be73cc6c2087b3812995"
+      "70eae3b58d4e6826b6ffb4e53842c722"
     ]
   ]
 ]
