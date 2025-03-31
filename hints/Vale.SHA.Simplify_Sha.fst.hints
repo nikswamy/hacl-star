@@ -246,7 +246,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.TUInt8@tok"
       ],
       0,
-      "e8c143571fd018fb92bb0effc85eca93"
+      "8791cfff0337d3ed613e63725dbf9558"
     ],
     [
       "Vale.SHA.Simplify_Sha.lemma_seq_nat8_le_seq_quad32_to_bytes_uint32",
@@ -324,7 +324,7 @@
         "typing_tok_Vale.Arch.HeapTypes_s.TUInt8@tok"
       ],
       0,
-      "4a827e96820ccc60fbbce0b5b674360b"
+      "427cd4c8de2743d68d8467b6a1ecf4bd"
     ]
   ]
 ]

@@ -113,14 +113,15 @@
       2,
       [
         "@MaxIFuel_assumption", "@query",
-        "Prims_pretyping_f537159ed795b314b4e58c260361ae86", "bool_typing",
-        "equation_Lib.IntTypes.uint8", "equation_Lib.Sequence.length",
-        "equation_Lib.Sequence.seq", "equation_Prims.nat",
-        "equation_Spec.Chacha20Poly1305.aead_encrypt",
+        "Prims_pretyping_f537159ed795b314b4e58c260361ae86",
+        "Prims_pretyping_f8666440faa91836cc5a13998af863fc", "bool_typing",
+        "equality_tok_Lib.IntTypes.SEC@tok",
+        "equality_tok_Lib.IntTypes.U8@tok", "equation_Lib.IntTypes.int_t",
+        "equation_Lib.Sequence.length", "equation_Lib.Sequence.seq",
+        "equation_Prims.nat", "equation_Spec.Chacha20Poly1305.aead_encrypt",
         "equation_Spec.Poly1305.felem", "equation_Spec.Poly1305.size_block",
         "equation_Spec.Poly1305.to_felem", "equation_Spec.Poly1305.zero",
-        "fuel_guarded_inversion_FStar.Pervasives.result",
-        "function_token_typing_Lib.IntTypes.uint8", "int_inversion",
+        "fuel_guarded_inversion_FStar.Pervasives.result", "int_inversion",
         "lemma_FStar.Seq.Base.lemma_len_slice",
         "primitive_Prims.op_Addition", "primitive_Prims.op_LessThanOrEqual",
         "primitive_Prims.op_Subtraction",
@@ -133,12 +134,14 @@
         "refinement_interpretation_Tm_refine_8b8cc025b278a5793e7bf2addcf311aa",
         "refinement_interpretation_Tm_refine_9343b0c4d6c02093eb9f55c6ef4a33ab",
         "refinement_interpretation_Tm_refine_c8dd98bb91cb1ba6963e5299b3babaa4",
-        "typing_FStar.Seq.Base.length",
+        "typing_FStar.Seq.Base.length", "typing_Lib.IntTypes.int_t",
         "typing_Spec.Chacha20Poly1305.aead_encrypt",
-        "typing_Spec.Poly1305.size_block", "typing_Spec.Poly1305.zero"
+        "typing_Spec.Poly1305.size_block", "typing_Spec.Poly1305.zero",
+        "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok",
+        "unit_typing"
       ],
       0,
-      "b406930efd6fa7cadfa23b509db61226"
+      "404912f48cb83ba705fcda04b350a787"
     ],
     [
       "Spec.Chacha20Poly1305.Test.test_aead",

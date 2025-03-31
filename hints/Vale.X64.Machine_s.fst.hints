@@ -188,14 +188,14 @@
         "assumption_FStar.Pervasives.Native.tuple2__uu___haseq",
         "assumption_Vale.Arch.HeapTypes_s.taint__uu___haseq",
         "assumption_Vale.X64.Machine_s.maddr__uu___haseq",
-        "equality_tok_Vale.Arch.HeapTypes_s.Public@tok",
+        "equality_tok_Vale.Arch.HeapTypes_s.Secret@tok",
         "equation_Prims.eqtype", "kinding_Vale.Arch.HeapTypes_s.taint@tok",
         "kinding_Vale.X64.Machine_s.maddr@tok",
         "refinement_interpretation_Tm_refine_9d6af3f3535473623f7aec2f0501897f",
-        "typing_tok_Vale.Arch.HeapTypes_s.Public@tok"
+        "typing_tok_Vale.Arch.HeapTypes_s.Secret@tok"
       ],
       0,
-      "5371af3e36de28791d623d22c99c3617"
+      "f60cb7bcfe26281d1ca5f10412c65a3f"
     ],
     [
       "Vale.X64.Machine_s.operand",

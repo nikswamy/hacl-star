@@ -48,7 +48,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "e9a8d16f1b1702a99ee3230795d406d7"
+      "89a0123fcfe4c31f5b5e10f6c1064bee"
     ],
     [
       "Hacl.Ed25519.secret_expand",
@@ -184,7 +184,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA2_512@tok", "unit_typing"
       ],
       0,
-      "c5488bb96d26ae510bfd6a84738d1371"
+      "882e2d1567febca3c35eec79b3dce882"
     ],
     [
       "Hacl.Ed25519.secret_to_public",
@@ -220,7 +220,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "72234f1c45bdad774ccbc94979883fb7"
+      "87849c340133a6307d40b4d129153a3e"
     ],
     [
       "Hacl.Ed25519.secret_to_public",
@@ -372,7 +372,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "9b4b523d8cc91076bee90b746c7d2e8b"
+      "ce9c37d40de725d2ff8d2ec3ed4b99c1"
     ],
     [
       "Hacl.Ed25519.expand_keys",
@@ -421,7 +421,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "b6324bd4786c2d5f24648a7d4fb02cb6"
+      "1867b8acea05936c531c1a2cfb001a2e"
     ],
     [
       "Hacl.Ed25519.expand_keys",
@@ -502,7 +502,7 @@
         "typing_tok_Lib.IntTypes.U32@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "30a414e39e0d8358182e26b3d1268046"
+      "d5a65f6a82e53ef0c1677cd1a0b07951"
     ],
     [
       "Hacl.Ed25519.sign_expanded",
@@ -559,7 +559,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "2d61691bb56f131b86e0ba7f90805ede"
+      "985c921e2938491ff7f97a2690ea36cc"
     ],
     [
       "Hacl.Ed25519.sign",
@@ -593,7 +593,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "5a15e64257f87facbf2f8bf148aa0f8d"
+      "9829d9d3a5b818c5a77baa8f2eddfeb0"
     ],
     [
       "Hacl.Ed25519.sign",
@@ -737,7 +737,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "631093905c75fe098d36917c3845609b"
+      "0395fe28231d4fa83669683537275ec3"
     ],
     [
       "Hacl.Ed25519.verify",
@@ -771,7 +771,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "06422cb42399488e77ee579789d9ac9c"
+      "7fdc1c65fac939a440ed9cd175db2e17"
     ]
   ]
 ]

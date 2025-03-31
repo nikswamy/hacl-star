@@ -132,7 +132,8 @@ val verify:
       live h public_key /\ live h msg /\ live h signature)
     (ensures fun h0 z h1 -> modifies0 h0 h1 /\
       z == Spec.Ed25519.verify (as_seq h0 public_key) (as_seq h0 msg) (as_seq h0 signature))
-
+#restart-solver
+#push-options "--z3rlimit_factor 2"
 let verify public_key msg_len msg signature =
   push_frame ();
   let a' = create 20ul (u64 0) in
@@ -142,3 +143,4 @@ let verify public_key msg_len msg signature =
   let res = if b then verify_valid_pk public_key msg_len msg signature a' else false in
   pop_frame ();
   res
+#pop-options

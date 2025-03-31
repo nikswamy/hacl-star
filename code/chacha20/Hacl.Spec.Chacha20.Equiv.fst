@@ -614,6 +614,7 @@ val update_sub_get_block_lemma_k:
     Seq.index (SeqLemmas.get_block_s #a #len blocksize b_v j) k)
 
 #restart-solver
+#push-options "--z3rlimit_factor 4"
 let update_sub_get_block_lemma_k #a w blocksize zero len b_v j k =
   let blocksize_v = w * blocksize in
   let plain = create blocksize_v zero in
@@ -631,7 +632,13 @@ let update_sub_get_block_lemma_k #a w blocksize zero len b_v j k =
 
   calc (<=) {
     (j / blocksize + 1) * blocksize;
-    (<=) { div_mul_lt blocksize j (len / blocksize) }
+    (<=) { 
+        div_mul_lt blocksize j (len / blocksize);
+        assert_spinoff
+              ((j / blocksize + 1) * blocksize <=
+                (len / blocksize * blocksize))
+              
+        }
     len / blocksize * blocksize;
     (<=) { Math.Lemmas.multiply_fractions len blocksize }
     len;
@@ -648,7 +655,7 @@ let update_sub_get_block_lemma_k #a w blocksize zero len b_v j k =
     };
 
   Seq.lemma_index_slice b_v (j / blocksize * blocksize) (j / blocksize * blocksize + blocksize) k
-
+#pop-options
 
 val update_sub_get_block_lemma:
     #a:Type

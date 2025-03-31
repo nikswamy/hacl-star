@@ -29,7 +29,7 @@ val rsapss_check_pkey_len:
   -> modBits:size_t
   -> eBits:size_t ->
   res:bool{res <==> LS.pkey_len_pre t (v modBits) (v eBits)}
-
+#push-options "--z3rlimit_factor 4 --query_stats"
 let rsapss_check_pkey_len #t modBits eBits =
   if 1ul <. modBits && 0ul <. eBits then begin
     [@inline_let] let bits = size (bits t) in
@@ -39,7 +39,7 @@ let rsapss_check_pkey_len #t modBits eBits =
     nLen <=. 0xfffffffful /. (2ul *! bits) && eLen <=. 0xfffffffful /. bits &&
     nLen +! nLen <=. 0xfffffffful -. eLen end
   else false
-
+#pop-options
 
 inline_for_extraction noextract
 val rsapss_check_skey_len:

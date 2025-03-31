@@ -80,7 +80,7 @@
         "typing_tok_LowStar.ConstBuffer.IMMUTABLE@tok"
       ],
       0,
-      "ae8ab6bc328da8a5f511cc0b668190c0"
+      "f53ccf193befad36564911deaecd168e"
     ],
     [
       "Hacl.Curve25519_51.encode_point",
@@ -117,7 +117,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "f5b310f1e301c69ad3dfb06c5170d23b"
+      "f68c190552233878591c455d4da1e0d7"
     ]
   ]
 ]

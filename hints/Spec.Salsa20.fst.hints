@@ -451,15 +451,15 @@
         "@fuel_correspondence_Prims.pow2.fuel_instrumented", "@query",
         "constructor_distinct_Lib.IntTypes.U32",
         "equation_Lib.IntTypes.minint", "equation_Lib.IntTypes.unsigned",
-        "equation_Prims.nat", "equation_Prims.pos",
-        "equation_Spec.Salsa20.size_key", "lemma_FStar.UInt.pow2_values",
-        "primitive_Prims.op_Subtraction", "projection_inverse_BoxInt_proj_0",
+        "equation_Prims.nat", "equation_Prims.pos", "int_typing",
+        "lemma_FStar.Int.pow2_values", "primitive_Prims.op_Subtraction",
+        "projection_inverse_BoxInt_proj_0",
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2",
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5",
-        "typing_Prims.pow2", "typing_Spec.Salsa20.size_key"
+        "typing_Prims.pow2"
       ],
       0,
-      "00945d59303b84ac978fc3250aca29bb"
+      "bf6ea0a8fa5f6f07ae1241304a6815d7"
     ],
     [
       "Spec.Salsa20.salsa20_key_block0",
@@ -494,15 +494,14 @@
         "@fuel_correspondence_Prims.pow2.fuel_instrumented", "@query",
         "constructor_distinct_Lib.IntTypes.U32",
         "disc_equation_Lib.IntTypes.U1", "equality_tok_Lib.IntTypes.U32@tok",
-        "equation_Prims.nat", "equation_Spec.Salsa20.size_key",
-        "lemma_FStar.UInt.pow2_values", "primitive_Prims.op_Subtraction",
+        "equation_Prims.nat", "int_typing", "lemma_FStar.Int.pow2_values",
+        "primitive_Prims.op_Subtraction",
         "projection_inverse_BoxBool_proj_0",
         "projection_inverse_BoxInt_proj_0",
-        "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2",
-        "typing_Spec.Salsa20.size_key"
+        "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "c2935995b66170726ac11f6ccd1bb39f"
+      "4a990c8ad5366e97495ebe08664b9e8b"
     ],
     [
       "Spec.Salsa20.salsa20_encrypt_last",
@@ -559,14 +558,13 @@
         "@MaxFuel_assumption", "@MaxIFuel_assumption",
         "@fuel_correspondence_Prims.pow2.fuel_instrumented", "@query",
         "equation_Prims.nat", "equation_Spec.Salsa20.size_block",
-        "equation_Spec.Salsa20.size_key", "lemma_FStar.UInt.pow2_values",
+        "int_typing", "lemma_FStar.Int.pow2_values",
         "primitive_Prims.op_Subtraction", "projection_inverse_BoxInt_proj_0",
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2",
-        "refinement_interpretation_Tm_refine_dda759161d804d4dfe5d3e277dc0badd",
-        "typing_Spec.Salsa20.size_key"
+        "refinement_interpretation_Tm_refine_dda759161d804d4dfe5d3e277dc0badd"
       ],
       0,
-      "d9bb1f80741dec3354b4b4169bb482d3"
+      "0e729912fcc6f2e7e448f14d9117eb0a"
     ],
     [
       "Spec.Salsa20.salsa20_update",

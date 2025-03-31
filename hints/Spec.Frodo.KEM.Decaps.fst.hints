@@ -844,7 +844,7 @@
         "typing_Spec.Frodo.Params.secretmatrixbytes_len"
       ],
       0,
-      "87081ccaf3f03805f80274288f526ef9"
+      "215914f577bade99c44f292637e1a578"
     ],
     [
       "Spec.Frodo.KEM.Decaps.crypto_kem_dec_ss1",
@@ -969,7 +969,7 @@
         "typing_Spec.Frodo.Params.secretmatrixbytes_len"
       ],
       0,
-      "0f487266f69fffdc41285ee65a160179"
+      "c7397066035b3cefc6ccc29e266ed838"
     ],
     [
       "Spec.Frodo.KEM.Decaps.crypto_kem_dec_ss2",

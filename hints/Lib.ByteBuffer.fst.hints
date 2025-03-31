@@ -2600,7 +2600,7 @@
         "typing_tok_Lib.IntTypes.U8@tok", "unit_typing"
       ],
       0,
-      "761112e92864a3dba88187656b495cb8"
+      "5b4540d5c12dde8b287c874781461c87"
     ],
     [
       "Lib.ByteBuffer.uints_to_bytes_be",

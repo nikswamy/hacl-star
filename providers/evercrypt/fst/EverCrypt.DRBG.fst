@@ -195,9 +195,10 @@ let reseed_sha2_384 = mk_reseed EverCrypt.HMAC.compute_sha2_384
 let reseed_sha2_512 = mk_reseed EverCrypt.HMAC.compute_sha2_512
 
 /// Generate function
-
+#restart-solver
 inline_for_extraction noextract
 val mk_generate: #a:supported_alg -> EverCrypt.HMAC.compute_st a -> generate_st a
+#push-options "--z3rlimit_factor 2"
 let mk_generate #a hmac output st n additional_input additional_input_len =
   if additional_input_len >. max_additional_input_length || n >. max_output_length then
     false
@@ -220,6 +221,7 @@ let mk_generate #a hmac output st n additional_input additional_input_len =
   let h2 = get () in
   frame_invariant (B.loc_all_regions_from false (HS.get_tip h1)) st h1 h2;
   result )
+#pop-options
 
 (** @type: true 
 *)

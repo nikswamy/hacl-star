@@ -1347,7 +1347,7 @@
         "equation_Lib.Sequence.length", "equation_Prims.nat",
         "equation_Spec.AES.gf8", "equation_Spec.AES.irred",
         "equation_Spec.GaloisField.felem", "equation_Spec.GaloisField.gf",
-        "int_inversion", "int_typing", "lemma_FStar.UInt.pow2_values",
+        "int_inversion", "int_typing", "lemma_FStar.Int.pow2_values",
         "primitive_Prims.op_Addition", "primitive_Prims.op_Multiply",
         "primitive_Prims.op_Subtraction",
         "proj_equation_Spec.GaloisField.GF_@t",
@@ -1367,7 +1367,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "6a706ed05b1f2f7cb35414518e71c89f"
+      "b751f226f0a3d9ac6a9a016d0b6ca9f7"
     ],
     [
       "Spec.AES.aes_ctr_key_block",
@@ -1583,7 +1583,7 @@
         "equation_Prims.nat", "equation_Spec.AES.gf8",
         "equation_Spec.AES.irred", "equation_Spec.GaloisField.gf",
         "fuel_guarded_inversion_Spec.AES.variant", "int_typing",
-        "lemma_FStar.UInt.pow2_values", "primitive_Prims.op_Subtraction",
+        "lemma_FStar.Int.pow2_values", "primitive_Prims.op_Subtraction",
         "proj_equation_Spec.GaloisField.GF_@t",
         "projection_inverse_BoxInt_proj_0",
         "projection_inverse_Spec.GaloisField.GF_@t",
@@ -1599,7 +1599,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "bd8021e52642c8b18b7f385956482507"
+      "73754862fe7893fa53144c6b14328723"
     ],
     [
       "Spec.AES.aes_ctr_key_block0",

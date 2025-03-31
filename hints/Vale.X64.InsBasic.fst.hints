@@ -1495,7 +1495,7 @@
         "unit_typing"
       ],
       0,
-      "99a24b520a043d1973b45b87261859c3"
+      "b7ebb564080ed9a9b723b6e3c0b967cd"
     ],
     [
       "Vale.X64.InsBasic.va_wpProof_Add64Wrap",
@@ -2705,7 +2705,7 @@
         "unit_typing"
       ],
       0,
-      "6a3ccab94a3124bc4c4e3d890f839658"
+      "5e3b3d6ef596a306b9f6446937dab0fb"
     ],
     [
       "Vale.X64.InsBasic.va_wp_Adc64Wrap",
@@ -3760,6 +3760,7 @@
         "@fuel_correspondence_Vale.X64.Instruction_s.instr_operands_t.fuel_instrumented",
         "@fuel_correspondence_Vale.X64.Instruction_s.instr_operands_t_args.fuel_instrumented",
         "@fuel_correspondence_Vale.X64.Instruction_s.instr_ret_t.fuel_instrumented",
+        "@fuel_correspondence_Vale.X64.Lemmas.code_modifies_ghost.fuel_instrumented",
         "@fuel_correspondence_Vale.X64.Machine_Semantics_s.instr_apply_eval_args.fuel_instrumented",
         "@fuel_correspondence_Vale.X64.Machine_Semantics_s.instr_apply_eval_inouts.fuel_instrumented",
         "@fuel_correspondence_Vale.X64.Machine_Semantics_s.instr_write_outputs.fuel_instrumented",
@@ -3881,6 +3882,7 @@
         "equation_with_fuel_Vale.X64.Instruction_s.instr_operands_t.fuel_instrumented",
         "equation_with_fuel_Vale.X64.Instruction_s.instr_operands_t_args.fuel_instrumented",
         "equation_with_fuel_Vale.X64.Instruction_s.instr_ret_t.fuel_instrumented",
+        "equation_with_fuel_Vale.X64.Lemmas.code_modifies_ghost.fuel_instrumented",
         "equation_with_fuel_Vale.X64.Machine_Semantics_s.instr_apply_eval_args.fuel_instrumented",
         "equation_with_fuel_Vale.X64.Machine_Semantics_s.instr_apply_eval_inouts.fuel_instrumented",
         "equation_with_fuel_Vale.X64.Machine_Semantics_s.instr_write_outputs.fuel_instrumented",
@@ -4005,6 +4007,7 @@
         "typing_Vale.X64.Instruction_s.instr_out",
         "typing_Vale.X64.Instruction_s.instr_ret_t",
         "typing_Vale.X64.Instructions_s.ins_Sub64",
+        "typing_Vale.X64.Lemmas.code_modifies_ghost",
         "typing_Vale.X64.Machine_Semantics_s.__proj__Mkmachine_state__item__ms_heap",
         "typing_Vale.X64.Machine_Semantics_s.__proj__Mkmachine_state__item__ms_regs",
         "typing_Vale.X64.Machine_Semantics_s.eval_instr",
@@ -4441,7 +4444,7 @@
         "unit_typing"
       ],
       0,
-      "951c3db6df14a4c448b9136b4be3c81f"
+      "3265f0fba0aab216e8865f194d82b0eb"
     ],
     [
       "Vale.X64.InsBasic.va_wpProof_Sub64Wrap",
@@ -4863,7 +4866,7 @@
         "unit_typing"
       ],
       0,
-      "cd07e4bea03932532a15b90458fc83c9"
+      "fb1ba603475b4cb65d2b8f0a2c4a13a0"
     ],
     [
       "Vale.X64.InsBasic.va_wp_Sbb64",

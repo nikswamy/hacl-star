@@ -119,16 +119,13 @@
       0,
       0,
       [
-        "@MaxIFuel_assumption", "@query", "equation_Prims.nat",
-        "equation_Spec.Poly1305.size_block",
-        "equation_Spec.Poly1305.size_key",
+        "@MaxIFuel_assumption", "@query", "equation_Spec.Poly1305.size_key",
         "projection_inverse_BoxInt_proj_0",
-        "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2",
         "refinement_interpretation_Tm_refine_c8dd98bb91cb1ba6963e5299b3babaa4",
-        "typing_Spec.Poly1305.size_block", "typing_Spec.Poly1305.size_key"
+        "typing_Spec.Poly1305.size_key"
       ],
       0,
-      "12a5729b5d1b00ecb209eeefa237fef4"
+      "c4b98b61062f2f57e81c10b5b345d072"
     ],
     [
       "Spec.Poly1305.encode",
@@ -166,19 +163,24 @@
       [
         "@MaxIFuel_assumption",
         "@fuel_correspondence_Prims.pow2.fuel_instrumented", "@query",
+        "equality_tok_Lib.IntTypes.SEC@tok",
+        "equality_tok_Lib.IntTypes.U8@tok", "equation_Lib.IntTypes.int_t",
         "equation_Lib.Sequence.length", "equation_Lib.Sequence.lseq",
-        "equation_Prims.nat", "equation_Spec.Poly1305.size_block",
-        "equation_Spec.Poly1305.size_key", "primitive_Prims.op_Modulus",
-        "primitive_Prims.op_Multiply", "projection_inverse_BoxInt_proj_0",
+        "equation_Prims.nat", "equation_Prims.nonzero", "equation_Prims.pos",
+        "equation_Spec.Poly1305.size_block",
+        "equation_Spec.Poly1305.size_key", "int_inversion", "int_typing",
+        "primitive_Prims.op_Modulus", "primitive_Prims.op_Multiply",
+        "projection_inverse_BoxInt_proj_0",
+        "refinement_interpretation_Tm_refine_0766302b68bb44ab7aff8c4d8be0b46f",
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2",
         "refinement_interpretation_Tm_refine_55f848066cd5ee4e0810122d2ff9c6c2",
-        "refinement_interpretation_Tm_refine_5726018248762f1a50e71a8485d6d48d",
+        "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5",
         "refinement_interpretation_Tm_refine_c8dd98bb91cb1ba6963e5299b3babaa4",
         "refinement_interpretation_Tm_refine_e7afb0c3f805456aee51e8f58914802e",
-        "typing_Spec.Poly1305.size_block", "typing_Spec.Poly1305.size_key"
+        "typing_Prims.pow2", "typing_Spec.Poly1305.size_key"
       ],
       0,
-      "17407d2d1c0b5ba92e164f98fdb54b09"
+      "0ec45f63c5cb895ecd92754dfa6894d5"
     ],
     [
       "Spec.Poly1305.poly1305_update_last",

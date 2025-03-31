@@ -19,7 +19,7 @@
         "token_correspondence_Prims.pow2.fuel_instrumented"
       ],
       0,
-      "4900ac02bb71c0aa8b7ba0310b68b152"
+      "6be8c9c4013a609ccd0ee4b7ae952d7f"
     ],
     [
       "Hacl.Chacha20.Vec32.chacha20_core_32",
@@ -40,7 +40,7 @@
         "token_correspondence_Prims.pow2.fuel_instrumented"
       ],
       0,
-      "f6d523118431546ac48bbc286d5d2f40"
+      "fb18bdde79f38a90354d243fef71836c"
     ],
     [
       "Hacl.Chacha20.Vec32.chacha20_init_32",
@@ -60,7 +60,7 @@
         "token_correspondence_Prims.pow2.fuel_instrumented"
       ],
       0,
-      "84d28ae556e15353632c5a700ab0d375"
+      "0bdea233869dae1ae2e362f2660c5567"
     ],
     [
       "Hacl.Chacha20.Vec32.chacha20_encrypt_32",
@@ -80,7 +80,7 @@
         "token_correspondence_Prims.pow2.fuel_instrumented"
       ],
       0,
-      "f0fa7ee95bb354ff43f64cc78433294f"
+      "5cf5a93fa1addcce8a5e54305a283350"
     ],
     [
       "Hacl.Chacha20.Vec32.chacha20_decrypt_32",
@@ -100,7 +100,7 @@
         "token_correspondence_Prims.pow2.fuel_instrumented"
       ],
       0,
-      "97ff55b31e5115fabe9ad0eacdad9b33"
+      "c7117d801434555e5106bbad4f9a37c6"
     ]
   ]
 ]

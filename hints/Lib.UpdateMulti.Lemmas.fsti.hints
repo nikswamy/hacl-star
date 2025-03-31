@@ -10,13 +10,13 @@
         "@MaxIFuel_assumption", "@query",
         "assumption_FStar.Pervasives.Native.tuple2__uu___haseq",
         "equation_Prims.eqtype", "equation_Prims.nat",
-        "function_token_typing_Prims.int",
         "haseqTm_refine_542f9d4f129664613f2483a6c88bc7c2",
         "refinement_interpretation_Tm_refine_9d6af3f3535473623f7aec2f0501897f",
-        "refinement_kinding_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
+        "refinement_kinding_Tm_refine_542f9d4f129664613f2483a6c88bc7c2",
+        "typing_Prims.int"
       ],
       0,
-      "214c8ec5ed9cb6848436e87e9fe8c778"
+      "60cddabee906a134a52017f3710bf66b"
     ],
     [
       "Lib.UpdateMulti.Lemmas.split_at_last_lazy_spec",

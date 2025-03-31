@@ -304,15 +304,15 @@
         "@fuel_correspondence_Prims.pow2.fuel_instrumented", "@query",
         "constructor_distinct_Lib.IntTypes.U32",
         "equation_Lib.IntTypes.minint", "equation_Lib.IntTypes.unsigned",
-        "equation_Prims.nat", "equation_Prims.pos",
-        "equation_Spec.Chacha20.size_key", "lemma_FStar.UInt.pow2_values",
-        "primitive_Prims.op_Subtraction", "projection_inverse_BoxInt_proj_0",
+        "equation_Prims.nat", "equation_Prims.pos", "int_typing",
+        "lemma_FStar.Int.pow2_values", "primitive_Prims.op_Subtraction",
+        "projection_inverse_BoxInt_proj_0",
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2",
         "refinement_interpretation_Tm_refine_774ba3f728d91ead8ef40be66c9802e5",
-        "typing_Prims.pow2", "typing_Spec.Chacha20.size_key"
+        "typing_Prims.pow2"
       ],
       0,
-      "a8c445355f5e3b13e9b803b75c44fe34"
+      "9d8063aaedb0e3ffb631ad2796adb1ea"
     ],
     [
       "Spec.Chacha20.xor_block",
@@ -324,15 +324,14 @@
         "@fuel_correspondence_Prims.pow2.fuel_instrumented", "@query",
         "constructor_distinct_Lib.IntTypes.U32",
         "disc_equation_Lib.IntTypes.U1", "equality_tok_Lib.IntTypes.U32@tok",
-        "equation_Prims.nat", "equation_Spec.Chacha20.size_key",
-        "lemma_FStar.UInt.pow2_values", "primitive_Prims.op_Subtraction",
+        "equation_Prims.nat", "int_typing", "lemma_FStar.Int.pow2_values",
+        "primitive_Prims.op_Subtraction",
         "projection_inverse_BoxBool_proj_0",
         "projection_inverse_BoxInt_proj_0",
-        "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2",
-        "typing_Spec.Chacha20.size_key"
+        "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "99de83cabf39a87f3ee666ad606375a4"
+      "7071dd1811227343b97fa88d4869dcf3"
     ],
     [
       "Spec.Chacha20.chacha20_encrypt_last",
@@ -343,14 +342,15 @@
         "@MaxFuel_assumption", "@MaxIFuel_assumption",
         "@fuel_correspondence_Prims.pow2.fuel_instrumented", "@query",
         "constructor_distinct_Lib.IntTypes.U8",
+        "equality_tok_Lib.IntTypes.SEC@tok",
         "equality_tok_Lib.IntTypes.U8@tok", "equation_Lib.IntTypes.bits",
-        "equation_Lib.IntTypes.maxint", "equation_Lib.IntTypes.minint",
-        "equation_Lib.IntTypes.range", "equation_Lib.IntTypes.unsigned",
-        "equation_Lib.Sequence.length", "equation_Lib.Sequence.lseq",
-        "equation_Lib.Sequence.to_seq", "equation_Prims.nat",
-        "equation_Prims.pos", "equation_Spec.Chacha20.size_block",
-        "equation_Spec.Chacha20.size_key", "int_inversion",
-        "lemma_FStar.UInt.pow2_values", "primitive_Prims.op_Addition",
+        "equation_Lib.IntTypes.int_t", "equation_Lib.IntTypes.maxint",
+        "equation_Lib.IntTypes.minint", "equation_Lib.IntTypes.range",
+        "equation_Lib.IntTypes.unsigned", "equation_Lib.Sequence.length",
+        "equation_Lib.Sequence.lseq", "equation_Lib.Sequence.to_seq",
+        "equation_Prims.nat", "equation_Prims.pos",
+        "equation_Spec.Chacha20.size_block", "int_inversion", "int_typing",
+        "lemma_FStar.Int.pow2_values", "primitive_Prims.op_Addition",
         "primitive_Prims.op_Subtraction", "projection_inverse_BoxInt_proj_0",
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2",
         "refinement_interpretation_Tm_refine_55f848066cd5ee4e0810122d2ff9c6c2",
@@ -359,10 +359,10 @@
         "refinement_interpretation_Tm_refine_9eae98f20b00a3b6363f9d8ffecf3797",
         "refinement_interpretation_Tm_refine_c66e4e4246022e06deba29b89ed40989",
         "typing_Lib.IntTypes.bits", "typing_Prims.pow2",
-        "typing_Spec.Chacha20.size_key", "typing_tok_Lib.IntTypes.U8@tok"
+        "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "199b796ee9261eb2b155be0777f6ce74"
+      "a020e17e4e78d5237beff8e6cee8c16b"
     ],
     [
       "Spec.Chacha20.chacha20_update",
@@ -385,14 +385,13 @@
         "@MaxFuel_assumption", "@MaxIFuel_assumption",
         "@fuel_correspondence_Prims.pow2.fuel_instrumented", "@query",
         "equation_Prims.nat", "equation_Spec.Chacha20.size_block",
-        "equation_Spec.Chacha20.size_key", "lemma_FStar.UInt.pow2_values",
+        "int_typing", "lemma_FStar.Int.pow2_values",
         "primitive_Prims.op_Subtraction", "projection_inverse_BoxInt_proj_0",
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2",
-        "refinement_interpretation_Tm_refine_6351ef8449b8c1189b409c79b3192d82",
-        "typing_Spec.Chacha20.size_key"
+        "refinement_interpretation_Tm_refine_6351ef8449b8c1189b409c79b3192d82"
       ],
       0,
-      "26bcea00303a799bfd4f7d5d4a84a7ad"
+      "b6f86c0835c9c848f5d0999fd36a4252"
     ],
     [
       "Spec.Chacha20.chacha20_update",

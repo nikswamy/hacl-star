@@ -1466,7 +1466,7 @@
         "typing_tok_Lib.IntTypes.PUB@tok", "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "cb7c6bfe8f6f4e4e275cb944a8a692d0"
+      "a9efd395e0e204ea27774c09ecb4882c"
     ],
     [
       "Hacl.Impl.Frodo.KEM.Decaps.crypto_kem_dec_kp_s_cond",

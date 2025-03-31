@@ -69,7 +69,8 @@ val secretbox_detached_cipher:
   (ensures  fun h0 _ h1 -> modifies (loc c) h0 h1 /\
     (let (tag, cipher) = Spec.secretbox_detached (as_seq h0 k) (as_seq h0 n) (as_seq h0 m) in
      as_seq h1 c == cipher))
-
+#restart-solver
+#push-options "--z3rlimit_factor 2"
 let secretbox_detached_cipher mlen c k xkeys n m =
   let h0 = ST.get () in
   push_frame ();
@@ -103,7 +104,7 @@ let secretbox_detached_cipher mlen c k xkeys n m =
     let (tag, cipher) = Spec.secretbox_detached (as_seq h0 k) (as_seq h0 n) (as_seq h0 m) in
     as_seq h3 c == cipher);
   pop_frame ()
-
+#pop-options
 
 val secretbox_detached:
     mlen:size_t

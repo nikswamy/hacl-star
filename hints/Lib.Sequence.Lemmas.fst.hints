@@ -4,18 +4,19 @@
     [
       "Lib.Sequence.Lemmas.get_block_s",
       1,
-      4,
       2,
+      1,
       [
         "@MaxFuel_assumption", "@MaxIFuel_assumption",
         "@fuel_correspondence_Prims.pow2.fuel_instrumented",
         "@fuel_irrelevance_Prims.pow2.fuel_instrumented", "@query",
         "equation_Lib.Sequence.length", "equation_Lib.Sequence.seq",
         "equation_Prims.nat", "equation_Prims.pos", "int_inversion",
-        "int_typing", "lemma_FStar.Seq.Base.lemma_len_slice",
-        "lemma_FStar.UInt.pow2_values", "primitive_Prims.op_Addition",
-        "primitive_Prims.op_Division", "primitive_Prims.op_LessThanOrEqual",
-        "primitive_Prims.op_Multiply", "primitive_Prims.op_Subtraction",
+        "int_typing", "lemma_FStar.Int.pow2_values",
+        "lemma_FStar.Seq.Base.lemma_len_slice",
+        "primitive_Prims.op_Addition", "primitive_Prims.op_Division",
+        "primitive_Prims.op_LessThanOrEqual", "primitive_Prims.op_Multiply",
+        "primitive_Prims.op_Subtraction",
         "projection_inverse_BoxBool_proj_0",
         "projection_inverse_BoxInt_proj_0",
         "refinement_interpretation_Tm_refine_1c393885d839a909f672de99b0bdcf0c",
@@ -28,7 +29,7 @@
         "typing_FStar.Seq.Base.length"
       ],
       0,
-      "262533fd2659be88fb92bb42ece72357"
+      "0302b6a385a1b76a467d34d11f22307a"
     ],
     [
       "Lib.Sequence.Lemmas.get_block_s",
@@ -577,8 +578,7 @@
       0,
       0,
       [
-        "@MaxIFuel_assumption",
-        "@fuel_correspondence_Prims.pow2.fuel_instrumented", "@query",
+        "@MaxIFuel_assumption", "@query",
         "equation_Lib.Sequence.Lemmas.repeat_gen_blocks_f",
         "equation_Lib.Sequence.Lemmas.repeat_gen_blocks_multi",
         "equation_Lib.Sequence.length", "equation_Lib.Sequence.lseq",
@@ -600,10 +600,10 @@
         "refinement_interpretation_Tm_refine_ba24c249c2bac9c9652dccf45aee8033",
         "refinement_interpretation_Tm_refine_c1424615841f28cac7fc34e92b7ff33c",
         "refinement_interpretation_Tm_refine_cc9eea57be2af79a1d1a171dcaf4d80a",
-        "typing_FStar.Seq.Base.length", "typing_FStar.Seq.Base.slice"
+        "typing_FStar.Seq.Base.slice"
       ],
       0,
-      "726d527f64b2918c4aa6016bb7822dbd"
+      "5501709ba0a406a9b0cbd41cd523d63d"
     ],
     [
       "Lib.Sequence.Lemmas.repeat_gen_blocks_multi_extensionality_zero",

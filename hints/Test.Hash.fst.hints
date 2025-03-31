@@ -12,7 +12,7 @@
         "lemma_FStar.HyperStack.ST.lemma_same_refs_in_stack_regions_intro"
       ],
       0,
-      "a92b824148007ef6165e31dfc4a67798"
+      "2b8fc64d38bd48ef22226a52dc43711d"
     ],
     [
       "Test.Hash.test_incremental_api",
@@ -239,7 +239,7 @@
         "typing_tok_Spec.Hash.Definitions.SHA2_256@tok", "unit_typing"
       ],
       0,
-      "c7c381c164f3fd17aba250b73b62639f"
+      "4660526993b0d60dbc0876bc4a8012b7"
     ]
   ]
 ]

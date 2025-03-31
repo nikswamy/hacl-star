@@ -363,6 +363,8 @@ val lemma_bound_add_mul64_wide_r_lsh12_add (md:nat) (c:uint128) (d t3:uint64) : 
   (ensures  (let r = c +. mul64_wide (u64 0x1000003D10 <<. 12ul) d +. to_u128 t3 in
     v r = v c + 0x1000003D10 * pow2 12 * v d + v t3 /\ v r < pow2 100))
 
+#restart-solver
+#push-options "--z3rlimit_factor 2"
 let lemma_bound_add_mul64_wide_r_lsh12_add md c d t3 =
   let rs = u64 0x1000003D10 <<. 12ul in
   lemma_r_lsh12 ();
@@ -370,7 +372,8 @@ let lemma_bound_add_mul64_wide_r_lsh12_add md c d t3 =
 
   let r = c +. mul64_wide rs d +. to_u128 t3 in
   lemma_bound_mul64_wide 1 1 (pow2 49) (pow2 50) rs d;
-  assert (v (mul64_wide rs d) = v rs * v d /\ v rs * v d < pow2 49 * pow2 50);
+  assert (v (mul64_wide rs d) = v rs * v d);
+  assert (v rs * v d < pow2 49 * pow2 50);
 
   calc (<) {
     md * max52 + pow2 49 * pow2 50 + max52;
@@ -387,7 +390,7 @@ let lemma_bound_add_mul64_wide_r_lsh12_add md c d t3 =
   Math.Lemmas.pow2_lt_compat 128 100;
   Math.Lemmas.small_mod (v c + v rs * v d) (pow2 128);
   Math.Lemmas.small_mod (v c + v rs * v d + v t3) (pow2 128)
-
+#pop-options
 
 val lemma_u128_div52: md:pos -> a:uint128 -> Lemma
   (requires v a <= md * max52 * max52)

@@ -666,7 +666,7 @@ val precomp_r5_as_tup64:
    tr52 == tr2 *! u64 5 /\
    tr53 == tr3 *! u64 5 /\
    tr54 == tr4 *! u64 5)
-
+#restart-solver
 let precomp_r5_as_tup64 #w r i =
   let r5 = precomp_r5 r in
   let (r50, r51, r52, r53, r54) = r5 in

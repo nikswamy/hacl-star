@@ -93,7 +93,7 @@ val carry26_wide_lemma_i:
   (let (l0, l1) = carry26 #w l cin in
    (uint64xN_v l0).[i] <= max26 /\ (uint64xN_v l1).[i] <= (m + 1) * max26 /\
    (uint64xN_v l).[i] + (uint64xN_v cin).[i] == (uint64xN_v l1).[i] * pow2 26 + (uint64xN_v l0).[i])
-
+#restart-solver
 let carry26_wide_lemma_i #w #m l cin i =
   let l = (vec_v l).[i] in
   let cin = (vec_v cin).[i] in
@@ -170,7 +170,7 @@ val carry26_lemma_i:
   (let (l0, l1) = carry26 #w l cin in
    (uint64xN_v l0).[i] <= max26 /\ (uint64xN_v l1).[i] < m + ml /\
    (uint64xN_v l).[i] + (uint64xN_v cin).[i] == (uint64xN_v l1).[i] * pow2 26 + (uint64xN_v l0).[i])
-
+#restart-solver
 let carry26_lemma_i #w m ml l cin i =
   let l = (vec_v l).[i] in
   let cin = (vec_v cin).[i] in
@@ -788,7 +788,7 @@ val carry_full_felem5_eval_lemma_i1:
    let (t0, t1, t2, t3, t4) = as_tup64_i tmp i in
    let vc4 = (uint64xN_v c4).[i] in
    (feval5 inp).[i] == (v t0 + vc4 * 5 + v t1 * pow26 + v t2 * pow52 + v t3 * pow78 + v t4 * pow104) % prime)
-
+#restart-solver
 let carry_full_felem5_eval_lemma_i1 #w inp i =
   let (i0, i1, i2, i3, i4) = inp in
   let tmp0,c0 = carry26 i0 (zero w) in
@@ -893,7 +893,7 @@ val carry_reduce_lemma_i:
     (uint64xN_v l0).[i] <= max26 /\ (uint64xN_v l1).[i] <= 63 /\
    (uint64xN_v l).[i] + (uint64xN_v cin).[i] ==
      (uint64xN_v l1).[i] * pow2 26 + (uint64xN_v l0).[i]))
-
+#restart-solver
 let carry_reduce_lemma_i #w l cin i =
   let li = (vec_v l).[i] in
   let cini = (vec_v cin).[i] in
@@ -982,7 +982,7 @@ val carry_reduce_felem5_fits_lemma_i:
   -> f:felem5 w{acc_inv_t f}
   -> i:nat{i < w} ->
   Lemma (tup64_fits5 (as_tup64_i (carry_full_felem5 f) i) (1, 1, 1, 1, 1))
-
+#restart-solver
 let carry_reduce_felem5_fits_lemma_i #w f i =
   assert_norm (max26 == pow2 26 - 1);
   let (f0, f1, f2, f3, f4) = f in

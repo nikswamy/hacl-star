@@ -1827,7 +1827,7 @@
         "typing_tok_Lib.IntTypes.U32@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "cac5af7b313a5580518c788282aa2c34"
+      "86e12116c0af88d3085069de1b0d9437"
     ],
     [
       "Hacl.Impl.Frodo.KEM.Encaps.get_sp_ep_epp_matrices",

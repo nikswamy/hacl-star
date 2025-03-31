@@ -477,7 +477,8 @@ let load_last4 #a #m totlen_buf len b fin last =
 
 inline_for_extraction noextract
 val load_last8: #a:sha2_alg -> #m:m_spec{lanes a m = 8} -> load_last_t a m
-#push-options "--z3rlimit 600"
+#push-options "--z3rlimit 1200 --retry 2"
+#restart-solver
 let load_last8 #a #m totlen_buf len b fin last =
   let h0 = ST.get() in
   let (b0,(b1,(b2,(b3,(b4,(b5,(b6,b7))))))) = NTup.tup8 b in

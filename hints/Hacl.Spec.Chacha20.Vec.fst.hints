@@ -401,7 +401,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "30ae453c0ec25fd6c5c50d5debc835bd"
+      "e1bd5dac1d71805f154e8ef8bf45b25d"
     ],
     [
       "Hacl.Spec.Chacha20.Vec.transpose4",
@@ -435,7 +435,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "6e98dabc4057eb113c5c259a78445964"
+      "38fdf85139a91d3c0cbed49ee5f87097"
     ],
     [
       "Hacl.Spec.Chacha20.Vec.transpose8",
@@ -517,7 +517,7 @@
         "refinement_interpretation_Tm_refine_542f9d4f129664613f2483a6c88bc7c2"
       ],
       0,
-      "098d2351f85ceff2edb3192cffe5c977"
+      "bbb47219135c11c305225a5987c8b930"
     ],
     [
       "Hacl.Spec.Chacha20.Vec.xor_block",
@@ -542,7 +542,7 @@
         "refinement_interpretation_Tm_refine_55f848066cd5ee4e0810122d2ff9c6c2"
       ],
       0,
-      "a907955f2f8bc4951803c9743e130ff3"
+      "ac1ea742484f85bf2bb72238490db6e8"
     ],
     [
       "Hacl.Spec.Chacha20.Vec.chacha20_encrypt_block",
@@ -587,7 +587,7 @@
         "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "fe9c15335b6394c1dfcb07b8054778ac"
+      "bf898652b4bc6f859f29d506b7d05a1f"
     ],
     [
       "Hacl.Spec.Chacha20.Vec.chacha20_update",
@@ -612,7 +612,7 @@
         "refinement_interpretation_Tm_refine_9343b0c4d6c02093eb9f55c6ef4a33ab"
       ],
       0,
-      "8bcd9b0a434fa3cd905abcdad75f0ffe"
+      "15fd1adbb8ad1b551063ac87cc73b038"
     ],
     [
       "Hacl.Spec.Chacha20.Vec.chacha20_decrypt_bytes",

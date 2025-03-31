@@ -1900,7 +1900,7 @@
         "typing_tok_Lib.IntTypes.SEC@tok", "typing_tok_Lib.IntTypes.U8@tok"
       ],
       0,
-      "5196e5f295c1661a1e93c0b462b9c532"
+      "a1daf7a3e5d249a7d09c70d9b4836134"
     ],
     [
       "Hacl.Spec.SHA3.Vec.absorb_inner_block",

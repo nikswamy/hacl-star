@@ -1377,7 +1377,7 @@
         "typing_tok_Lib.IntTypes.U64@tok"
       ],
       0,
-      "afa406d17faedf44006f5c5b4bd055b0"
+      "6a6310e48768db636e8b3527cd8ff190"
     ],
     [
       "Hacl.Impl.Frodo.Encode.frodo_key_decode2",
@@ -1580,7 +1580,7 @@
         "typing_tok_Lib.IntTypes.U32@tok"
       ],
       0,
-      "20c24b94d3d1a5a86dc237e7c7d181a5"
+      "c662616fb89e4fe72000b47bbca59c7f"
     ]
   ]
 ]
